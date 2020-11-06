@@ -13,7 +13,7 @@ name                     : &name "Murat Kocaoglu"
 description              : &description "personal description"
 url                      : https://mkocaoglu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "mkocaoglu.github.com"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Murat Kocaoglu"
   avatar           : "headshot2020.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research Staff Member at the MIT-IBM Watson AI Lab. Incoming Asst. Prof. at Purdue ECE."
   location         : "Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
