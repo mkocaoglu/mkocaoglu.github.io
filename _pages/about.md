@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**This website is under construction. Please go to [www.muratkocaoglu.com](www.muratkocaoglu.com) for the current website.**
+**This website is under construction. Please go to [here](http://www.muratkocaoglu.com) for the current website.**
 
 Short Bio
 ======
