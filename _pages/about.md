@@ -20,15 +20,15 @@ You can find my CV [here](https://drive.google.com/open?id=1zTGZTtkZkIhgPROR8AKT
 
 News
 ======
-<p><span style="color:red">New!</span></p> I will be starting as an assistant professor at Purdue University in the ECE department in January 2021 and will be looking for motivated Ph.D. students to work on fundamental problems in causal inference with machine learning applications starting Fall 2021. Please apply [here](https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html), mention my name in your application package and email me your resume.
+<span style="color:red"> New! </span> I will be starting as an assistant professor at Purdue University in the ECE department in January 2021 and will be looking for motivated Ph.D. students to work on fundamental problems in causal inference with machine learning applications starting Fall 2021. Please apply [here](https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html), mention my name in your application package and email me your resume.
 
-New! Our paper titled "Applications of Common Entropy for Causal Inference" is accepted at NeurIPS'20, available [here](https://papers.nips.cc/paper/2020/hash/cae7115f44837c806c9b23ed00a1a28a-Abstract.html).
+<span style="color:red"> New! </span> Our paper titled "Applications of Common Entropy for Causal Inference" is accepted at NeurIPS'20, available [here](https://papers.nips.cc/paper/2020/hash/cae7115f44837c806c9b23ed00a1a28a-Abstract.html).
 
-New! Our paper titled "Causal Discovery from Soft Interventions with Unknown Targets: Characterization and Learning" is accepted at NeurIPS'20, available [here](https://papers.nips.cc/paper/2020/hash/6cd9313ed34ef58bad3fdd504355e72c-Abstract.html).
+<span style="color:red"> New! </span> Our paper titled "Causal Discovery from Soft Interventions with Unknown Targets: Characterization and Learning" is accepted at NeurIPS'20, available [here](https://papers.nips.cc/paper/2020/hash/6cd9313ed34ef58bad3fdd504355e72c-Abstract.html).
 
-New! Our paper titled "Entropic Causal Inference: Identifiability and Finite Sample Results" is accepted at NeurIPS'20, available [here](https://papers.nips.cc/paper/2020/hash/a979ca2444b34449a2c80b012749e9cd-Abstract.html).
+<span style="color:red"> New! </span> Our paper titled "Entropic Causal Inference: Identifiability and Finite Sample Results" is accepted at NeurIPS'20, available [here](https://papers.nips.cc/paper/2020/hash/a979ca2444b34449a2c80b012749e9cd-Abstract.html).
 
-New! Our paper titled "Active Structure Learning of Causal DAGs via Directed Clique Trees" is accepted at NeurIPS'20, available [here](https://papers.nips.cc/paper/2020/hash/f57bd0a58e953e5c43cd4a4e5af46138-Abstract.html).
+<span style="color:red"> New! </span> Our paper titled "Active Structure Learning of Causal DAGs via Directed Clique Trees" is accepted at NeurIPS'20, available [here](https://papers.nips.cc/paper/2020/hash/f57bd0a58e953e5c43cd4a4e5af46138-Abstract.html).
 
 Our paper titled “Characterization and Learning of Causal Graphs with Latent Variables from Soft Interventions” is accepted at NeurIPS’19 available [here](https://causalai.net/r47.pdf).
 
