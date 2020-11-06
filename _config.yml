@@ -83,7 +83,7 @@ author:
   name             : "Murat Kocaoglu"
   avatar           : "headshot2020.JPG"
   bio              : "Research Staff Member at the MIT-IBM Watson AI Lab. Incoming Asst. Prof. at Purdue ECE."
-  location         : "Location"
+  location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7N7bzdwAAAAJ&hl=en"
