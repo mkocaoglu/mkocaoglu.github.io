@@ -250,6 +250,11 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+header: yes
+header_sm: images/banner-large.jpg
+header_med: images/banner-large.jpg
+header_large: images/banner-large.jpg
+header_xl: images/banner-large.jpg
 
 # Outputting
 permalink: /:categories/:title/
