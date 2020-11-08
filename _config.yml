@@ -4,6 +4,11 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
+header: yes
+header_sm: banner-large.jpg
+header_med: banner-large.jpg
+header_large: banner-large.jpg
+header_xl: banner-large.jpg
 
 # Site Settings
 locale                   : "en-US"
@@ -250,11 +255,7 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-header: yes
-header_sm: images/banner-large.jpg
-header_med: images/banner-large.jpg
-header_large: images/banner-large.jpg
-header_xl: images/banner-large.jpg
+
 
 # Outputting
 permalink: /:categories/:title/
