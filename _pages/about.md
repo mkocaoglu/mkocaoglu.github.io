@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<img src='banner-large.jpg' height="10px">
+
 **This website is under construction. Please go to [here](http://www.muratkocaoglu.com) for the current website.**
 
 Short Bio
