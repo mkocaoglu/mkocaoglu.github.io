@@ -9,7 +9,7 @@
 #header_med: banner-large.jpg
 #header_large: banner-large.jpg
 #header_xl: banner-large.jpg
-header_image: "banner-large.jpg"
+#header_image: "banner-large.jpg"
 
 # Site Settings
 locale                   : "en-US"
