@@ -5,11 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
+#Publications
 
-Machine Learning
-M. Kocaoglu, S. Shakkottai, A. G. Dimakis, C. Caramanis, S. Vishwanath, “Entropic Causal Inference with Latent Variables,” preprint, 2019.
-M. Kocaoglu*, A. Jaber*, K. Shanmugam*, E. Bareinboim, “Characterization and Learning of Causal Graphs with Latent Variables from Soft Interventions,” in Proc. of NeurIPS 2019, Vancouver, Canada, Dec. 2019. 
+##Machine Learning
+
+1. M. Kocaoglu, S. Shakkottai, A. G. Dimakis, C. Caramanis, S. Vishwanath, “Entropic Causal Inference with Latent Variables,” preprint, 2019.
+2. M. Kocaoglu*, A. Jaber*, K. Shanmugam*, E. Bareinboim, “Characterization and Learning of Causal Graphs with Latent Variables from Soft Interventions,” in Proc. of NeurIPS 2019, Vancouver, Canada, Dec. 2019. 
 K. Greenewald, D. Katz, K. Shanmugam, S. Magliacane, M. Kocaoglu, E. B. Adsera, G. Bresler, “Sample Efficient Active Learning of Causal Trees,” in Proc. of NeurIPS 2019, Vancouver, Canada, Dec. 2019. 
 E. Lindgren, M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "Experimental Design for Cost-Aware Learning of Causal Graphs" in Proc. of NeurIPS 2018, Montreal, Canada, Dec. 2018.
 M. Kocaoglu*, C. Snyder*, A. G. Dimakis, S. Vishwanath, "CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training," Proc. of ICLR 2018, Vancouver, Canada,  May 2018.
@@ -23,7 +24,7 @@ M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "Learning Causal Graphs with Constrai
 K. Shanmugam, M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "Learning Causal Graphs with Small Interventions," in NeurIPS 2015, Montreal, Canada, Dec. 2015.
 M. Kocaoglu*, K. Shanmugam*, A. G. Dimakis, A. Klivans, "Sparse Polynomial Learning and Graph Sketching," in NeurIPS 2014 (Oral), Montreal, Canada, Dec. 2014.
 
-Communications
+##Communications
 
 Journals
 M. Kocaoglu, O. B. Akan, "Energy Minimization with Network Coding," to appear in IEEE Systems Journal, Special Issue on Green Communications, Computing and Systems, 2015.
