@@ -28,3 +28,5 @@ images:
     <img src="{{ image.image_path }}" alt="{{ image.title}}" width="{{ image.width}}"/>
   {% endfor %}
 </p>
+
+For more, please check out my [page](https://www.deviantart.com/mkocaoglu). 
