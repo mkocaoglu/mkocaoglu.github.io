@@ -25,8 +25,7 @@ images:
 
 <p float="left">
     {% for image in page.images %}
-    <img src="{{ image.image_path }}" alt="{{ image.title}}" width="{{ image.width}}"/>
-    style="padding-left: 10px; padding-right: 10px; padding-bottom: 20px; padding-top: 10px;"
+    <img style="padding-left: 10px; padding-right: 10px; padding-bottom: 20px; padding-top: 10px;" src="{{ image.image_path }}" alt="{{ image.title}}" width="{{ image.width}}"/>
   {% endfor %}
 </p>
 
