@@ -21,6 +21,6 @@ images:
 
 <p float="left">
     {% for image in page.images %}
-    <img src="{{ image.image_path }}" alt="{{ image.title}}" height="300"/>
+    <img src="{{ image.image_path }}" alt="{{ image.title}}" height="100"/>
   {% endfor %}
 </p>
