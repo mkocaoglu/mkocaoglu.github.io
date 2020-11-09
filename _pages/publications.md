@@ -14,13 +14,13 @@ author_profile: true
 
 14. C. Squires, S. Magliacane, K. Greenewald, D. Katz, M. Kocaoglu, K. Shanmugam, "Active Structure Learning of Causal DAGs via Directed Clique Trees," in Proc. of NeurIPS'20, Online, Dec. 2020.
 
-13. M. Kocaoglu\*, A. Jaber\*, K. Shanmugam*, E. Bareinboim, “Characterization and Learning of Causal Graphs with Latent Variables from Soft Interventions,” in Proc. of NeurIPS 2019, Vancouver, Canada, Dec. 2019. 
+13. M. Kocaoglu\*, A. Jaber\*, K. Shanmugam\*, E. Bareinboim, “Characterization and Learning of Causal Graphs with Latent Variables from Soft Interventions,” in Proc. of NeurIPS 2019, Vancouver, Canada, Dec. 2019. 
 
 12. K. Greenewald, D. Katz, K. Shanmugam, S. Magliacane, M. Kocaoglu, E. B. Adsera, G. Bresler, “Sample Efficient Active Learning of Causal Trees,” in Proc. of NeurIPS 2019, Vancouver, Canada, Dec. 2019. 
 
 11. E. Lindgren, M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "Experimental Design for Cost-Aware Learning of Causal Graphs" in Proc. of NeurIPS 2018, Montreal, Canada, Dec. 2018.
 
-10. M. Kocaoglu*, C. Snyder*, A. G. Dimakis, S. Vishwanath, "CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training," in Proc. of ICLR 2018, Vancouver, Canada,  May 2018.
+10. M. Kocaoglu\*, C. Snyder\*, A. G. Dimakis, S. Vishwanath, "CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training," in Proc. of ICLR 2018, Vancouver, Canada,  May 2018.
 
 9. M. Kocaoglu, K. Shanmugam, E. Bareinboim, "Experimental Design for Learning Causal Graphs with Latent Variables," in Proc. of NeurIPS 2017, 2017.
 
