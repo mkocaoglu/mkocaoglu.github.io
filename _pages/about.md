@@ -12,15 +12,9 @@ redirect_from:
 
 **This website is under construction. Please go to [here](http://www.muratkocaoglu.com) for the current website.**
 
-Short Bio
-======
-I received my B.S. degree in Electrical - Electronics Engineering with a minor degree in Physics from the Middle East Technical University in 2010, and M.S. degree from the Koc University, Turkey in 2012 under the supervision of Prof. Ozgur B. Akan and Ph.D. degree from The University of Texas at Austin in 2018 under the supervision of Prof. Alex Dimakis and Prof. Sriram Vishwanath. I am currently a Research Staff Member in the MIT-IBM Watson AI Lab in IBM Research, Cambridge, Massachusetts. My current research interests include causal inference, generative adversarial networks, and information theory.
-
 Research
 ======
 My current research focuses on machine learning in general and causal inference and learning algorithms from data in particular. Specifically, I have been developing algorithms for learning causal graphs from observational and experimental data using tools from information theory and graph theory. 
-
-You can find my CV [here](https://drive.google.com/open?id=1zTGZTtkZkIhgPROR8AKT8_FDJ-_EEPYn).
 
 News
 ======
