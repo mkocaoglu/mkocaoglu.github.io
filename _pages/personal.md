@@ -10,7 +10,7 @@ images:
   
 - image_path: /images/feeling_loved_by_mkocaoglu-d811qia.jpg
   title: Feeling Loved
-  width: 580
+  width: 570
   
 - image_path: /images/half_by_mkocaoglu-d9bf786.jpg
   title: Half
@@ -26,7 +26,7 @@ images:
 <p float="left">
     {% for image in page.images %}
     <img src="{{ image.image_path }}" alt="{{ image.title}}" width="{{ image.width}}"/>
-    style="padding-left: 10px;padding-right: 10px; padding-bottom: 20px;"
+    style="padding-left: 10px;padding-right: 10px; padding-bottom: 20px;padding-top: 0px;"
   {% endfor %}
 </p>
 
