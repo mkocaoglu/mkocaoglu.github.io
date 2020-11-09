@@ -10,15 +10,15 @@ images:
   
 - image_path: /images/feeling_loved_by_mkocaoglu-d811qia.jpg
   title: Feeling Loved
-  width: 400
+  width: 600
   
 - image_path: /images/half_by_mkocaoglu-d9bf786.jpg
   title: Half
-  width: 300
+  width: 700
   
 - image_path: /images/horizon_by_mkocaoglu-d8o6t05.jpg
   title: Horizon
-  width: 600
+  width: 700
 ---
 
 {% include base_path %}
