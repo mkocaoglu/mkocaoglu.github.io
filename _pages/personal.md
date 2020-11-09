@@ -4,16 +4,16 @@ title: "Personal"
 permalink: /personal/
 author_profile: true
 images:
-- image_path: /images/the_stare_by_mkocaoglu_d2t319i.jpg
+- image_path: /images/the_stare_by_mkocaoglu-d2t319i.jpg
   title: The Stare
   
-- image_path: /images/feeling_loved_by_mkocaoglu_d811qia.jpg
+- image_path: /images/feeling_loved_by_mkocaoglu-d811qia.jpg
   title: Feeling Loved
   
-- image_path: /images/half_by_mkocaoglu_d9bf786.jpg
+- image_path: /images/half_by_mkocaoglu-d9bf786.jpg
   title: Half
   
-- image_path: /images/horizon_by_mkocaoglu_d8o6t05.jpg
+- image_path: /images/horizon_by_mkocaoglu-d8o6t05.jpg
   title: Horizon
 ---
 
