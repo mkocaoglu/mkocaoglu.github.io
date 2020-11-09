@@ -270,6 +270,9 @@ defaults:
       type: personal
     values:
       layout: single
+      images:
+      - image_path: /images/the_stare_by_mkocaoglu_d2t319i.jpg
+        title: The Stare
       author_profile: true
       share: true
 # Sass/SCSS
