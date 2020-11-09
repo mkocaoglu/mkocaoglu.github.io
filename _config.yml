@@ -200,6 +200,15 @@ collections:
 
 # Defaults
 defaults:
+  # _about
+  - scope:
+      path: ""
+      type: about
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _posts
   - scope:
       path: ""
