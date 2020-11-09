@@ -14,19 +14,31 @@ author_profile: true
 
 14. C. Squires, S. Magliacane, K. Greenewald, D. Katz, M. Kocaoglu, K. Shanmugam, "Active Structure Learning of Causal DAGs via Directed Clique Trees," in Proc. of NeurIPS'20, Online, Dec. 2020.
 
-13. M. Kocaoglu*, A. Jaber*, K. Shanmugam*, E. Bareinboim, “Characterization and Learning of Causal Graphs with Latent Variables from Soft Interventions,” in Proc. of NeurIPS 2019, Vancouver, Canada, Dec. 2019. 
+13. M. Kocaoglu\*, A. Jaber\*, K. Shanmugam*, E. Bareinboim, “Characterization and Learning of Causal Graphs with Latent Variables from Soft Interventions,” in Proc. of NeurIPS 2019, Vancouver, Canada, Dec. 2019. 
+
 12. K. Greenewald, D. Katz, K. Shanmugam, S. Magliacane, M. Kocaoglu, E. B. Adsera, G. Bresler, “Sample Efficient Active Learning of Causal Trees,” in Proc. of NeurIPS 2019, Vancouver, Canada, Dec. 2019. 
+
 11. E. Lindgren, M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "Experimental Design for Cost-Aware Learning of Causal Graphs" in Proc. of NeurIPS 2018, Montreal, Canada, Dec. 2018.
-10. M. Kocaoglu*, C. Snyder*, A. G. Dimakis, S. Vishwanath, "CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training," Proc. of ICLR 2018, Vancouver, Canada,  May 2018.
-9. M. Kocaoglu, K. Shanmugam, E. Bareinboim, "Experimental Design for Learning Causal Graphs with Latent Variables," Proc. of NeurIPS 2017, 2017.
-8. M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "Cost-Optimal Learning of Causal Graphs," Proc. of ICML'17, 2017.
-7. M. Kocaoglu, A. G. Dimakis, S. Vishwanath, B. Hassibi, "Entropic Causality and Greedy Minimum Entropy Coupling," Proc. of  ISIT'17, 2017.
+
+10. M. Kocaoglu*, C. Snyder*, A. G. Dimakis, S. Vishwanath, "CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training," in Proc. of ICLR 2018, Vancouver, Canada,  May 2018.
+
+9. M. Kocaoglu, K. Shanmugam, E. Bareinboim, "Experimental Design for Learning Causal Graphs with Latent Variables," in Proc. of NeurIPS 2017, 2017.
+
+8. M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "Cost-Optimal Learning of Causal Graphs," in Proc. of ICML'17, 2017.
+
+7. M. Kocaoglu, A. G. Dimakis, S. Vishwanath, B. Hassibi, "Entropic Causality and Greedy Minimum Entropy Coupling," in Proc. of  ISIT'17, 2017.
+
 6. K. Shanmugam, M. Kocaoglu, A. G. Dimakis, S. Sanghavi, "Sparse Quadratic Logistic Regression in Sub-quadratic Time," arXiv preprint, 2017.
-5. R. Sen, K. Shanmugam, M. Kocaoglu, A. G. Dimakis, S. Shakkottai, "Contextual Bandits with Latent Confounders: An NMF Approach," to appear in AISTATS 2017, 2017.
+
+5. R. Sen, K. Shanmugam, M. Kocaoglu, A. G. Dimakis, S. Shakkottai, "Contextual Bandits with Latent Confounders: An NMF Approach," in Proc. of AISTATS 2017, 2017.
+
 4. M. Kocaoglu, A. G. Dimakis, S. Vishwanath, B. Hassibi, "Entropic Causal Inference," in AAAI 2017, San Francisco, USA, Feb. 2017.
+
 3. M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "Learning Causal Graphs with Constraints," in NeurIPS 2016 Workshop: What If? Inference and Learning of Hypothetical and Counterfactual Interventions in Complex Systems, Barcelona, Spain, Dec. 2016.
+
 2. K. Shanmugam, M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "Learning Causal Graphs with Small Interventions," in NeurIPS 2015, Montreal, Canada, Dec. 2015.
-1. M. Kocaoglu*, K. Shanmugam*, A. G. Dimakis, A. Klivans, "Sparse Polynomial Learning and Graph Sketching," in NeurIPS 2014 (Oral), Montreal, Canada, Dec. 2014.
+
+1. M. Kocaoglu\*, K. Shanmugam\*, A. G. Dimakis, A. Klivans, "Sparse Polynomial Learning and Graph Sketching," in NeurIPS 2014 (Oral), Montreal, Canada, Dec. 2014.
 
 # Communications
 
