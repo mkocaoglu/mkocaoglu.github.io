@@ -19,8 +19,8 @@ images:
 
 {% include base_path %}
 
-<ul class="photo-gallery">
-  {% for image in page.images %}
+<p float="left">
+    {% for image in page.images %}
     <li><img src="{{ image.image_path }}" alt="{{ image.title}}" width="300"/></li>
   {% endfor %}
-</ul>
+</p>
