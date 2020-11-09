@@ -6,8 +6,14 @@ author_profile: true
 ---
 
 # Machine Learning
+17. M. Kocaoglu, S. Shakkottai, A. G. Dimakis, C. Caramanis, S. Vishwanath, "Applications of Common Entropy for Causal Inference," in Proc. of NeurIPS'20, Online, Dec. 2020.
 
-14. M. Kocaoglu, S. Shakkottai, A. G. Dimakis, C. Caramanis, S. Vishwanath, “Entropic Causal Inference with Latent Variables,” preprint, 2019.
+16. A. Jaber, M. Kocaoglu, K. Shanmugam, E. Bareinboim, "Causal Discovery from Soft Interventions with Unknown Targets: Characterization and Learning," in Proc. of NeurIPS'20, Online, Dec. 2020.
+
+15. S. Compton, M. Kocaoglu, Kristjan Greenewald, Dmitriy Katz, "Entropic Causal Inference: Identifiability and Finite Sample Results," in Proc. of NeurIPS'20, Online, Dec. 2020.
+
+14. C. Squires, S. Magliacane, K. Greenewald, D. Katz, M. Kocaoglu, K. Shanmugam, "Active Structure Learning of Causal DAGs via Directed Clique Trees," in Proc. of NeurIPS'20, Online, Dec. 2020.
+
 13. M. Kocaoglu*, A. Jaber*, K. Shanmugam*, E. Bareinboim, “Characterization and Learning of Causal Graphs with Latent Variables from Soft Interventions,” in Proc. of NeurIPS 2019, Vancouver, Canada, Dec. 2019. 
 12. K. Greenewald, D. Katz, K. Shanmugam, S. Magliacane, M. Kocaoglu, E. B. Adsera, G. Bresler, “Sample Efficient Active Learning of Causal Trees,” in Proc. of NeurIPS 2019, Vancouver, Canada, Dec. 2019. 
 11. E. Lindgren, M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "Experimental Design for Cost-Aware Learning of Causal Graphs" in Proc. of NeurIPS 2018, Montreal, Canada, Dec. 2018.
