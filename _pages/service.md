@@ -108,13 +108,13 @@ author_profile: true
 
 
 ## Student Volunteer
-NEM Summit 2012, Istanbul, Turkey
+- NEM Summit 2012, Istanbul, Turkey
 
-ACM MobiCom 2012, Istanbul, Turkey
+- ACM MobiCom 2012, Istanbul, Turkey
 
 
 
 ## Notes
-A [summary of Moser, Tardos 2010 STOC](https://docs.google.com/a/utexas.edu/viewer?a=v&pid=sites&srcid=dXRleGFzLmVkdXxta29jYW9nbHV8Z3g6NzRiMDgzY2U3YmM5ZTIxOQ) paper on constructive Lovász local lemma.
+- A [summary of Moser, Tardos 2010 STOC](https://docs.google.com/a/utexas.edu/viewer?a=v&pid=sites&srcid=dXRleGFzLmVkdXxta29jYW9nbHV8Z3g6NzRiMDgzY2U3YmM5ZTIxOQ) paper on constructive Lovász local lemma.
 
-Notes on [basics of estimation theory and Cramer-Rao lower bound](https://docs.google.com/a/utexas.edu/viewer?a=v&pid=sites&srcid=dXRleGFzLmVkdXxta29jYW9nbHV8Z3g6MzZlMWNlNzQ1NGM1MDBjZA).
+- Notes on [basics of estimation theory and Cramer-Rao lower bound](https://docs.google.com/a/utexas.edu/viewer?a=v&pid=sites&srcid=dXRleGFzLmVkdXxta29jYW9nbHV8Z3g6MzZlMWNlNzQ1NGM1MDBjZA).
