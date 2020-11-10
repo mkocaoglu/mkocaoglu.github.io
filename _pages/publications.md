@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Most of my work is published in open-access machine learning conferences. If you want to access one of my papers behind a paywall, send me an email and I will share it with you. 
+Most of my work are published in open-access machine learning conferences. If you want to access one of my papers behind a paywall, send me an email and I will share it with you. 
 
 The links below will take you to the publishers' pages. For the most recent version of the papers including corrections, please refer to the arXiv versions [here](https://arxiv.org/search/?query=Murat+Kocaoglu&searchtype=author&abstracts=show&order=-announced_date_first&size=50). 
 
