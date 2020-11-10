@@ -38,7 +38,7 @@ author_profile: true
 
 2. K. Shanmugam, M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "Learning Causal Graphs with Small Interventions," in Proc. of **NeurIPS'15**, Montreal, Canada, Dec. 2015.
 
-1. M. Kocaoglu\*, K. Shanmugam\*, A. G. Dimakis, A. Klivans, "Sparse Polynomial Learning and Graph Sketching," in Proc. of **NeurIPS'14 (Oral)**, Montreal, Canada, Dec. 2014.
+1. M. Kocaoglu\*, K. Shanmugam\*, A. G. Dimakis, A. Klivans, "[Sparse Polynomial Learning and Graph Sketching](https://papers.nips.cc/paper/2014/hash/71a58e8cb75904f24cde464161c3e766-Abstract.html)," in Proc. of **NeurIPS'14 (Oral)**, Montreal, Canada, Dec. 2014.
 
 # Communications
 
