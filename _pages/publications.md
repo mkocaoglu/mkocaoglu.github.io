@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Machine Learning
+## Machine Learning
 17. M. Kocaoglu, S. Shakkottai, A. G. Dimakis, C. Caramanis, S. Vishwanath, "Applications of Common Entropy for Causal Inference," in Proc. of **NeurIPS'20**, Online, Dec. 2020.
 
 16. A. Jaber, M. Kocaoglu, K. Shanmugam, E. Bareinboim, "Causal Discovery from Soft Interventions with Unknown Targets: Characterization and Learning," in Proc. of **NeurIPS'20**, Online, Dec. 2020.
@@ -24,25 +24,25 @@ author_profile: true
 
 9. M. Kocaoglu, K. Shanmugam, E. Bareinboim, "Experimental Design for Learning Causal Graphs with Latent Variables," in Proc. of **NeurIPS'17**, 2017.
 
-8. M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "Cost-Optimal Learning of Causal Graphs," in Proc. of **ICML'17**, 2017.
+8. M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "[Cost-Optimal Learning of Causal Graphs]," in Proc. of **ICML'17**, 2017.
 
-7. M. Kocaoglu, A. G. Dimakis, S. Vishwanath, B. Hassibi, "Entropic Causality and Greedy Minimum Entropy Coupling," in Proc. of **ISIT'17**, 2017.
+7. M. Kocaoglu, A. G. Dimakis, S. Vishwanath, B. Hassibi, "[Entropic Causality and Greedy Minimum Entropy Coupling](https://ieeexplore.ieee.org/document/8006772)," in Proc. of **ISIT'17**, 2017.
 
-6. K. Shanmugam, M. Kocaoglu, A. G. Dimakis, S. Sanghavi, "Sparse Quadratic Logistic Regression in Sub-quadratic Time," arXiv preprint, 2017.
+6. K. Shanmugam, M. Kocaoglu, A. G. Dimakis, S. Sanghavi, "[Sparse Quadratic Logistic Regression in Sub-quadratic Time](https://arxiv.org/abs/1703.02682)," arXiv preprint, 2017.
 
-5. R. Sen, K. Shanmugam, M. Kocaoglu, A. G. Dimakis, S. Shakkottai, "Contextual Bandits with Latent Confounders: An NMF Approach," in Proc. of **AISTATS'17**, 2017.
+5. R. Sen, K. Shanmugam, M. Kocaoglu, A. G. Dimakis, S. Shakkottai, "[Contextual Bandits with Latent Confounders: An NMF Approach](http://proceedings.mlr.press/v54/sen17a.html)," in Proc. of **AISTATS'17**, 2017.
 
-4. M. Kocaoglu, A. G. Dimakis, S. Vishwanath, B. Hassibi, "Entropic Causal Inference," in Proc. of **AAAI'17**, San Francisco, USA, Feb. 2017.
+4. M. Kocaoglu, A. G. Dimakis, S. Vishwanath, B. Hassibi, "[Entropic Causal Inference](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14218)," in Proc. of **AAAI'17**, San Francisco, USA, Feb. 2017.
 
-3. M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "Learning Causal Graphs with Constraints," in **NeurIPS'16 Workshop**: What If? Inference and Learning of Hypothetical and Counterfactual Interventions in Complex Systems, Barcelona, Spain, Dec. 2016.
+3. M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "[Learning Causal Graphs with Constraints](https://drive.google.com/file/d/0B6FCKgrwBmezQkZzVHZOLS1STkU)," in **NeurIPS'16 Workshop**: What If? Inference and Learning of Hypothetical and Counterfactual Interventions in Complex Systems, Barcelona, Spain, Dec. 2016.
 
-2. K. Shanmugam, M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "Learning Causal Graphs with Small Interventions," in Proc. of **NeurIPS'15**, Montreal, Canada, Dec. 2015.
+2. K. Shanmugam, M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "[Learning Causal Graphs with Small Interventions](https://proceedings.neurips.cc/paper/2015/hash/b865367fc4c0845c0682bd466e6ebf4c-Abstract.html)," in Proc. of **NeurIPS'15**, Montreal, Canada, Dec. 2015.
 
 1. M. Kocaoglu\*, K. Shanmugam\*, A. G. Dimakis, A. Klivans, "[Sparse Polynomial Learning and Graph Sketching](https://papers.nips.cc/paper/2014/hash/71a58e8cb75904f24cde464161c3e766-Abstract.html)," in Proc. of **NeurIPS'14 (Oral)**, Montreal, Canada, Dec. 2014.
 
-# Communications
+## Communications
 
-## Journals
+### Journals
 5. M. Kocaoglu, O. B. Akan, "Energy Minimization with Network Coding," to appear in IEEE Systems Journal, Special Issue on Green Communications, Computing and Systems, 2015.
 
 4. M. Kocaoglu, B. Gulbahar, O. B. Akan, "Stochastic Resonance in Graphene Bi-layer Optical Nanoreceivers," in IEEE Transactions on Nanotechnology, vol. 13, no. 6, pp. 1107-1117, November 2014.
@@ -53,15 +53,15 @@ author_profile: true
 
 1. M. Kocaoglu, D. Malak, O. B. Akan, "Fundamentals of Green Communications and Computing: Modeling and Simulation," Computer, vol. 45, no. 9, pp. 40-46, September 2012.
 
-## Conferences
+### Conferences
 3. M. Kocaoglu, C. Oksuz, O. B. Akan, "Effect of Channel Conditions on Inventory Database Update in Supply Chains." IEEE BlackSeaCom'13, 2013.
 
 2. M. Kocaoglu, D. Malak, "On the Node Density Limits and Rate-Delay-Energy Tradeoffs in Ad Hoc Nanonetworks with Minimum Energy Coding," in Proc. IEEE MoNaCom 2012 (in conjunction with IEEE ICC 2012), Ottawa, Canada, June 2012.
 
 1. M. Kocaoglu, O. B. Akan, "Minimum Energy Coding for Wireless NanoSensor Networks," in Proc. IEEE INFOCOM 2012 (Mini Conference), Orlando, FL, USA, Mar. 2012.
 
-# PhD Thesis
+## PhD Thesis
 M. Kocaoglu, "Causality: From Learning to Generative Models," PhD Thesis, The University of Texas at Austin, Austin, TX, USA, Aug. 2018.
 
-# M. Sc. Thesis
+## M. Sc. Thesis
 M. Kocaoglu, "Minimum Energy Channel and Network Coding with Applications in Nanoscale Communications," M. Sc. Thesis, Koc University, Istanbul, Turkey, 2012.
