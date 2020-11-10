@@ -23,11 +23,11 @@ author_profile: true
 
 
 ## Senior PC Member for conferences
-2021 IJCAI 2021
+- 2021 IJCAI 2021
 
-2020 Thirty-Fifth AAAI Conference on Artificial Intelligence - AAAI'21
+- 2020 Thirty-Fifth AAAI Conference on Artificial Intelligence - AAAI'21
 
-2020 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence – IJCAI-PRICAI 2020
+- 2020 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence – IJCAI-PRICAI 2020
 
 ## Reviewer for conferences
 2021 37th Conference on Uncertainty in Artificial Intelligence - UAI 2021
