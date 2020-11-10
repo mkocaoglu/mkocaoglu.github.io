@@ -30,3 +30,9 @@ images:
 </p>
 
 For more, please check out my [page](https://www.deviantart.com/mkocaoglu). 
+
+## My Favorite Blogger (in Turkish)
+kartalveyosun.wordpress.com
+
+## Name pronounciation guide
+Phonetic pronounciation of my surname *Kocaoglu* is[k^hodʒʌoolu]. See [here](https://easypronunciation.com/en/american-english-pronunciation-ipa-chart) for reference.
