@@ -29,7 +29,7 @@ images:
   {% endfor %}
 </p>
 
-For more, please check out my [page](https://www.deviantart.com/mkocaoglu). 
+For more, check out my DeviantArt [page](https://www.deviantart.com/mkocaoglu). 
 
 ## My Favorite Blogger (in Turkish)
 kartalveyosun.wordpress.com
