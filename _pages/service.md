@@ -11,11 +11,11 @@ author_profile: true
 ## Talks and Activities
 6. Lightning Talk in Young Researchers Workshop on CausalGAN, ORIE, Cornell University, Ithaca, NY, Oct. 2019.
 
-5. Co-organized “Bridging Causal Inference, Reinforcement Learning and Transfer Learning Workshop” in IBM AI Research Week, 2019. 
+5. Co-organized “[Bridging Causal Inference, Reinforcement Learning and Transfer Learning Workshop](https://crt2019.github.io/)” in IBM AI Research Week, 2019. 
 
-4. Invited Talk in AAAI-WHY19 Spring Symposium on CausalGAN, Stanford, CA, March 25-27, 2019.
+4. Invited Talk in [AAAI-WHY19 Spring Symposium](https://why19.causalai.net/) on CausalGAN, Stanford, CA, March 25-27, 2019.
 
-3. Shannon Channel Talk: Entropic Methods for Causal Discovery, Online talk hosted by Salim El Rouayheb, Mar. 1st, 2019. 
+3. Shannon Channel Talk: [Entropic Methods for Causal Discovery](https://www.youtube.com/watch?v=Czk3aczfZlk), Online talk hosted by Salim El Rouayheb, Mar. 1st, 2019. 
 
 2. Hands-on machine learning workshop (jointly with Alex Dimakis), 2018 North American School of Information Theory, Texas A&M University, May 20-23, 2018.
 
@@ -113,6 +113,6 @@ ACM MobiCom 2012, Istanbul, Turkey
 
 
 ## Notes
-A summary of Moser, Tardos 2010 STOC paper on constructive Lovász local lemma.
+A [summary of Moser, Tardos 2010 STOC](https://docs.google.com/a/utexas.edu/viewer?a=v&pid=sites&srcid=dXRleGFzLmVkdXxta29jYW9nbHV8Z3g6NzRiMDgzY2U3YmM5ZTIxOQ) paper on constructive Lovász local lemma.
 
-Notes on basics of estimation theory and Cramer-Rao lower bound.
+Notes on [basics of estimation theory and Cramer-Rao lower bound](https://docs.google.com/a/utexas.edu/viewer?a=v&pid=sites&srcid=dXRleGFzLmVkdXxta29jYW9nbHV8Z3g6MzZlMWNlNzQ1NGM1MDBjZA).
