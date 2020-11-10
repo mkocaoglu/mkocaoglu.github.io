@@ -14,17 +14,17 @@ author_profile: true
 
 14. C. Squires, S. Magliacane, K. Greenewald, D. Katz, M. Kocaoglu, K. Shanmugam, "Active Structure Learning of Causal DAGs via Directed Clique Trees," in Proc. of **NeurIPS'20**, Online, Dec. 2020.
 
-13. M. Kocaoglu\*, A. Jaber\*, K. Shanmugam\*, E. Bareinboim, “Characterization and Learning of Causal Graphs with Latent Variables from Soft Interventions,” in Proc. of **NeurIPS'19**, Vancouver, Canada, Dec. 2019. 
+13. M. Kocaoglu\*, A. Jaber\*, K. Shanmugam\*, E. Bareinboim, “[Characterization and Learning of Causal Graphs with Latent Variables from Soft Interventions](https://papers.nips.cc/paper/2019/hash/c3d96fbd5b1b45096ff04c04038fff5d-Abstract.html),” in Proc. of **NeurIPS'19**, Vancouver, Canada, Dec. 2019. 
 
-12. K. Greenewald, D. Katz, K. Shanmugam, S. Magliacane, M. Kocaoglu, E. B. Adsera, G. Bresler, “Sample Efficient Active Learning of Causal Trees,” in Proc. of **NeurIPS'19**, Vancouver, Canada, Dec. 2019. 
+12. K. Greenewald, D. Katz, K. Shanmugam, S. Magliacane, M. Kocaoglu, E. B. Adsera, G. Bresler, “[Sample Efficient Active Learning of Causal Trees](https://papers.nips.cc/paper/2019/hash/5ee5605917626676f6a285fa4c10f7b0-Abstract.html),” in Proc. of **NeurIPS'19**, Vancouver, Canada, Dec. 2019. 
 
-11. E. Lindgren, M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "Experimental Design for Cost-Aware Learning of Causal Graphs" in Proc. of **NeurIPS'18**, Montreal, Canada, Dec. 2018.
+11. E. Lindgren, M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "[Experimental Design for Cost-Aware Learning of Causal Graphs](http://papers.neurips.cc/paper/7774-experimental-design-for-cost-aware-learning-of-causal-graphs)" in Proc. of **NeurIPS'18**, Montreal, Canada, Dec. 2018.
 
-10. M. Kocaoglu\*, C. Snyder\*, A. G. Dimakis, S. Vishwanath, "CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training," in Proc. of **ICLR'18**, Vancouver, Canada,  May 2018.
+10. M. Kocaoglu\*, C. Snyder\*, A. G. Dimakis, S. Vishwanath, "[CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training](https://openreview.net/forum?id=BJE-4xW0W)," in Proc. of **ICLR'18**, Vancouver, Canada,  May 2018.
 
-9. M. Kocaoglu, K. Shanmugam, E. Bareinboim, "Experimental Design for Learning Causal Graphs with Latent Variables," in Proc. of **NeurIPS'17**, 2017.
+9. M. Kocaoglu, K. Shanmugam, E. Bareinboim, "[Experimental Design for Learning Causal Graphs with Latent Variables](https://papers.nips.cc/paper/2017/hash/291d43c696d8c3704cdbe0a72ade5f6c-Abstract.html)," in Proc. of **NeurIPS'17**, 2017.
 
-8. M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "[Cost-Optimal Learning of Causal Graphs]," in Proc. of **ICML'17**, 2017.
+8. M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "[Cost-Optimal Learning of Causal Graphs](http://proceedings.mlr.press/v70/kocaoglu17a.html)," in Proc. of **ICML'17**, 2017.
 
 7. M. Kocaoglu, A. G. Dimakis, S. Vishwanath, B. Hassibi, "[Entropic Causality and Greedy Minimum Entropy Coupling](https://ieeexplore.ieee.org/document/8006772)," in Proc. of **ISIT'17**, 2017.
 
