@@ -32,7 +32,7 @@ images:
 For more, check out my DeviantArt [page](https://www.deviantart.com/mkocaoglu). 
 
 ## My Favorite Blogger (in Turkish)
-[kartalveyosun.wordpress.com]
+[kartalveyosun.wordpress.com](https://kartalveyosun.wordpress.com)
 
 ## Name pronounciation guide
 Phonetic pronounciation of my name is as follows. See [here](https://easypronunciation.com/en/american-english-pronunciation-ipa-chart) for reference.
