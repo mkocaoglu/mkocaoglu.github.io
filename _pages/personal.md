@@ -35,4 +35,4 @@ For more, check out my DeviantArt [page](https://www.deviantart.com/mkocaoglu).
 kartalveyosun.wordpress.com
 
 ## Name pronounciation guide
-Phonetic pronounciation of my surname *Kocaoglu* is[k^hodʒʌoolu]. See [here](https://easypronunciation.com/en/american-english-pronunciation-ipa-chart) for reference.
+Phonetic pronounciation of my surname *Kocaoglu* is [k<sup>h</sup>odʒʌoolu]. See [here](https://easypronunciation.com/en/american-english-pronunciation-ipa-chart) for reference.
