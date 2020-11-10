@@ -35,7 +35,7 @@ For more, check out my DeviantArt [page](https://www.deviantart.com/mkocaoglu).
 kartalveyosun.wordpress.com
 
 ## Name pronounciation guide
-Phonetic pronounciation of my name is as follows.. See [here](https://easypronunciation.com/en/american-english-pronunciation-ipa-chart) for reference.
+Phonetic pronounciation of my name is as follows. See [here](https://easypronunciation.com/en/american-english-pronunciation-ipa-chart) for reference.
 
 *Murat* [mʊrʌt]
 
