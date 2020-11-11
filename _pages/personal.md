@@ -14,11 +14,11 @@ images:
   
 - image_path: /images/half_by_mkocaoglu-d9bf786.jpg
   title: Half
-  width: 800
+  width: 1000
   
 - image_path: /images/horizon_by_mkocaoglu-d8o6t05.jpg
   title: Horizon
-  width: 800
+  width: 1000
 ---
 
 {% include base_path %}
