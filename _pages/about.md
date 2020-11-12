@@ -14,7 +14,7 @@ My current research focuses on machine learning in general and causal inference 
 
 News
 ======
-<span style="color:red"> New! </span> I will be starting as an assistant professor at Purdue University in the ECE department in January 2021 and will be looking for motivated Ph.D. students to work on fundamental problems in causal inference with machine learning applications starting Fall 2021. Please apply [here](https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html), mention my name in your application package and email me your resume [here](mkocaoglu@utexas.edu) with a subject line "Prospective PhD Student".
+<span style="color:red"> New! </span> I will be starting as an assistant professor at Purdue University in the ECE department in January 2021 and will be looking for motivated Ph.D. students to work on fundamental problems in causal inference with machine learning applications starting Fall 2021. Please apply [here](https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html), mention my name in your application package and email me your resume at my UT email mkocaoglu - at - utexas.edu with a subject line "Prospective PhD Student".
 
 <span style="color:red"> New! </span> Our paper titled "Applications of Common Entropy for Causal Inference" is accepted at NeurIPS'20, available [here](https://papers.nips.cc/paper/2020/hash/cae7115f44837c806c9b23ed00a1a28a-Abstract.html).
 
