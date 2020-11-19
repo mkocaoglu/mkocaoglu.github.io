@@ -10,4 +10,4 @@ Due to the volume of emails I am receiving, I will not be able to respond to eve
 
 - For PhD positions in my group, a strong mathematical background is necessary and a prior research exposure is a plus. 
 
-- Also, it is always a good idea to apply graduate schools where you have multiple faculty that you can see yourself working with. 
+- It is always a good idea to apply graduate schools where you have multiple faculty that you can see yourself working with. 
