@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## Title 
+<small>Nov. 28, 2020 </small>
 <div align="right"> Nov. 28, 2020 </div>
 
 Test.
