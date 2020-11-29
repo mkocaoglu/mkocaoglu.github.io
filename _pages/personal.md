@@ -23,6 +23,11 @@ images:
 
 {% include base_path %}
 
+## Blog
+I am starting a personal blog that you can access [here](https://www.muratkocaoglu.com/blog). 
+
+## Photography
+
 <p float="center">
     {% for image in page.images %}
     <img style="padding-left: 10px; padding-right: 10px; padding-bottom: 20px; padding-top: 10px;" src="{{ image.image_path }}" alt="{{ image.title}}" width="{{ image.width}}"/>
