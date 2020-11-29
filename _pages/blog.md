@@ -8,6 +8,6 @@ redirect_from:
   - "/blog.html"
 ---
 
-## Title <div style="text-align: right"> Nov. 28, 2020 </div> 
+## Title <style> Nov. 28, 2020 {text-align: right}</style>
 Test.
 
