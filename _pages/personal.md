@@ -24,7 +24,7 @@ images:
 {% include base_path %}
 
 ## Blog
-I am starting a personal blog that you can access [here](https://www.muratkocaoglu.com/blog). 
+You can read my personal blog [here](https://www.muratkocaoglu.com/blog). 
 
 ## Photography
 
