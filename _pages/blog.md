@@ -8,7 +8,6 @@ redirect_from:
   - "/blog.html"
 ---
 
-Nov. 28, 2020
-======
+## Nov. 28, 2020
 Test.
 
