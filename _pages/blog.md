@@ -8,6 +8,6 @@ redirect_from:
   - "/blog.html"
 ---
 
-## Nov. 28, 2020
+## Title [Nov. 28, 2020]{style="float:right"}
 Test.
 
