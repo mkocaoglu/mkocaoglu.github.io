@@ -8,8 +8,7 @@ redirect_from:
   - "/blog.html"
 ---
 
-## Title 
-<small>Nov. 28, 2020 </small>
+## Title    Nov. 28, 2020
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Metus dictum at tempor commodo ullamcorper a lacus vestibulum sed. Egestas pretium aenean pharetra magna ac placerat vestibulum. Ipsum suspendisse ultrices gravida dictum fusce ut placerat orci nulla. Ullamcorper a lacus vestibulum sed arcu non. Nec ullamcorper sit amet risus nullam eget felis eget. Rhoncus urna neque viverra justo nec. Pulvinar mattis nunc sed blandit libero volutpat sed cras. Rhoncus est pellentesque elit ullamcorper dignissim cras. Elementum tempus egestas sed sed risus. Varius sit amet mattis vulputate enim. A condimentum vitae sapien pellentesque habitant morbi tristique senectus.
 
