@@ -8,8 +8,8 @@ redirect_from:
   - "/blog.html"
 ---
 
-## All it takes is a global pandemic...
-### Nov. 28, 2020
+<p font-weight: bold;font-size: 15px;> All it takes is a global pandemic... Nov. 28, 2020 </p>
+
 
 We all want to make changes in our lives: "I wish I drank less coffee", "I wish I started working out regularly". But when it comes to implementing these changes, many people give up after a few days or weeks and go back to their old ways. 
 
