@@ -8,7 +8,7 @@ redirect_from:
   - "/blog.html"
 ---
 
-<p style="font-weight: bold;font-size: 24px;margin-bottom: 0;"> <span>All it takes is a global pandemic...</span><span>   </span> <span>November 28, 2020</span> </p>  
+<p style="font-weight: bold;font-size: 24px;margin-bottom: 0;"> <span>All it takes is a global pandemic...  </span> <span style="float:right;">November 28, 2020</span> </p>  
 
 
 We all want to make changes in our lives: "I wish I drank less coffee", "I wish I started working out regularly". But when it comes to implementing these changes, many people give up after a few days or weeks and go back to their old ways. 
