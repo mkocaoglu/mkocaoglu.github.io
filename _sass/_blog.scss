@@ -2,7 +2,7 @@
    ARCHIVE
    ========================================================================== */
 
-.blog {
+.archive {
   margin-bottom: 2em;
 
   @include breakpoint($medium) {
@@ -28,19 +28,19 @@
   }
 }
 
-.blog__subtitle {
+.archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
   font-size: $type-size-5;
   color: mix(#fff, $gray, 25%);
   border-bottom: 1px solid $border-color;
 
-  + .list__item .blog__item-title {
+  + .list__item .archive__item-title {
     margin-top: 0.5em;
   }
 }
 
-.blog__item-title {
+.archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
 
@@ -52,13 +52,13 @@
 /* remove border*/
 .page__content {
 
-  .blog__item-title {
+  .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
   }
 }
 
-.blog__item-excerpt {
+.archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-6;
 
@@ -67,7 +67,7 @@
   }
 }
 
-.blog__item-teaser {
+.archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
   img {
@@ -75,12 +75,12 @@
   }
 }
 
-.blog__item:hover {
-  .blog__item-teaser {
+.archive__item:hover {
+  .archive__item-teaser {
     box-shadow: 0 0 10px rgba(#000, 0.25);
   }
 
-  .blog__item-title {
+  .archive__item-title {
     text-decoration: underline;
   }
 }
@@ -131,7 +131,7 @@
 
   @include breakpoint($small) {
     @include gallery(5 of 10);
-    .blog__item-teaser {
+    .archive__item-teaser {
       max-height: 200px;
     }
   }
@@ -141,11 +141,11 @@
     margin-right: 0; /* reset before mixin does its thing*/
     @include gallery(2.5 of 10);
 
-    .blog__item-teaser {
+    .archive__item-teaser {
       max-height: 120px;
     }
 
-    .blog__item-excerpt {
+    .archive__item-excerpt {
       display: block;
       font-size: $type-size-6;
     }
@@ -181,16 +181,16 @@
     @include full();
     font-size: 1.25rem;
 
-    .blog__item-teaser {
+    .archive__item-teaser {
       margin-bottom: 2em;
     }
 
     @include breakpoint($small) {
-      .blog__item-teaser {
+      .archive__item-teaser {
         @include span(5 of 12);
       }
 
-      .blog__item-body {
+      .archive__item-body {
         @include span(7 of 12 last);
         @include prefix(0.5 of 12);
         @include suffix(1 of 12);
@@ -202,18 +202,18 @@
     @include full();
     font-size: 1.25rem;
 
-    .blog__item-teaser {
+    .archive__item-teaser {
       margin-bottom: 2em;
     }
 
     @include breakpoint($small) {
       text-align: right;
 
-      .blog__item-teaser {
+      .archive__item-teaser {
         @include span(5 of 12 rtl);
       }
 
-      .blog__item-body {
+      .archive__item-body {
         @include span(7 of 12 last rtl);
         @include prefix(0.5 of 12);
         @include suffix(1 of 12);
@@ -225,19 +225,19 @@
     @include full();
     font-size: 1.25rem;
 
-    .blog__item-teaser {
+    .archive__item-teaser {
       margin-bottom: 2em;
     }
 
     @include breakpoint($small) {
       text-align: center;
 
-      .blog__item-teaser {
+      .archive__item-teaser {
         margin: 0 auto;
         width: span(5 of 12);
       }
 
-      .blog__item-body {
+      .archive__item-body {
         margin: 0 auto;
         width: span(7 of 12);
       }
