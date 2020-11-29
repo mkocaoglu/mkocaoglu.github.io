@@ -3,6 +3,7 @@ layout: blog
 permalink: /blog/
 title: "Personal Blog"
 author_profile: false
+comments: true
 redirect_from: 
   - "/blog"
   - "/blog.html"
