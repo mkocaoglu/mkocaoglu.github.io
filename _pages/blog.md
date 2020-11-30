@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: blog
 permalink: /blog/
 title: "Personal Blog"
 author_profile: false
