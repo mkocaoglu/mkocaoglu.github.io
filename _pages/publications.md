@@ -9,21 +9,23 @@ Most of my work are published in open-access machine learning conferences. If yo
 The links below will take you to the publishers' pages. For the most recent versions of the papers including corrections, please refer to the arXiv versions [here](https://arxiv.org/search/?query=Murat+Kocaoglu&searchtype=author&abstracts=show&order=-announced_date_first&size=50). 
 
 ## Machine Learning
-17. M. Kocaoglu, S. Shakkottai, A. G. Dimakis, C. Caramanis, S. Vishwanath, "[Applications of Common Entropy for Causal Inference](https://proceedings.neurips.cc/paper/2020/hash/cae7115f44837c806c9b23ed00a1a28a-Abstract.html)," in Proc. of **NeurIPS'20**, Online, Dec. 2020.
+18. M. Kocaoglu, S. Shakkottai, A. G. Dimakis, C. Caramanis, S. Vishwanath, "[Applications of Common Entropy for Causal Inference](https://proceedings.neurips.cc/paper/2020/hash/cae7115f44837c806c9b23ed00a1a28a-Abstract.html)," in Proc. of **NeurIPS'20**, Online, Dec. 2020.
 
-16. A. Jaber, M. Kocaoglu, K. Shanmugam, E. Bareinboim, "[Causal Discovery from Soft Interventions with Unknown Targets: Characterization and Learning](https://proceedings.neurips.cc/paper/2020/hash/6cd9313ed34ef58bad3fdd504355e72c-Abstract.html)," in Proc. of **NeurIPS'20**, Online, Dec. 2020.
+17. A. Jaber, M. Kocaoglu, K. Shanmugam, E. Bareinboim, "[Causal Discovery from Soft Interventions with Unknown Targets: Characterization and Learning](https://proceedings.neurips.cc/paper/2020/hash/6cd9313ed34ef58bad3fdd504355e72c-Abstract.html)," in Proc. of **NeurIPS'20**, Online, Dec. 2020.
 
-15. S. Compton, M. Kocaoglu, Kristjan Greenewald, Dmitriy Katz, "[Entropic Causal Inference: Identifiability and Finite Sample Results](https://proceedings.neurips.cc/paper/2020/hash/a979ca2444b34449a2c80b012749e9cd-Abstract.html)," in Proc. of **NeurIPS'20**, Online, Dec. 2020.
+16. S. Compton, M. Kocaoglu, Kristjan Greenewald, Dmitriy Katz, "[Entropic Causal Inference: Identifiability and Finite Sample Results](https://proceedings.neurips.cc/paper/2020/hash/a979ca2444b34449a2c80b012749e9cd-Abstract.html)," in Proc. of **NeurIPS'20**, Online, Dec. 2020.
 
-14. C. Squires, S. Magliacane, K. Greenewald, D. Katz, M. Kocaoglu, K. Shanmugam, "[Active Structure Learning of Causal DAGs via Directed Clique Trees](https://proceedings.neurips.cc/paper/2020/hash/f57bd0a58e953e5c43cd4a4e5af46138-Abstract.html)," in Proc. of **NeurIPS'20**, Online, Dec. 2020.
+15. C. Squires, S. Magliacane, K. Greenewald, D. Katz, M. Kocaoglu, K. Shanmugam, "[Active Structure Learning of Causal DAGs via Directed Clique Trees](https://proceedings.neurips.cc/paper/2020/hash/f57bd0a58e953e5c43cd4a4e5af46138-Abstract.html)," in Proc. of **NeurIPS'20**, Online, Dec. 2020.
 
-13. M. Kocaoglu\*, A. Jaber\*, K. Shanmugam\*, E. Bareinboim, “[Characterization and Learning of Causal Graphs with Latent Variables from Soft Interventions](https://papers.nips.cc/paper/2019/hash/c3d96fbd5b1b45096ff04c04038fff5d-Abstract.html),” in Proc. of **NeurIPS'19**, Vancouver, Canada, Dec. 2019. 
+14. M. Kocaoglu\*, A. Jaber\*, K. Shanmugam\*, E. Bareinboim, “[Characterization and Learning of Causal Graphs with Latent Variables from Soft Interventions](https://papers.nips.cc/paper/2019/hash/c3d96fbd5b1b45096ff04c04038fff5d-Abstract.html),” in Proc. of **NeurIPS'19**, Vancouver, Canada, Dec. 2019. 
 
-12. K. Greenewald, D. Katz, K. Shanmugam, S. Magliacane, M. Kocaoglu, E. B. Adsera, G. Bresler, “[Sample Efficient Active Learning of Causal Trees](https://papers.nips.cc/paper/2019/hash/5ee5605917626676f6a285fa4c10f7b0-Abstract.html),” in Proc. of **NeurIPS'19**, Vancouver, Canada, Dec. 2019. 
+13. K. Greenewald, D. Katz, K. Shanmugam, S. Magliacane, M. Kocaoglu, E. B. Adsera, G. Bresler, “[Sample Efficient Active Learning of Causal Trees](https://papers.nips.cc/paper/2019/hash/5ee5605917626676f6a285fa4c10f7b0-Abstract.html),” in Proc. of **NeurIPS'19**, Vancouver, Canada, Dec. 2019. 
 
-11. E. Lindgren, M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "[Experimental Design for Cost-Aware Learning of Causal Graphs](http://papers.neurips.cc/paper/7774-experimental-design-for-cost-aware-learning-of-causal-graphs)" in Proc. of **NeurIPS'18**, Montreal, Canada, Dec. 2018.
+12. E. Lindgren, M. Kocaoglu, A. G. Dimakis, S. Vishwanath, "[Experimental Design for Cost-Aware Learning of Causal Graphs](http://papers.neurips.cc/paper/7774-experimental-design-for-cost-aware-learning-of-causal-graphs)" in Proc. of **NeurIPS'18**, Montreal, Canada, Dec. 2018.
 
-10. M. Kocaoglu\*, C. Snyder\*, A. G. Dimakis, S. Vishwanath, "[CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training](https://openreview.net/forum?id=BJE-4xW0W)," in Proc. of **ICLR'18**, Vancouver, Canada,  May 2018.
+11. M. Kocaoglu\*, C. Snyder\*, A. G. Dimakis, S. Vishwanath, "[CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training](https://openreview.net/forum?id=BJE-4xW0W)," in Proc. of **ICLR'18**, Vancouver, Canada,  May 2018.
+
+10. E. Lindgren, M. Kocaoglu, A. G. Dimakis, S. Vishwanath, “[Submodularity and Minimum Cost Intervention Design for Learning Causal Graphs](http://www.discml.cc/),” in **DISCML’17 Workshop in NIPS’17**, Dec. 2017.
 
 9. M. Kocaoglu, K. Shanmugam, E. Bareinboim, "[Experimental Design for Learning Causal Graphs with Latent Variables](https://papers.nips.cc/paper/2017/hash/291d43c696d8c3704cdbe0a72ade5f6c-Abstract.html)," in Proc. of **NeurIPS'17**, 2017.
 
