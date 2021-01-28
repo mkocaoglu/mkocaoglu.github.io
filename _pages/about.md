@@ -15,9 +15,6 @@ I am an Assistant Professor at Purdue University in the ECE department. My curre
 
 News
 ======
-<span style="color:red"> New! </span> I will be starting as an assistant professor at Purdue University in the ECE department in January 2021 and will be looking for motivated Ph.D. students to work on fundamental problems in causal inference with machine learning applications starting Fall 2021. Please apply [here](https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html), mention my name in your application package and email me your resume at mkocaoglu - at - utexas.edu with the subject line "Prospective PhD Student" w/out the quotes.   
-*If you already sent me an email, please see this [note](https://www.muratkocaoglu.com/prospective).*
-
 <span style="color:red"> New! </span> Our paper titled "Applications of Common Entropy for Causal Inference" is accepted at NeurIPS'20, available [here](https://papers.nips.cc/paper/2020/hash/cae7115f44837c806c9b23ed00a1a28a-Abstract.html).
 
 <span style="color:red"> New! </span> Our paper titled "Causal Discovery from Soft Interventions with Unknown Targets: Characterization and Learning" is accepted at NeurIPS'20, available [here](https://papers.nips.cc/paper/2020/hash/6cd9313ed34ef58bad3fdd504355e72c-Abstract.html).
