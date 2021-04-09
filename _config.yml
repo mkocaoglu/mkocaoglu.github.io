@@ -285,16 +285,16 @@ defaults:
       layout: blog
       author_profile: false
       share: true
-      comments: true      
+      comments: true
   # group
   - scope:
       path: ""
       type: group
     values:
-      layout: default
+      layout: single
       author_profile: true
       share: true
-      comments: false      
+      comments: false
 # Sass/SCSS
 sass:
   sass_dir: _sass
