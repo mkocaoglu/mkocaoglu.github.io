@@ -202,6 +202,9 @@ collections:
   blog:
     output: false
     permalink: /:collection/:path/
+  group:
+    output: true
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _about
