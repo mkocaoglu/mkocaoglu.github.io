@@ -292,7 +292,7 @@ defaults:
       type: group
     values:
       layout: default
-      author_profile: false
+      author_profile: true
       share: true
       comments: false      
 # Sass/SCSS
