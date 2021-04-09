@@ -8,4 +8,6 @@ redirect_from:
   - "/group"
   - "/group.html"
 ---
+{% include base_path %}
+
 coming soon...
