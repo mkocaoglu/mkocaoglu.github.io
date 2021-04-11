@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
@@ -241,7 +241,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
+      share: true
       comments: false
   # _publications
   - scope:
