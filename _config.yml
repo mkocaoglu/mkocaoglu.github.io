@@ -303,7 +303,7 @@ defaults:
       path: ""
       type: ece695
     values:
-      layout: blog
+      layout: ece695
       author_profile: false
       share: true
       comments: false        
