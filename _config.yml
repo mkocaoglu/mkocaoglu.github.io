@@ -205,6 +205,9 @@ collections:
   group:
     output: true
     permalink: /:collection/:path/
+  ece695:
+    output: true
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _about
@@ -295,6 +298,15 @@ defaults:
       author_profile: true
       share: true
       comments: false
+   # ece695
+  - scope:
+      path: ""
+      type: ece695
+    values:
+      layout: blog
+      author_profile: false
+      share: true
+      comments: false        
 # Sass/SCSS
 sass:
   sass_dir: _sass
