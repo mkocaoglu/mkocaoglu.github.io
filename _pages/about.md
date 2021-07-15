@@ -15,6 +15,8 @@ I am an Assistant Professor at Purdue University in the ECE department. My curre
 
 News
 ======
+<span style="color:red"> New! </span> Our paper titled "Entropic Causal Inference: Identifiability for Trees and Complete Graphs" is accepted at the [ICML-21 Workshop on Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning](https://sites.google.com/view/itr3).
+
 <span style="color:red"> New! </span> Our paper titled "Conditionally Independent Data Generation" is accepted at UAI'21. 
 
 Our paper titled "Applications of Common Entropy for Causal Inference" is accepted at NeurIPS'20, available [here](https://papers.nips.cc/paper/2020/hash/cae7115f44837c806c9b23ed00a1a28a-Abstract.html).
