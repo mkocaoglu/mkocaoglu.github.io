@@ -15,6 +15,8 @@ I am an Assistant Professor at Purdue University in the ECE department. My curre
 
 News
 ======
+<span style="color:red"> New! </span> I will be teaching a research course on causality called Probabilistic Causal Inference in Fall'21. It is open to anyone with a background in probability theory. Reach out to me if you are in Purdue and are interested to take it. See the course website and syllabus [here](https://www.muratkocaoglu.com/ece695).
+
 <span style="color:red"> New! </span> Our paper titled "Entropic Causal Inference: Identifiability for Trees and Complete Graphs" is accepted at the [ICML-21 Workshop on Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning](https://sites.google.com/view/itr3).
 
 <span style="color:red"> New! </span> Our paper titled "Conditionally Independent Data Generation" is accepted at UAI'21. 
