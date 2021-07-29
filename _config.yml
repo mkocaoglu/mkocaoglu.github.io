@@ -208,6 +208,9 @@ collections:
   ece695:
     output: true
     permalink: /:collection/:path/
+  prospective:
+    output: true
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _about
@@ -306,7 +309,17 @@ defaults:
       layout: ece695
       author_profile: false
       share: true
-      comments: false        
+      comments: false
+      
+  # _prospective
+  - scope:
+      path: ""
+      type: prospective
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false      
 # Sass/SCSS
 sass:
   sass_dir: _sass
