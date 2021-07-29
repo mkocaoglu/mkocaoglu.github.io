@@ -8,7 +8,7 @@ author_profile: true
 
 I am always on the lookout for prospective PhD students interested in doing fundamental work in machine learning and causal inference. However, due to the volume of emails I am receiving, I will not be able to respond to everyone. Thank you for understanding. 
 
-The application to my group should be done through the official channels through the Purdue graduate school application page. Make sure to indicate your interest to work with me in your application materials where it is appropriate. A detailed description of which research projects you are interested in the most would be helpful. 
+The application to my group should be done through the official channels via Purdue graduate school application page. Make sure to indicate your interest to work with me in your application materials where it is appropriate. A detailed description of which research projects you are interested in the most would be helpful. 
 
 Please note that it is impossible for me to comment on whether you should apply to Purdue to work with me or not before having access to the rest of the application pool. To help you better evaluate whether to apply to Purdue to work with me or not, the following might help. 
 
