@@ -14,4 +14,4 @@ Please note that it is impossible for me to comment on whether you should apply 
 
 - For PhD positions in my group, a **strong undergraduate-level background in probability theory and linear algebra** is necessary. Moreover, prior research exposure and/or publications are a plus but not necessary. 
 
-- It is always a good idea to apply to graduate schools where you have multiple faculty that you can see yourself working with. You can check the current Purdue ECE faculty [here](https://engineering.purdue.edu/ECE/People/Faculty) and the new faculty [here](https://engineering.purdue.edu/ECE/News/2020/new-faculty-spotlights).
+- It is always a good idea to apply to graduate schools where you have multiple faculty that you can see yourself working with. You can check the current Purdue ECE faculty [here](https://engineering.purdue.edu/ECE/People/Faculty).
