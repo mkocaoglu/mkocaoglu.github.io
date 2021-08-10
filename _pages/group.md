@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /group/
-title: "Group"
+title: "Research Group"
 author_profile: true
 comments: false
 redirect_from: 
