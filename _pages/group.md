@@ -11,4 +11,4 @@ redirect_from:
 {% include base_path %}
 
 ## PhD Students
-- Md. Musfiqur Rahman [📄](https://scholar.google.com/citations?user=vMGENI8AAAAJ&hl=en)
+- Md. Musfiqur Rahman [📄](https://sites.google.com/view/musfiqshohan/)
