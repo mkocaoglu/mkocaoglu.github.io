@@ -15,11 +15,13 @@ I am an Assistant Professor at Purdue University in the ECE department. My curre
 
 News
 ======
-<span style="color:red"> New! </span> I will be teaching a research course on causality called Probabilistic Causal Inference in Fall'21. It is open to anyone with a background in probability theory. Reach out to me if you are in Purdue and are interested to take it. See the course website and syllabus [here](https://www.muratkocaoglu.com/ece695).
+<span style="color:red"> New! </span> We are organizing a AAAI Workshop on the Information-Theoretic Methods for Causal Inference and Discovery! Submit your papers at the intersection of causal inference/discovery, information theory and machine learning. See the [workshop website](https://sites.google.com/view/itci22) for more details and submission instructions. 
 
 <span style="color:red"> New! </span> Our paper titled "Entropic Causal Inference: Identifiability for Trees and Complete Graphs" is accepted at the [ICML-21 Workshop on Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning](https://sites.google.com/view/itr3).
 
 <span style="color:red"> New! </span> Our paper titled "Conditionally Independent Data Generation" is accepted at UAI'21, preprint is available [here](https://www.auai.org/uai2021/pdf/uai2021.768.preliminary.pdf). 
+
+I will be teaching a research course on causality called Probabilistic Causal Inference in Fall'21. It is open to anyone with a background in probability theory. Reach out to me if you are in Purdue and are interested to take it. See the course website and syllabus [here](https://www.muratkocaoglu.com/ece695).
 
 Our paper titled "Applications of Common Entropy for Causal Inference" is accepted at NeurIPS'20, available [here](https://papers.nips.cc/paper/2020/hash/cae7115f44837c806c9b23ed00a1a28a-Abstract.html).
 
