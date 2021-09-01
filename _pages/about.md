@@ -17,7 +17,7 @@ News
 ======
 <span style="color:red"> New! </span> We are organizing a AAAI Workshop on the Information-Theoretic Methods for Causal Inference and Discovery! Submit your papers at the intersection of causal inference/discovery, information theory and machine learning. See the [workshop website](https://sites.google.com/view/itci22) for more details and submission instructions. 
 
-<span style="color:red"> New! </span> Our paper titled "Entropic Causal Inference: Identifiability for Trees and Complete Graphs" is accepted at the [ICML-21 Workshop on Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning](https://sites.google.com/view/itr3).
+<span style="color:red"> New! </span> Our paper titled "Entropic Causal Inference: Identifiability for Trees and Complete Graphs" is accepted at the ICML-21 Workshop on Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning - [ITR3](https://sites.google.com/view/itr3).
 
 <span style="color:red"> New! </span> Our paper titled "Conditionally Independent Data Generation" is accepted at UAI'21, preprint is available [here](https://www.auai.org/uai2021/pdf/uai2021.768.preliminary.pdf). 
 
