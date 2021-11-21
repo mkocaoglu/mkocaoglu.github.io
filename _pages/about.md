@@ -15,7 +15,7 @@ I am an Assistant Professor at Purdue University in the ECE department. My curre
 
 News
 ======
-<span style="color:red"> New! </span> I am looking for PhD students to start in Fall-22, who are enthusiastic and motivated to do fundamental research in causal inference, causal discovery with applications in machine learning and reinforcement learning. Please see the "Prospective" tab for more. The candidates should be familiar with or motivated to learn fundemantal mathematical topics such as probability theory, linear algebra, information theory, graph theory, learning theory and basic statistics/estimation theory. Please apply via Purdue admission page and mention my name in your application.  
+<span style="color:red"> New! </span> I am looking for PhD students to start in Fall-22, who are enthusiastic and motivated to do fundamental research in causal inference, causal discovery with applications in machine learning and reinforcement learning. The candidates should be familiar with or motivated to learn fundemantal mathematical topics such as probability theory, linear algebra, information theory, graph theory, learning theory and basic statistics/estimation theory. Please apply via Purdue admission page and mention my name in your application.  Students from under-represented minorities are encouraged to apply.
 
 <span style="color:red"> New! </span> We are organizing a AAAI Workshop on the Information-Theoretic Methods for Causal Inference and Discovery! Submit your papers at the intersection of causal inference/discovery, information theory and machine learning. See the [workshop website](https://sites.google.com/view/itci22) for more details and submission instructions. 
 
