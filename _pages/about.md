@@ -15,11 +15,13 @@ I am an Assistant Professor at Purdue University in the ECE department. My curre
 
 News
 ======
+<span style="color:red"> New! </span> I am looking for PhD students to start in Fall-22, who are enthusiastic and motivated to do fundamental research in causal inference, causal discovery with applications in machine learning and reinforcement learning. Please see the "Prospective" tab for more. The candidates should be familiar with or motivated to learn fundemantal mathematical topics such as probability theory, linear algebra, information theory, graph theory, learning theory and basic statistics/estimation theory. Please apply via Purdue admission page and mention my name in your application.  
+
 <span style="color:red"> New! </span> We are organizing a AAAI Workshop on the Information-Theoretic Methods for Causal Inference and Discovery! Submit your papers at the intersection of causal inference/discovery, information theory and machine learning. See the [workshop website](https://sites.google.com/view/itci22) for more details and submission instructions. 
 
-<span style="color:red"> New! </span> Our paper titled "Entropic Causal Inference: Identifiability for Trees and Complete Graphs" is accepted at the ICML-21 Workshop on Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning - [ITR3](https://sites.google.com/view/itr3).
+Our paper titled "Entropic Causal Inference: Identifiability for Trees and Complete Graphs" is accepted at the ICML-21 Workshop on Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning - [ITR3](https://sites.google.com/view/itr3).
 
-<span style="color:red"> New! </span> Our paper titled "Conditionally Independent Data Generation" is accepted at UAI'21, preprint is available [here](https://www.auai.org/uai2021/pdf/uai2021.768.preliminary.pdf). 
+Our paper titled "Conditionally Independent Data Generation" is accepted at UAI'21, preprint is available [here](https://www.auai.org/uai2021/pdf/uai2021.768.preliminary.pdf). 
 
 I will be teaching a research course on causality called Probabilistic Causal Inference in Fall'21. It is open to anyone with a background in probability theory. Reach out to me if you are in Purdue and are interested to take it. See the course website and syllabus [here](https://www.muratkocaoglu.com/ece695).
 
