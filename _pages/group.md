@@ -11,4 +11,9 @@ redirect_from:
 {% include base_path %}
 
 ## PhD Students
+- Kenneth Lee  
+- Yifan Zhao  
 - Md. Musfiqur Rahman [📄](https://sites.google.com/view/musfiqshohan/)
+
+## MS Students
+- Kushagra Kapoor
