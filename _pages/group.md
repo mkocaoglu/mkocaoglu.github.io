@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 ## PhD Students
-- Kenneth Lee  
+- Kenneth Lee [📄](https://kenneth-lee-ch.github.io/)
 - Yifan Zhao  
 - Md. Musfiqur Rahman [📄](https://sites.google.com/view/musfiqshohan/)
 
