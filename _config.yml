@@ -292,10 +292,10 @@ defaults:
       author_profile: false
       share: true
       comments: true
-  # causalML
+  # CausalML
   - scope:
       path: ""
-      type: causalML
+      type: CausalML
     values:
       layout: single
       author_profile: true
