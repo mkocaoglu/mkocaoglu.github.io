@@ -5,8 +5,10 @@ title: "CausalML Lab"
 author_profile: true
 comments: false
 redirect_from: 
-  - "/group"
-  - "/group.html"
+  - "/CausalML"
+  - "/CausalML.html"
+  - "/causalML.html"
+  - "/causalML"
 ---
 {% include base_path %}
 
