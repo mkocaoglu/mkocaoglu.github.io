@@ -3,6 +3,9 @@ main:
   - title: "About"
     url: /
   
+  - title: "CausalML"
+    url: /CausalML/
+
   - title: "Publications"
     url: /publications/
 
@@ -25,8 +28,8 @@ main:
     
 #   - title: "Guide"
 #     url: /markdown/
-  - title: "Group"
-    url: /group/
+#   - title: "Group"
+#     url: /group/
 
   - title: "Prospective"
     url: /prospective/
