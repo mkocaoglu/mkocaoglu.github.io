@@ -48,10 +48,14 @@ We explore where causal inference and discovery could benefit the current machin
 2. M. Kocaoglu\*, C. Snyder\*, A. G. Dimakis, S. Vishwanath, "[CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training](https://openreview.net/forum?id=BJE-4xW0W)," in Proc. of **ICLR'18**, Vancouver, Canada,  May 2018.  
 1. R. Sen, K. Shanmugam, M. Kocaoglu, A. G. Dimakis, S. Shakkottai, "[Contextual Bandits with Latent Confounders: An NMF Approach](http://proceedings.mlr.press/v54/sen17a.html)," in Proc. of **AISTATS'17**, 2017.  
 
-# PhD Students
+# Team
+## PhD Students
 - Kenneth Lee [📄](https://kenneth-lee-ch.github.io/)
 - Yifan Zhao  
 - Md. Musfiqur Rahman [📄](https://sites.google.com/view/musfiqshohan/)
 
-# MS Students
+## MS Students
 - Kushagra Kapoor
+
+# Acknowledgement
+Our lab is currently supported by funding from Adobe Research. 
