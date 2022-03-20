@@ -59,5 +59,7 @@ We explore where causal inference and discovery could benefit the current machin
 ## MS Students
 - Kushagra Kapoor
 
+<br/>
+
 # Acknowledgement
 Our lab is currently supported by funding from Adobe Research. 
