@@ -15,7 +15,7 @@ I am an Assistant Professor at Purdue University in the ECE department. My curre
 
 News
 ======
-<span style="color:red"> New! </span> I am looking for a PostDoc to work at the intersection of causality and reinforcement learning. Joint position with Mahsa Ghasemi. 
+<span style="color:red"> New! </span> I am looking for a PostDoc to work at the intersection of causality and reinforcement learning. Joint position with [Mahsa Ghasemi](https://mahsaghasemi.github.io/). 
 
 <span style="color:red"> New! </span> I am looking for PhD students to start in Fall-22, who are enthusiastic and motivated to do fundamental research in causal inference, causal discovery with applications in machine learning and reinforcement learning. Students from under-represented minorities are encouraged to apply.
 
