@@ -202,7 +202,7 @@ collections:
   blog:
     output: false
     permalink: /:collection/:path/
-  group:
+  CausalML:
     output: true
     permalink: /:collection/:path/
   ece695:
@@ -292,10 +292,10 @@ defaults:
       author_profile: false
       share: true
       comments: true
-  # group
+  # causalML
   - scope:
       path: ""
-      type: group
+      type: causalML
     values:
       layout: single
       author_profile: true
