@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /group/
+permalink: /CausalML/
 title: "CausalML Lab"
 author_profile: true
 comments: false
