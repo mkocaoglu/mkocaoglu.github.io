@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /group/
-title: "Research Group"
+title: "CausalML Lab"
 author_profile: true
 comments: false
 redirect_from: 
