@@ -19,8 +19,6 @@ News
 
 <span style="color:red"> New! </span> Our lab received the [Adobe Data Science Research Award](https://research.adobe.com/data-science-research-awards/) for the project _Causal Discovery for Root Cause Analysis_. 
 
-<span style="color:red"> New! </span> I am looking for a PostDoc to work at the intersection of causality and reinforcement learning. Joint position with [Mahsa Ghasemi](https://mahsaghasemi.github.io/). 
-
 We are organizing a AAAI Workshop on the Information-Theoretic Methods for Causal Inference and Discovery! Submit your papers at the intersection of causal inference/discovery, information theory and machine learning. See the [workshop website](https://sites.google.com/view/itci22) for more details and submission instructions. 
 
 Our paper titled "Entropic Causal Inference: Identifiability for Trees and Complete Graphs" is accepted at the ICML-21 Workshop on Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning - [ITR3](https://sites.google.com/view/itr3).
