@@ -11,7 +11,7 @@ redirect_from:
 
 Research
 ======
-I am an Assistant Professor at Purdue University in the ECE department. My current research focuses on machine learning in general and causal inference and learning algorithms from data in particular. Specifically, I have been developing algorithms for learning causal graphs from observational and experimental data using tools from information theory and graph theory. 
+I am an Assistant Professor at Purdue University in the ECE department. My current research focuses developing fundamental causal inference and structure discovery algorithms in order to pave the way for causal machine learning. Specifically, I have been working on learning causal graphs from observational and/or experimental data. 
 
 News
 ======
