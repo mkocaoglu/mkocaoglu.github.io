@@ -6,7 +6,9 @@ author_profile: true
 ---
 {% include base_path %}
 
-I am always on the lookout for prospective PhD students who are enthusiastic about doing fundamental work in machine learning and causal inference. However, due to the volume of emails I am receiving, I will not be able to respond to everyone. Thank you for understanding. 
+I am always on the lookout for prospective PhD students who are enthusiastic about doing fundamental work in causality, machine learning, and information theory. However, due to the volume of emails I am receiving, I will not be able to respond to everyone. Thank you for understanding. 
+
+In order of importance, things I look for in a Ph.D. candidate are motivation to do research, mathematical maturity, a strong undergrad-level background in probability theory and linear algebra, and research experience (optional).
 
 The application to my group should be done through the official channels via Purdue graduate school application page. Make sure to indicate your interest to work with me in your application materials where it is appropriate. A detailed description of which research projects you are interested in the most would be helpful. 
 
