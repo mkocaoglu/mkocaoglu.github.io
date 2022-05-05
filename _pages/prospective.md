@@ -14,8 +14,8 @@ The application to my group should be done through the official channels via Pur
 
 Please note that it is impossible for me to comment on whether you should apply to Purdue to work with me or not before having access to the rest of the application pool. To help you better evaluate whether to apply to Purdue to work with me or not, the following might help. 
 
-[//]: # (- For PhD positions in my group, a **strong undergraduate-level background in probability theory and linear algebra** is necessary. Moreover, prior research exposure and/or publications are a plus but not necessary. ) 
+[//]: # "- For PhD positions in my group, a **strong undergraduate-level background in probability theory and linear algebra** is necessary. Moreover, prior research exposure and/or publications are a plus but not necessary. " 
  
  
-[//]: # (- It is always a good idea to apply to graduate schools where you have multiple faculty that you can see yourself working with. You can check the current Purdue ECE faculty [here](https://engineering.purdue.edu/ECE/People/Faculty). ) 
+[//]: # "- It is always a good idea to apply to graduate schools where you have multiple faculty that you can see yourself working with. You can check the current Purdue ECE faculty [here](https://engineering.purdue.edu/ECE/People/Faculty). " 
 
