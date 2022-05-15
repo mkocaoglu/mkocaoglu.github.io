@@ -19,3 +19,5 @@ Please note that it is impossible for me to comment on whether you should apply 
  
 [//]: # "- It is always a good idea to apply to graduate schools where you have multiple faculty that you can see yourself working with. You can check the current Purdue ECE faculty [here](https://engineering.purdue.edu/ECE/People/Faculty). " 
 
+### For Undergraduates:
+Our lab is open to Purdue undergraduates from related departments who would like to gain theoretical research experience. You must have taken ECE 302 or an equivalent undergraduate probability class, and be ready to contribute consistently in the assigned project. Feel free to send me an e-mail if you satisfy these criteria. 
