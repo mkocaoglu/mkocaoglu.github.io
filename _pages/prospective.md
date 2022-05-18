@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-I am always on the lookout for prospective PhD and MS students who are enthusiastic about doing fundamental work in causality and machine learning. In order of importance, things I look for in a Ph.D. candidate are motivation to do research, mathematical maturity, a strong undergrad-level background in probability theory and linear algebra, and research experience (optional). 
+I am always on the lookout for prospective PhD and MS students who are enthusiastic about doing fundamental work in causality and machine learning. In order of importance, things I look for in a Ph.D. candidate are motivation to do good research, mathematical maturity, a strong undergrad-level background in probability theory and linear algebra, and research experience (optional). 
 
 If you think you would be a good fit for our lab, please send me an email with your interests and CV. 
 
