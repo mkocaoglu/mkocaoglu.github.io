@@ -64,6 +64,9 @@ We explore where causal inference and discovery could benefit the current machin
 ## MS Students
 - Kushagra Kapoor (co-advised w/ Mahsa Ghasemi)
 
+## Visiting Researcher
+- coming soon
+
 <br/>
 
 # Acknowledgement
