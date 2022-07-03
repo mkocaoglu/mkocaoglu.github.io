@@ -7,17 +7,20 @@ author_profile: true
 
 {% include base_path %}
 ## Recognitions
-1. Reviewer Award for ICLR 2022, Highlighted Reviewer
 
-2. Reviewer Award for UAI’21, Amongst Top 5% of Reviewers
+7. Reviewer Award for UAI 2022, Top Reviewer
 
-3. Reviewer Award for ICLR 2021, Outstanding Reviewer
+6. Reviewer Award for ICLR 2022, Highlighted Reviewer
 
-4. Reviewer Award for ICML 2020, Amongst Top 33% of Reviewers
+5. Reviewer Award for UAI’21, Amongst Top 5% of Reviewers
 
-5. Reviewer Award for NeurIPS 2019, Amongst Top 50% of Reviewers
+4. Reviewer Award for ICLR 2021, Outstanding Reviewer
 
-6. Reviewer Award for NeurIPS 2018, Amongst Top 218 Reviewers
+3. Reviewer Award for ICML 2020, Amongst Top 33% of Reviewers
+
+2. Reviewer Award for NeurIPS 2019, Amongst Top 50% of Reviewers
+
+1. Reviewer Award for NeurIPS 2018, Amongst Top 218 Reviewers
 
 ## Talks and Activities
 6. Lightning Talk in Young Researchers Workshop on CausalGAN, ORIE, Cornell University, Ithaca, NY, Oct. 2019.
