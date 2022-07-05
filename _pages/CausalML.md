@@ -65,7 +65,7 @@ We explore where causal inference and discovery could benefit the current machin
 - Kushagra Kapoor 
 
 ## Visiting Researcher
-- coming soon
+- Suyeong Park
 
 <br/>
 
