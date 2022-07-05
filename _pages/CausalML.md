@@ -65,7 +65,7 @@ We explore where causal inference and discovery could benefit the current machin
 - Kushagra Kapoor 
 
 ## Visiting Researcher
-- Suyeong Park
+- Suyeong Park [📄](https://euphoria0-0.github.io/tabs/about/)
 
 <br/>
 
