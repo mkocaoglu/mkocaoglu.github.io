@@ -36,7 +36,11 @@ author_profile: true
 1. M. Kocaoglu, “Energy Minimization with Coding: Minimum Energy Channel and Network Codes,” COST Action IC0804 Meeting, Istanbul, Turkey, Dec. 2012.
 
 
-## Senior PC Member for conferences
+## Senior PC Member (Meta-reviewer) for conferences
+- 2022 Thirty-Seventh AAAI Conference on Artificial Intelligence - AAAI'23
+
+- 2021 Thirty-Sixth AAAI Conference on Artificial Intelligence - AAAI'22
+
 - 2021 IJCAI 2021
 
 - 2020 Thirty-Fifth AAAI Conference on Artificial Intelligence - AAAI'21
