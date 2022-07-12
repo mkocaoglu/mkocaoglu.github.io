@@ -23,6 +23,24 @@ author_profile: true
 1. Reviewer Award for NeurIPS 2018, Amongst Top 218 Reviewers
 
 ## Talks and Activities
+15. Pacific Northwest National Laboratory (PNNL) Research Seminar on “Causal Discovery for Root-cause Analysis, July 2022.
+
+14. Purdue ML Reading Group Talk on “Cost-Optimal Experimental Design for Causal Discovery”, April 2022. 
+ 
+13. Invited Participant at Simons Institute Causality Workshop, UC Berkeley, February 2022.
+
+12. General chair for The AAAI-22 Workshop on Information-Theoretic Methods for Causal Inference and Discovery (ITCI’22), Vancouver, Canada, February 2022.
+
+11. Session Chair for ICERM Workshop on Advances in Theory and Algorithms for Deep Reinforcement Learning, Online, Aug. 2, 2021.
+
+10. Discussant in Causality Session at UAI’21, Online, July 27, 2021. 
+ 
+9. Mentorship Circles at ICLR’21 Online, March 3, 2021.
+
+8. Purdue ECE Talk: Entropic Methods for Causal Discovery, Online talk for graduate students and the faculty, Mar. 4, 2021.
+
+7. Session chair for IJCAI’20, Machine Learning - Learning Generative Models, Jan. 2021.
+
 6. Lightning Talk in Young Researchers Workshop on CausalGAN, ORIE, Cornell University, Ithaca, NY, Oct. 2019.
 
 5. Co-organized “[Bridging Causal Inference, Reinforcement Learning and Transfer Learning Workshop](https://crt2019.github.io/)” in IBM AI Research Week, 2019. 
