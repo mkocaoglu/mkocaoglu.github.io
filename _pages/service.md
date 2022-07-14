@@ -23,7 +23,7 @@ author_profile: true
 1. Reviewer Award for NeurIPS 2018, Amongst Top 218 Reviewers
 
 ## Talks and Activities
-15. Pacific Northwest National Laboratory (PNNL) Research Seminar on “Causal Discovery for Root-cause Analysis, July 2022.
+15. Pacific Northwest National Laboratory (PNNL) Research Seminar on "Causal Discovery for Root-cause Analysis", July 2022.
 
 14. Purdue ML Reading Group Talk on “Cost-Optimal Experimental Design for Causal Discovery”, April 2022. 
  
