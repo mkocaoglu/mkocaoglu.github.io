@@ -34,7 +34,9 @@ You can read my personal blog [here](https://www.muratkocaoglu.com/blog).
   {% endfor %}
 </p>
 
-For more, check out my DeviantArt [page](https://www.deviantart.com/mkocaoglu). 
+For more, check out my page on [500px](https://500px.com/p/muratkocaoglu?view=photos)
+
+[//]: # ( For more, check out my DeviantArt [page](https://www.deviantart.com/mkocaoglu)
 
 ## My Favorite Blogger (in Turkish)
 [kartalveyosun.wordpress.com](https://kartalveyosun.wordpress.com)
