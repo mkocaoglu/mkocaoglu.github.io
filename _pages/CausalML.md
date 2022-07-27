@@ -54,15 +54,13 @@ We explore where causal inference and discovery could benefit the current machin
 # Current Members
 
 ## PostDoc Researchers
-- coming soon.
+- Lai Wei
  
 ## PhD Students
-- coming soon.
-- Kenneth Lee [📄](https://kenneth-lee-ch.github.io/)
 - Md. Musfiqur Rahman [📄](https://sites.google.com/view/musfiqshohan/)
-
-## MS Students
-- Kushagra Kapoor 
+- Kenneth Lee [📄](https://kenneth-lee-ch.github.io/)
+- Shanyun Gao
+- Qasim Elahi
 
 ## Visiting Researcher
 - Suyeong Park [📄](https://euphoria0-0.github.io/tabs/about/)
