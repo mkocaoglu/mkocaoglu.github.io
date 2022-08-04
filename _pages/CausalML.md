@@ -59,6 +59,7 @@ We explore where causal inference and discovery could benefit the current machin
 ## PhD Students
 - Md. Musfiqur Rahman [📄](https://sites.google.com/view/musfiqshohan/)
 - Kenneth Lee [📄](https://kenneth-lee-ch.github.io/)
+- Ziwei Jiang
 - Shanyun Gao
 - Qasim Elahi
 
