@@ -322,7 +322,17 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: false      
+      comments: false     
+
+  - scope:
+      path: ""
+      type: ece642
+    values:
+      layout: ece695
+      author_profile: false
+      share: true
+      comments: false
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
