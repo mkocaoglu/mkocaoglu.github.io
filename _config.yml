@@ -211,6 +211,9 @@ collections:
   prospective:
     output: true
     permalink: /:collection/:path/
+  ece642:
+    output: true
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _about
