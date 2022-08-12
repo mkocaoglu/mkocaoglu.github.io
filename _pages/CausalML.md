@@ -64,7 +64,7 @@ We explore where causal inference and discovery could benefit the current machin
 - Qasim Elahi
 
 ## Visiting Researcher
-- Suyeong Park, July - August 2022 [📄](https://euphoria0-0.github.io/tabs/about/)
+- Suyeong Park, *July - August 2022* [📄](https://euphoria0-0.github.io/tabs/about/)
 
 <br/>
 
