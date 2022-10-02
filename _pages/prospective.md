@@ -8,7 +8,7 @@ author_profile: true
 
 I am looking for prospective PhD and MS students who are enthusiastic about doing fundamental work in causality and machine learning. In order of importance, things I look for in a Ph.D. candidate are motivation to do good research, mathematical maturity, a strong undergrad-level background in probability theory and linear algebra, and research experience (optional). 
 
-If you think you would be a good fit for our lab, please send me an email with your interests and CV. 
+If you think you would be a good fit for our lab, please send me an email with your interests and CV with the subject line containing the word "Prospective". 
 
 If you decide to apply to Purdue ECE, make sure to indicate your interest to work with me in your application materials where it is appropriate. A detailed description of which research projects you are interested in the most would be helpful. 
 
