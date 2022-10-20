@@ -23,7 +23,7 @@ author_profile: true
 1. Reviewer Award for NeurIPS 2018, Amongst Top 218 Reviewers
 
 ## Talks and Activities
-16. ICON Seminar on "Causal Discovery for Root-cause Analysis", Purdue University, October 2022. 
+16. ICON Seminar on "Causal Discovery for Root-cause Analysis", Purdue University, October 2022. [YouTube recording](https://youtu.be/c15mQnVpork?t=682).
 
 15. Pacific Northwest National Laboratory (PNNL) Research Seminar on "Causal Discovery for Root-cause Analysis", July 2022.
 
