@@ -15,6 +15,8 @@ I am an Assistant Professor at Purdue University in the ECE department. My curre
 
 News
 ======
+<span style="color:red"> New! </span> I am the guest editor for the special issue of Entropy on "Information-theoretic Methods for Causal Inference and Discovery" [here](https://www.mdpi.com/journal/entropy/special_issues/253LDBW7Y9). Please submit your papers on the topic! 
+
 <span style="color:red"> New! </span> Our paper titled "Root Cause Analysis of Failures in Microservices through Causal Discovery" is accepted at NeurIPS'22. Preprint coming soon.
 
 <span style="color:red"> New! </span> Our paper titled "Entropic Causal Inference: Graph Identifiability" is accepted at ICML'22. Preprint coming soon.
