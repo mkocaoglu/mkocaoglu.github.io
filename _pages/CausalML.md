@@ -70,4 +70,4 @@ We explore where causal inference and discovery could benefit the current machin
 <br/>
 
 # Acknowledgement
-Our lab is currently supported by funding from Adobe Research. 
+Our lab is currently supported by funding from National Science Foundation (NSF), and Adobe Research. 
