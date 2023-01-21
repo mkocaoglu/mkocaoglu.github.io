@@ -9,7 +9,9 @@ Most of my work are published in open-access machine learning conferences. If yo
 The links below will take you to the publishers' pages. For the most recent versions of the papers including corrections, please refer to the arXiv versions [here](https://arxiv.org/search/?query=Murat+Kocaoglu&searchtype=author&abstracts=show&order=-announced_date_first&size=50). 
 
 ## Machine Learning
-21. M. A. Ikram, S. Chakraborty, S. Mitra, S. Saini, S. Bagchi, M. Kocaoglu, "Root Cause Analysis of Failures in Microservices through Causal Discovery," in Proc. of **NeurIPS'22**, Dec. 2022. 
+22. S. Compton, D. Katz, B. Qi, K. Greenewald, M. Kocaoglu, "Minimum-Entropy Coupling Approximation Guarantees Beyond the Majorization Barrier," in Proc. of **AISTATS'23**, Valencia, Spain, April 2023.
+
+21. M. A. Ikram, S. Chakraborty, S. Mitra, S. Saini, S. Bagchi, M. Kocaoglu, "[Root Cause Analysis of Failures in Microservices through Causal Discovery](https://openreview.net/pdf?id=weoLjoYFvXY)," in Proc. of **NeurIPS'22**, Dec. 2022. 
 
 20. S. Compton, K. Greenewald, D. Katz, M. Kocaoglu, "[Entropic Causal Inference: Graph Identifiability](https://proceedings.mlr.press/v162/compton22a.html)", in Proc. of **ICML'22**, July 2022.
 
