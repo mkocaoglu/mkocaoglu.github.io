@@ -214,6 +214,9 @@ collections:
   ece642:
     output: true
     permalink: /:collection/:path/
+  outreach:
+    output: true
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _about
@@ -324,6 +327,16 @@ defaults:
       share: true
       comments: false     
 
+  # _outreach
+  - scope:
+      path: ""
+      type: outreach
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false  
+      
   - scope:
       path: ""
       type: ece642
