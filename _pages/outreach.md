@@ -28,3 +28,6 @@ In the second stage, the goal is to use this causal knowledge to come up with th
 After allowing students to discover the best policy, the teacher can then go over the remaining slides to explain what was the best policy, reasoning from the causal graph and conclude the activity. 
 
 The code files can be downloaded [here](https://github.com/mkocaoglu/mkocaoglu.github.io/blob/master/files/Lemonade_Stand_Final.zip), the slides can be downloaded [here](https://github.com/mkocaoglu/mkocaoglu.github.io/blob/master/files/LemonadeStand.pdf).
+
+
+Supported by NSF CAREER grant 2239375.
