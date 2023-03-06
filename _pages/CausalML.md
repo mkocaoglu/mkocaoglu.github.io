@@ -46,7 +46,7 @@ Causal discovery from interventional data is the golden standard where we can ge
 ## *Applications of Causality in Machine Learning*
 We explore where causal inference and discovery could benefit the current machine learning methods. 
 ### Related publications
-4. M. A. Ikram, S. Chakraborty, S. Mitra, S. Saini, S. Bagchi, M. Kocaoglu, "Root Cause Analysis of Failures in Microservices through Causal Discovery," in **Proc. of NeurIPS'22**, Dec. 2022.
+4. M. A. Ikram, S. Chakraborty, S. Mitra, S. Saini, S. Bagchi, M. Kocaoglu, "Root Cause Analysis of Failures in Microservices through Causal Discovery," in Proc. of **NeurIPS'22**, Dec. 2022.
 3. K. Ahuja, P. Sattigeri, K. Shanmugam, D. Wei, K. N. Ramamurthy, M. Kocaoglu, "[Conditionally Independent Data Generation](https://www.auai.org/uai2021/pdf/uai2021.768.pdf)", in Proc. of **UAI'21**, 2021.  
 2. M. Kocaoglu\*, C. Snyder\*, A. G. Dimakis, S. Vishwanath, "[CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training](https://openreview.net/forum?id=BJE-4xW0W)," in Proc. of **ICLR'18**, Vancouver, Canada,  May 2018.  
 1. R. Sen, K. Shanmugam, M. Kocaoglu, A. G. Dimakis, S. Shakkottai, "[Contextual Bandits with Latent Confounders: An NMF Approach](http://proceedings.mlr.press/v54/sen17a.html)," in Proc. of **AISTATS'17**, 2017.  
