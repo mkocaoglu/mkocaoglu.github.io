@@ -23,6 +23,15 @@ author_profile: true
 1. Reviewer Award for NeurIPS 2018, Amongst Top 218 Reviewers
 
 ## Talks and Activities
+20. Invited Talk on “Causal Discovery via Common Entropy” at the Causal Inference & Quantum Foundations Workshop, Perimeter Institute, Waterloo, ON, Canada, Apr. 2023.
+
+19. Invited Talk on “Entropic Causal Inference and Approximate Minimum Entropy Coupling”, Information Theory Applications Workshop (ITA), San Diego, CA, Feb. 2023.
+
+18. TILOS Seminar Series Invited Talk on “Causal Discovery for Root-cause Analysis,” [Online], Jan. 2023.
+
+17. Guest Editor for the Special Issue on “Information-theoretic Methods for Causal Inference and Discovery”, Entropy,
+MDPI, 2023.
+
 16. ICON Seminar on "Causal Discovery for Root-cause Analysis", Purdue University, October 2022. [YouTube recording](https://youtu.be/c15mQnVpork?t=682).
 
 15. Pacific Northwest National Laboratory (PNNL) Research Seminar on "Causal Discovery for Root-cause Analysis", July 2022.
