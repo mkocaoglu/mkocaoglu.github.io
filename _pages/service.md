@@ -23,7 +23,7 @@ author_profile: true
 1. Reviewer Award for NeurIPS 2018, Amongst Top 218 Reviewers
 
 ## Talks and Activities
-20. Invited Talk on “Causal Discovery via Common Entropy” at the Causal Inference & Quantum Foundations Workshop, Perimeter Institute, Waterloo, ON, Canada, Apr. 2023.
+20. Invited Talk on “Causal Discovery via Common Entropy” at the Causal Inference & Quantum Foundations Workshop, Perimeter Institute, Waterloo, ON, Canada, Apr. 2023. [Recording](https://pirsa.org/23040113)
 
 19. Invited Talk on “Entropic Causal Inference and Approximate Minimum Entropy Coupling”, Information Theory Applications Workshop (ITA), San Diego, CA, Feb. 2023.
 
