@@ -15,7 +15,7 @@ I am an Assistant Professor at Purdue University in the ECE department. My curre
 
 News
 ======
-<span style="color:red"> New! </span> Our paper titled "Approximate Causal Effect Identification under Weak Confounding" is accepted at ICML'23. Prepring coming soon.
+<span style="color:red"> New! </span> Our paper titled "Approximate Causal Effect Identification under Weak Confounding" is accepted at ICML'23. Preprint coming soon.
 
 <span style="color:red"> New! </span> Our lab received the [NSF CAREER grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239375)! 
 
