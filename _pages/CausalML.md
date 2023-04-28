@@ -30,6 +30,7 @@ Our group's research is focused on developing fundamental algorithms for causal 
 ## *Information Theoretic Causal Discovery from Observational Data*
 We would like to extend the limits of the existing causal discovery algorithms from observational data. We establish connections with information theory and develop efficient algorithms for causal structure discovery using these connections.  
 ### Related publications:
+7. Z. Jiang, L. Wei, M. Kocaoglu, "Approximate Causal Effect Identification under Weak Confounding," to appear in Proc. of **ICML'23**, Honolulu, HI, USA, July 2023.
 6. S. Compton, D. Katz, B. Qi, K. Greenewald, M. Kocaoglu, "Minimum-Entropy Coupling Approximation Guarantees Beyond the Majorization Barrier," in Proc. of **AISTATS'23**, Valencia, Spain, April 2023.
 5. S. Compton, K. Greenewald, D. Katz, M. Kocaoglu, “[Entropic Causal Inference: Graph Identifiability](https://proceedings.mlr.press/v162/compton22a.html)”, in Proc. of **ICML’22**, July 2022.
 4. S. Compton, M. Kocaoglu, Kristjan Greenewald, Dmitriy Katz, "[Entropic Causal Inference: Identifiability and Finite Sample Results](https://proceedings.neurips.cc/paper/2020/hash/a979ca2444b34449a2c80b012749e9cd-Abstract.html)," in Proc. of **NeurIPS'20**, Online, Dec. 2020.  
