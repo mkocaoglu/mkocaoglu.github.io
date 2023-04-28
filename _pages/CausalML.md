@@ -24,6 +24,7 @@ redirect_from:
 - Shanyun Gao
 - Qasim Elahi
 
+
 # Projects
 Our group's research is focused on developing fundamental algorithms for causal discovery and inference from data. Some threads we focus on are as follows:
 
