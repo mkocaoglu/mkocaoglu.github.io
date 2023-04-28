@@ -22,7 +22,7 @@ redirect_from:
 - Kenneth Lee [📄](https://kenneth-lee-ch.github.io/)
 - Ziwei Jiang [📄](https://ziwei-jiang.github.io/)
 - Shanyun Gao
-- Qasim Elahi
+- Qasim Elahi [📄](https://qasimelahi.github.io/QasimElahi/)
 
 
 # Projects
