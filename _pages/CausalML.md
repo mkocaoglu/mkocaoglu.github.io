@@ -12,6 +12,18 @@ redirect_from:
 ---
 {% include base_path %}
 
+# Current Members
+
+## PostDoc Researchers
+- Lai Wei
+ 
+## PhD Students
+- Md. Musfiqur Rahman [📄](https://sites.google.com/view/musfiqshohan/)
+- Kenneth Lee [📄](https://kenneth-lee-ch.github.io/)
+- Ziwei Jiang [📄](https://ziwei-jiang.github.io/)
+- Shanyun Gao
+- Qasim Elahi
+
 # Projects
 Our group's research is focused on developing fundamental algorithms for causal discovery and inference from data. Some threads we focus on are as follows:
 
@@ -53,17 +65,7 @@ We explore where causal inference and discovery could benefit the current machin
 
 <br/>
 
-# Current Members
-
-## PostDoc Researchers
-- Lai Wei
- 
-## PhD Students
-- Md. Musfiqur Rahman [📄](https://sites.google.com/view/musfiqshohan/)
-- Kenneth Lee [📄](https://kenneth-lee-ch.github.io/)
-- Ziwei Jiang [📄](https://ziwei-jiang.github.io/)
-- Shanyun Gao
-- Qasim Elahi
+# Past Members
 
 ## Visiting Researcher
 - Suyeong Park, *July - August 2022* [📄](https://euphoria0-0.github.io/tabs/about/)
