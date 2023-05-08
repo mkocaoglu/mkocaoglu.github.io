@@ -9,7 +9,7 @@ Most of my work are published in open-access machine learning conferences. If yo
 The links below will take you to the publishers' pages. For the most recent versions of the papers including corrections, please refer to the arXiv versions [here](https://arxiv.org/search/?query=Murat+Kocaoglu&searchtype=author&abstracts=show&order=-announced_date_first&size=50). 
 
 ## Machine Learning
-24. K. Lee, Md. M. Rahman, M. Kocaoglu, "Finding Invariant Predictors Efficiently via Causal Structure," to appear in Proc. of **UAI'23**, Pittsburgh, PA, USA, Aug. 2023.
+24. K. Lee, M. M. Rahman, M. Kocaoglu, "Finding Invariant Predictors Efficiently via Causal Structure," to appear in Proc. of **UAI'23**, Pittsburgh, PA, USA, Aug. 2023.
 
 23. Z. Jiang, L. Wei, M. Kocaoglu, "Approximate Causal Effect Identification under Weak Confounding," to appear in Proc. of **ICML'23**, Honolulu, HI, USA, July 2023.
 
