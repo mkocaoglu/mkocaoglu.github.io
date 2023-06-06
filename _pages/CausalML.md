@@ -28,7 +28,7 @@ redirect_from:
 # Projects
 Our group's research is focused on developing fundamental algorithms for causal discovery and inference from data. Some threads we focus on are as follows:
 
-## *Information Theoretic Causal Discovery from Observational Data*
+## *Information Theoretic Causal Inference and Discovery from Observational Data*
 We would like to extend the limits of the existing causal discovery algorithms from observational data. We establish connections with information theory and develop efficient algorithms for causal structure discovery using these connections.  
 ### Related publications:
 7. Z. Jiang, L. Wei, M. Kocaoglu, "Approximate Causal Effect Identification under Weak Confounding," to appear in Proc. of **ICML'23**, Honolulu, HI, USA, July 2023.
