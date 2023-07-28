@@ -6,21 +6,6 @@ author_profile: true
 ---
 
 {% include base_path %}
-## Recognitions
-
-7. Reviewer Award for UAI 2022, Top Reviewer
-
-6. Reviewer Award for ICLR 2022, Highlighted Reviewer
-
-5. Reviewer Award for UAI’21, Amongst Top 5% of Reviewers
-
-4. Reviewer Award for ICLR 2021, Outstanding Reviewer
-
-3. Reviewer Award for ICML 2020, Amongst Top 33% of Reviewers
-
-2. Reviewer Award for NeurIPS 2019, Amongst Top 50% of Reviewers
-
-1. Reviewer Award for NeurIPS 2018, Amongst Top 218 Reviewers
 
 ## Talks and Activities
 20. Invited Talk on “Causal Discovery via Common Entropy” at the Causal Inference & Quantum Foundations Workshop, Perimeter Institute, Waterloo, ON, Canada, Apr. 2023. [Recording](https://pirsa.org/23040113)
@@ -64,6 +49,24 @@ MDPI, 2023.
 
 1. M. Kocaoglu, “Energy Minimization with Coding: Minimum Energy Channel and Network Codes,” COST Action IC0804 Meeting, Istanbul, Turkey, Dec. 2012.
 
+## Recognitions
+
+7. Reviewer Award for UAI 2022, Top Reviewer
+
+6. Reviewer Award for ICLR 2022, Highlighted Reviewer
+
+5. Reviewer Award for UAI’21, Amongst Top 5% of Reviewers
+
+4. Reviewer Award for ICLR 2021, Outstanding Reviewer
+
+3. Reviewer Award for ICML 2020, Amongst Top 33% of Reviewers
+
+2. Reviewer Award for NeurIPS 2019, Amongst Top 50% of Reviewers
+
+1. Reviewer Award for NeurIPS 2018, Amongst Top 218 Reviewers
+
+## Area Chair (AC) for conferences
+- 2023 Thirty-seventh Conference on Neural Information Processing Systems - NeurIPS'23
 
 ## Senior PC Member (Meta-reviewer) for conferences
 - 2022 Thirty-Seventh AAAI Conference on Artificial Intelligence - AAAI'23
