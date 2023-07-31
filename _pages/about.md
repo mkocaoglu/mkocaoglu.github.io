@@ -15,9 +15,9 @@ I am an Assistant Professor at Purdue University in the ECE department. My curre
 
 News
 ======
-<span style="color:red"> New! </span> Our paper titled "Finding Invariant Predictors Efficiently via Causal Structure" is accepted at UAI'23. Preprint coming soon.
+<span style="color:red"> New! </span> Our paper titled "Finding Invariant Predictors Efficiently via Causal Structure" is accepted at UAI'23 [here](https://proceedings.mlr.press/v216/lee23a.html).
 
-<span style="color:red"> New! </span> Our paper titled "Approximate Causal Effect Identification under Weak Confounding" is accepted at ICML'23. Preprint coming soon.
+<span style="color:red"> New! </span> Our paper titled "Approximate Causal Effect Identification under Weak Confounding" is accepted at ICML'23 [here](https://openreview.net/pdf?id=iRBKUnIjR2).
 
 <span style="color:red"> New! </span> Our lab received the [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239375)! 
 
