@@ -60,7 +60,7 @@ The links below will take you to the publishers' pages. For the most recent vers
 ## Communications
 
 ### Journals
-5. M. Kocaoglu, O. B. Akan, "Energy Minimization with Network Coding," to appear in IEEE Systems Journal, Special Issue on Green Communications, Computing and Systems, 2015.
+5. M. Kocaoglu, O. B. Akan, "Energy Minimization with Network Coding," in IEEE Systems Journal, Special Issue on Green Communications, Computing and Systems, 2015.
 
 4. M. Kocaoglu, B. Gulbahar, O. B. Akan, "Stochastic Resonance in Graphene Bi-layer Optical Nanoreceivers," in IEEE Transactions on Nanotechnology, vol. 13, no. 6, pp. 1107-1117, November 2014.
 
