@@ -11,7 +11,7 @@ redirect_from:
   - "/causalML"
 ---
 
-![CausalML Lab Logo](/images/lablogo.png){:width="10%"}
+![CausalML Lab Logo](/images/lablogo.png){:height="40px" width="40px"}
 
 {% include base_path %}
 
