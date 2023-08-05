@@ -17,12 +17,12 @@ redirect_from:
 
 <img align="left" src="/images/lablogo.png" width="150px" style="float:left padding-right:10px"> Causal reasoning is essential for artificial intelligence. In CausalML lab, we develop new theoretical results that give us insights about some of the causal discovery and inference problems, and develop novel algorithms based on these insights. Our research can be broadly categorized into multiple pillars _i) information theoretic causal inference and discovery, ii) experimental design for causal discovery, iii) causal discovery from interventional data, iv) applications of causality in machine learning._
 
-# Current Members
+# *Current Members*
 
-## PostDoc Researchers
+## *PostDoc Researchers*
 - Lai Wei
  
-## PhD Students
+## *PhD Students*
 - Md. Musfiqur Rahman [📄](https://sites.google.com/view/musfiqshohan/)
 - Kenneth Lee [📄](https://kenneth-lee-ch.github.io/)
 - Ziwei Jiang [📄](https://ziwei-jiang.github.io/)
