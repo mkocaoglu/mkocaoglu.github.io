@@ -63,7 +63,7 @@ Causal discovery from interventional data is the golden standard where we can ge
 1. M. Kocaoglu\*, A. Jaber\*, K. Shanmugam\*, E. Bareinboim, “[Characterization and Learning of Causal Graphs with Latent Variables from Soft Interventions](https://docs.google.com/viewer?url=https://github.com/mkocaoglu/mkocaoglu.github.io/raw/master/files/NeurIPS_19__Characterization_and_Learning_of_Causal_Graphs_with_Latent_Variables_from_Soft_Interventions.pdf),” in Proc. of **NeurIPS'19**, Vancouver, Canada, Dec. 2019.  
 
 ## *Applications of Causality in Machine Learning*
-We explore where causal inference and discovery could benefit the current machine learning methods. 
+We explore ways in which causal inference and discovery can help machine learning. 
 ### Related publications
 5. K. Lee, M. M. Rahman, M. Kocaoglu, "[Finding Invariant Predictors Efficiently via Causal Structure](https://proceedings.mlr.press/v216/lee23a.html)," in Proc. of UAI'23, Pittsburgh, PA, USA, Aug. 2023.
 4. M. A. Ikram, S. Chakraborty, S. Mitra, S. Saini, S. Bagchi, M. Kocaoglu, "[Root Cause Analysis of Failures in Microservices through Causal Discovery](https://openreview.net/pdf?id=weoLjoYFvXY)," in Proc. of **NeurIPS'22**, Dec. 2022.
