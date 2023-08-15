@@ -66,6 +66,8 @@ MDPI, 2023.
 1. Reviewer Award for NeurIPS 2018, Amongst Top 218 Reviewers
 
 ## Area Chair (AC) for conferences
+- 2024 The Twelfth International Conference on Learning Representations - ICLR'24
+  
 - 2023 Thirty-seventh Conference on Neural Information Processing Systems - NeurIPS'23
 
 ## Senior PC Member (Meta-reviewer) for conferences
