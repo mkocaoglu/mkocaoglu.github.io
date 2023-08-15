@@ -82,7 +82,11 @@ MDPI, 2023.
 - 2020 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence – IJCAI-PRICAI 2020
 
 ## Reviewer for conferences
+- 2022 Thirty-sixth Conference on Neural Information Processing Systems - NeurIPS'22
+
 - 2021 37th Conference on Uncertainty in Artificial Intelligence - UAI 2021
+
+- 2021 Thirty-fifth Conference on Neural Information Processing Systems - NeurIPS'21
 
 - 2020 The 24nd International Conference on Artificial Intelligence and Statistics - AISTATS'21
 
