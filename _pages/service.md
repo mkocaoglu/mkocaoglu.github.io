@@ -12,7 +12,7 @@ author_profile: true
 
 19. Invited Talk on “Entropic Causal Inference and Approximate Minimum Entropy Coupling”, Information Theory Applications Workshop (ITA), San Diego, CA, Feb. 2023.
 
-18. TILOS Seminar Series Invited Talk on “Causal Discovery for Root-cause Analysis,” [Online], Jan. 2023.
+18. TILOS Seminar Series Invited Talk on “Causal Discovery for Root-cause Analysis,” [Online](https://www.youtube.com/watch?v=s1LMszpjew8), Jan. 2023.
 
 17. Guest Editor for the Special Issue on “Information-theoretic Methods for Causal Inference and Discovery”, Entropy,
 MDPI, 2023.
