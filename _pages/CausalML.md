@@ -26,7 +26,7 @@ redirect_from:
 - Md. Musfiqur Rahman [📄](https://sites.google.com/view/musfiqshohan/)
 - Kenneth Lee [📄](https://kenneth-lee-ch.github.io/)
 - Ziwei Jiang [📄](https://ziwei-jiang.github.io/)
-- Shanyun Gao
+- Shanyun Gao [📄](https://sites.google.com/view/shanyungao/home)
 - Qasim Elahi [📄](https://qasimelahi.github.io/QasimElahi/)
 
 
