@@ -15,15 +15,23 @@ I am an Assistant Professor at Purdue University in the ECE department. My curre
 
 News
 ======
+<span style="color:red"> New! </span> Our paper titled "Characterization and Learning of Causal Graphs with Small Conditioning Sets" is accepted at NeurIPS'23. The preprint is coming soon.
+
+<span style="color:red"> New! </span> Our paper titled "Front-door Adjustment Beyond Markov Equivalence with Limited Graph Knowledge" is accepted at NeurIPS'23. The preprint is coming soon.
+
+<span style="color:red"> New! </span> Our paper titled "Approximate Allocation Matching for Structural Causal Bandits with Unobserved Confounders" is accepted at NeurIPS'23. The preprint is coming soon.
+
+<span style="color:red"> New! </span> Our paper titled "Causal Discovery in Semi-Stationary Time Series" is accepted at NeurIPS'23. The preprint is coming soon.
+
 <span style="color:red"> New! </span> Our paper titled "Finding Invariant Predictors Efficiently via Causal Structure" is accepted at UAI'23 [here](https://proceedings.mlr.press/v216/lee23a.html).
 
 <span style="color:red"> New! </span> Our paper titled "Approximate Causal Effect Identification under Weak Confounding" is accepted at ICML'23 [here](https://openreview.net/pdf?id=iRBKUnIjR2).
 
+<span style="color:red"> New! </span> I am the guest editor for the special issue of Entropy on "Information-theoretic Methods for Causal Inference and Discovery" [here](https://www.mdpi.com/journal/entropy/special_issues/253LDBW7Y9). Please submit your papers on the topic! 
+
 <span style="color:red"> New! </span> Our lab received the [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239375)! 
 
-<span style="color:red"> New! </span> Our paper titled "Minimum-Entropy Coupling Approximation Guarantees Beyond the Majorization Barrier" is accepted at AISTATS'23 [here](https://proceedings.mlr.press/v206/compton23a/compton23a.pdf). 
-
-<span style="color:red"> New! </span> I am the guest editor for the special issue of Entropy on "Information-theoretic Methods for Causal Inference and Discovery" [here](https://www.mdpi.com/journal/entropy/special_issues/253LDBW7Y9). Please submit your papers on the topic! 
+Our paper titled "Minimum-Entropy Coupling Approximation Guarantees Beyond the Majorization Barrier" is accepted at AISTATS'23 [here](https://proceedings.mlr.press/v206/compton23a/compton23a.pdf). 
 
 Our paper titled "Root Cause Analysis of Failures in Microservices through Causal Discovery" is accepted at NeurIPS'22 [here](https://openreview.net/pdf?id=weoLjoYFvXY).
 
