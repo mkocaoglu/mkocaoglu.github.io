@@ -77,7 +77,7 @@ We explore ways in which causal inference and discovery can help more robust and
 # Past Members
 
 ## PostDoc Researchers
-- Lai Wei
+- Lai Wei, *August 2022 - August 2023* [📄](https://openreview.net/profile?id=~Lai_Wei5) 
   
 ## Visiting Researcher
 - Suyeong Park, *July - August 2022* [📄](https://euphoria0-0.github.io/tabs/about/)
