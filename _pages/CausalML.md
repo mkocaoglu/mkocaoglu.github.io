@@ -28,6 +28,7 @@ redirect_from:
 - Ziwei Jiang [📄](https://ziwei-jiang.github.io/)
 - Shanyun Gao [📄](https://sites.google.com/view/shanyungao/home)
 - Qasim Elahi [📄](https://qasimelahi.github.io/QasimElahi/)
+- Zihan Zhou
 
 
 # Projects
