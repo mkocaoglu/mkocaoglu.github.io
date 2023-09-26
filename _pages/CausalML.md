@@ -65,7 +65,7 @@ We are interested in developing a fundamental understanding of how much causal k
 
 
 ## *Causal Machine Learning*
-We explore ways in which causal inference and discovery can help machine learning. 
+We explore ways in which causal inference and discovery can help more robust and practical machine learning solutions. 
 ### Related publications
 6. L. Wei, M. Q. Elahi, M. Ghasemi, M. Kocaoglu, “Approximate Allocation Matching for Structural Causal Bandits with Unobserved Confounders,” in Proc. of **NeurIPS’23**, New Orleans, LA, USA, Dec. 2023.
 5. K. Lee, M. M. Rahman, M. Kocaoglu, "[Finding Invariant Predictors Efficiently via Causal Structure](https://proceedings.mlr.press/v216/lee23a.html)," in Proc. of UAI'23, Pittsburgh, PA, USA, Aug. 2023.
