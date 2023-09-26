@@ -31,10 +31,11 @@ redirect_from:
 
 
 # Projects
-Our group's research is focused on developing fundamental algorithms for causal discovery and inference from data. Some threads we focus on are as follows:
+Our group's research is focused on developing fundamental algorithms for causal discovery and inference from data, and exploring the connections between causality and machine learning, information theory, graph theory, deep learning, online learning. Some threads we focus on are as follows:
 
-## *Information Theoretic Causal Inference and Discovery from Observational Data*
-We would like to extend the limits of the existing causal discovery algorithms from observational data. We establish connections with information theory and develop efficient algorithms for causal structure discovery using these connections.  
+## *Optimism for Practical and Approximate Causal Reasoning*
+Information-theoretic tools provide us with ways to go beyond the boundaries of classical causal reasoning algorithms and make approximate causal inferences under practical assumptions. 
+
 ### Related publications:
 7. Z. Jiang, L. Wei, M. Kocaoglu, "[Approximate Causal Effect Identification under Weak Confounding](https://openreview.net/pdf?id=iRBKUnIjR2)," in Proc. of **ICML'23**, Honolulu, HI, USA, July 2023.
 6. S. Compton, D. Katz, B. Qi, K. Greenewald, M. Kocaoglu, "Minimum-Entropy Coupling Approximation Guarantees Beyond the Majorization Barrier," in Proc. of **AISTATS'23**, Valencia, Spain, April 2023.
