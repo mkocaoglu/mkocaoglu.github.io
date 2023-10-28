@@ -29,7 +29,7 @@ redirect_from:
 
 
 # Projects
-Our group's research is focused on developing fundamental algorithms for causal discovery and inference from data, and exploring the connections between causality and machine learning, information theory, graph theory, deep learning, online learning. Some threads we focus on are as follows:
+Our group's research is focused on developing fundamental algorithms for causal discovery and inference from data, and exploring the connections between causality and machine learning, information theory, graph theory, deep learning, online learning. Some threads we focus on are as follows. The implementations of our algorithms can be found at \url{https://github.com/CausalML-Lab}.
 
 ## *Optimism for Practical and Approximate Causal Reasoning*
 Information-theoretic tools provide us with ways to go beyond the boundaries of classical causal reasoning algorithms and make approximate causal inferences under practical assumptions. 
