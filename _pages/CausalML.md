@@ -15,7 +15,7 @@ redirect_from:
 
 {% include base_path %}
 
-<img align="left" src="/images/lablogo.png" width="150px" style="float:left; padding-right:10px"> Causal reasoning is essential for artificial intelligence and machine learning. In CausalML lab, we develop new theoretical results that give us insights about fundamental causal discovery and inference problems, and develop novel algorithms based on these insights. Our research can be broadly categorized into multiple pillars _i) Optimism for Practical and Approximate Causal Reasoning, ii) Fundamentals of Causal Inference and Discovery, iii) Causal Machine Learning._
+<img align="left" src="/images/lablogo.png" width="150px" style="float:left; padding-right:10px"> Causal reasoning is essential for artificial intelligence and machine learning. In CausalML lab, we develop new theoretical results that give us insights about fundamental causal discovery and inference problems, and develop novel algorithms based on these insights. Our research can be broadly categorized into multiple pillars _i) Optimism for Practical and Approximate Causal Reasoning, ii) Causal Machine Learning, iii) Fundamentals of Causal Inference and Discovery, iv) High-dimensional Causal Inference with Deep Generative Models (coming soon)._
 
 # Current Members
  
@@ -36,7 +36,7 @@ Information-theoretic tools provide us with ways to go beyond the boundaries of 
 
 ### Related publications:
 7. Z. Jiang, L. Wei, M. Kocaoglu, "[Approximate Causal Effect Identification under Weak Confounding](https://openreview.net/pdf?id=iRBKUnIjR2)," in Proc. of **ICML'23**, Honolulu, HI, USA, July 2023.
-6. S. Compton, D. Katz, B. Qi, K. Greenewald, M. Kocaoglu, "Minimum-Entropy Coupling Approximation Guarantees Beyond the Majorization Barrier," in Proc. of **AISTATS'23**, Valencia, Spain, April 2023.
+6. S. Compton, D. Katz, B. Qi, K. Greenewald, M. Kocaoglu, "[Minimum-Entropy Coupling Approximation Guarantees Beyond the Majorization Barrier](https://proceedings.mlr.press/v206/compton23a/compton23a.pdf)," in Proc. of **AISTATS'23**, Valencia, Spain, April 2023.
 5. S. Compton, K. Greenewald, D. Katz, M. Kocaoglu, “[Entropic Causal Inference: Graph Identifiability](https://proceedings.mlr.press/v162/compton22a.html)”, in Proc. of **ICML’22**, July 2022.
 4. S. Compton, M. Kocaoglu, Kristjan Greenewald, Dmitriy Katz, "[Entropic Causal Inference: Identifiability and Finite Sample Results](https://proceedings.neurips.cc/paper/2020/hash/a979ca2444b34449a2c80b012749e9cd-Abstract.html)," in Proc. of **NeurIPS'20**, Online, Dec. 2020.  
 3. M. Kocaoglu, S. Shakkottai, A. G. Dimakis, C. Caramanis, S. Vishwanath, "[Applications of Common Entropy for Causal Inference](https://proceedings.neurips.cc/paper/2020/hash/cae7115f44837c806c9b23ed00a1a28a-Abstract.html)," in Proc. of **NeurIPS'20**, Online, Dec. 2020.
