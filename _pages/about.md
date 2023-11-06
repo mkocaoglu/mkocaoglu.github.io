@@ -15,13 +15,13 @@ I am an Assistant Professor at Purdue University in the ECE department. My curre
 
 News
 ======
-<span style="color:red"> New! </span> Our paper titled "Characterization and Learning of Causal Graphs with Small Conditioning Sets" is accepted at NeurIPS'23. The preprint is coming soon.
+<span style="color:red"> New! </span> Our paper titled "Characterization and Learning of Causal Graphs with Small Conditioning Sets" is accepted at NeurIPS'23 [here](https://openreview.net/forum?id=cANkPsVtsw).
 
-<span style="color:red"> New! </span> Our paper titled "Front-door Adjustment Beyond Markov Equivalence with Limited Graph Knowledge" is accepted at NeurIPS'23. The preprint is coming soon.
+<span style="color:red"> New! </span> Our paper titled "Front-door Adjustment Beyond Markov Equivalence with Limited Graph Knowledge" is accepted at NeurIPS'23 [here](https://openreview.net/forum?id=h3kuB4z2G9).
 
-<span style="color:red"> New! </span> Our paper titled "Approximate Allocation Matching for Structural Causal Bandits with Unobserved Confounders" is accepted at NeurIPS'23. The preprint is coming soon.
+<span style="color:red"> New! </span> Our paper titled "Approximate Allocation Matching for Structural Causal Bandits with Unobserved Confounders" is accepted at NeurIPS'23 [here](https://openreview.net/forum?id=Q3CRHnttxW).
 
-<span style="color:red"> New! </span> Our paper titled "Causal Discovery in Semi-Stationary Time Series" is accepted at NeurIPS'23. The preprint is coming soon.
+<span style="color:red"> New! </span> Our paper titled "Causal Discovery in Semi-Stationary Time Series" is accepted at NeurIPS'23 [here](https://openreview.net/forum?id=dYeUvLUxBQ).
 
 <span style="color:red"> New! </span> Our paper titled "Finding Invariant Predictors Efficiently via Causal Structure" is accepted at UAI'23 [here](https://proceedings.mlr.press/v216/lee23a.html).
 
