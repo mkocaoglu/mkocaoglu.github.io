@@ -9,13 +9,13 @@ Most of my work are published in open-access machine learning conferences. If yo
 The links below will take you to the publishers' pages. For the most recent versions of the papers including corrections, please refer to the arXiv versions [here](https://arxiv.org/search/?query=Murat+Kocaoglu&searchtype=author&abstracts=show&order=-announced_date_first&size=50). 
 
 ## Machine Learning
-28. M. Kocaoglu, "Characterization and Learning of Causal Graphs with Small Conditioning Sets," to appear in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
+28. M. Kocaoglu, "[Characterization and Learning of Causal Graphs with Small Conditioning Sets](https://openreview.net/forum?id=cANkPsVtsw)," to appear in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
 
-27. A. Shah, K. Shanmugam, M. Kocaoglu, "Front-door Adjustment Beyond Markov Equivalence with Limited Graph Knowledge," to appear in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
+27. A. Shah, K. Shanmugam, M. Kocaoglu, "[Front-door Adjustment Beyond Markov Equivalence with Limited Graph Knowledge](https://openreview.net/forum?id=h3kuB4z2G9)," to appear in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
 
-26. L. Wei, M. Q. Elahi, M. Ghasemi, M. Kocaoglu, "Approximate Allocation Matching for Structural Causal Bandits with Unobserved Confounders," to appear in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
+26. L. Wei, M. Q. Elahi, M. Ghasemi, M. Kocaoglu, "[Approximate Allocation Matching for Structural Causal Bandits with Unobserved Confounders](https://openreview.net/forum?id=Q3CRHnttxW)," to appear in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
 
-25. S. Gao, R. Addanki, T. Yu, R. A. Rossi, M. Kocaoglu, "Causal Discovery in Semi-Stationary Time Series," to appear in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
+25. S. Gao, R. Addanki, T. Yu, R. A. Rossi, M. Kocaoglu, "[Causal Discovery in Semi-Stationary Time Series](https://openreview.net/forum?id=dYeUvLUxBQ)," to appear in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
 
 24. K. Lee, M. M. Rahman, M. Kocaoglu, "[Finding Invariant Predictors Efficiently via Causal Structure](https://proceedings.mlr.press/v216/lee23a.html)," to appear in Proc. of **UAI'23**, Pittsburgh, PA, USA, Aug. 2023.
 
