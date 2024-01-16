@@ -9,6 +9,8 @@ Most of my work are published in open-access machine learning conferences. If yo
 The links below will take you to the publishers' pages. For the most recent versions of the papers including corrections, please refer to the arXiv versions [here](https://arxiv.org/search/?query=Murat+Kocaoglu&searchtype=author&abstracts=show&order=-announced_date_first&size=50). 
 
 ## Machine Learning
+29. Sean Kulinski, Zeyu Zhou, Ruqi Bai, Murat Kocaoglu, David I. Inouye [Towards Characterizing Domain Counterfactuals for Invertible Latent Causal Models](https://openreview.net/forum?id=v1VvCWJAL8)" to appear in Proc. of **ICLR'24**, Vienna, Austria, May 2024.
+
 28. M. Kocaoglu, "[Characterization and Learning of Causal Graphs with Small Conditioning Sets](https://openreview.net/forum?id=cANkPsVtsw)," to appear in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
 
 27. A. Shah, K. Shanmugam, M. Kocaoglu, "[Front-door Adjustment Beyond Markov Equivalence with Limited Graph Knowledge](https://openreview.net/forum?id=h3kuB4z2G9)," to appear in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
