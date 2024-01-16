@@ -15,6 +15,8 @@ I am an Assistant Professor at Purdue University in the ECE department. My curre
 
 News
 ======
+<span style="color:red"> New! </span> Our paper titled "Towards Characterizing Domain Counterfactuals for Invertible Latent Causal Models" is accepted at ICLR'24 [here](https://openreview.net/forum?id=v1VvCWJAL8).
+
 <span style="color:red"> New! </span> Our paper titled "Characterization and Learning of Causal Graphs with Small Conditioning Sets" is accepted at NeurIPS'23 [here](https://openreview.net/forum?id=cANkPsVtsw).
 
 <span style="color:red"> New! </span> Our paper titled "Front-door Adjustment Beyond Markov Equivalence with Limited Graph Knowledge" is accepted at NeurIPS'23 [here](https://openreview.net/forum?id=h3kuB4z2G9).
