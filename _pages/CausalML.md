@@ -85,7 +85,7 @@ We are interested in developing a fundamental understanding of how much causal k
 We are interested in leveraging the representation capabilities of deep neural networks to enable sampling from causal queries in the presence of high-dimensional variables such as images. 
 
 ### Related Publications
-3. (coming soon)
+3. M. M. Rahman*, M. Jordan*, M. Kocaoglu, "[Conditional Generative Models are Sufficient to Sample from Any Causal Effect Estimand](https://arxiv.org/abs/2402.07419)," arXiv, 2024.
 2. M. M. Rahman, M. Kocaoglu, "[Modular Learning of Deep Causal Generative Models for High-dimensional Causal Inference](https://arxiv.org/abs/2401.01426)," arXiv, 2024.
 1. M. Kocaoglu\*, C. Snyder\*, A. G. Dimakis, S. Vishwanath, "[CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training](https://openreview.net/forum?id=BJE-4xW0W)," in Proc. of **ICLR'18**, Vancouver, Canada,  May 2018.  
 
