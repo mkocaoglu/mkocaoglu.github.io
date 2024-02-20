@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ## Talks and Activities
+21. Invited Talk on “Approximate Causal Effect Identification under Weak Confounding”, Information Theory Applications Workshop (ITA), San Diego, CA, Feb. 2024.
+
 20. Invited Talk on “Causal Discovery via Common Entropy” at the Causal Inference & Quantum Foundations Workshop, Perimeter Institute, Waterloo, ON, Canada, Apr. 2023. [Recording](https://pirsa.org/23040113)
 
 19. Invited Talk on “Entropic Causal Inference and Approximate Minimum Entropy Coupling”, Information Theory Applications Workshop (ITA), San Diego, CA, Feb. 2023.
