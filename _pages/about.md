@@ -10,7 +10,7 @@ redirect_from:
 
 Research
 ======
-I am an Assistant Professor at Purdue University in the ECE department. My current research focuses on developing fundamental causal inference and causal discovery algorithms and how to integrate them into causal machine learning solutions.  
+I am an Assistant Professor in The Elmore Family School of Electrical and Computer Engineering and in the Department of Statistics (by courtesy) at Purdue University. My current research focuses on developing fundamental causal inference and causal discovery algorithms and how to integrate them into causal machine learning solutions.  
 
 News
 ======
