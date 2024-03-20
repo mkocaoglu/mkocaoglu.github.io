@@ -103,4 +103,4 @@ We are interested in leveraging the representation capabilities of deep neural n
 <br/>
 
 # Acknowledgement
-Our lab is currently supported by funding from the National Science Foundation (NSF), and Adobe Research. 
+Our lab is currently supported by the National Science Foundation (NSF), Adobe Research, Amazon, and Google. 
