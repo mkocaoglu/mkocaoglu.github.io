@@ -24,13 +24,13 @@ News
 
 <span style="color:red"> New! </span> Our paper titled "Causal Discovery in Semi-Stationary Time Series" is accepted at NeurIPS'23 [here](https://openreview.net/forum?id=dYeUvLUxBQ).
 
-<span style="color:red"> New! </span> Our paper titled "Finding Invariant Predictors Efficiently via Causal Structure" is accepted at UAI'23 [here](https://proceedings.mlr.press/v216/lee23a.html).
+Our paper titled "Finding Invariant Predictors Efficiently via Causal Structure" is accepted at UAI'23 [here](https://proceedings.mlr.press/v216/lee23a.html).
 
-<span style="color:red"> New! </span> Our paper titled "Approximate Causal Effect Identification under Weak Confounding" is accepted at ICML'23 [here](https://openreview.net/pdf?id=iRBKUnIjR2).
+Our paper titled "Approximate Causal Effect Identification under Weak Confounding" is accepted at ICML'23 [here](https://openreview.net/pdf?id=iRBKUnIjR2).
 
-<span style="color:red"> New! </span> I am the guest editor for the special issue of Entropy on "Information-theoretic Methods for Causal Inference and Discovery" [here](https://www.mdpi.com/journal/entropy/special_issues/253LDBW7Y9). Please submit your papers on the topic! 
+I am the guest editor for the special issue of Entropy on "Information-theoretic Methods for Causal Inference and Discovery" [here](https://www.mdpi.com/journal/entropy/special_issues/253LDBW7Y9). Please submit your papers on the topic! 
 
-<span style="color:red"> New! </span> Our lab received the [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239375)! 
+Our lab received the [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239375)! 
 
 Our paper titled "Minimum-Entropy Coupling Approximation Guarantees Beyond the Majorization Barrier" is accepted at AISTATS'23 [here](https://proceedings.mlr.press/v206/compton23a/compton23a.pdf). 
 
