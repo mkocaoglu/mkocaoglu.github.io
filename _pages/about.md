@@ -14,7 +14,7 @@ I am an Assistant Professor in The Elmore Family School of Electrical and Comput
 
 News
 ======
-<span style="color:red"> New! </span> Our lab received the Amazon Research Award in AI for Information Security on [Causal Anomaly Detection](https://www.amazon.science/research-awards/recipients/murat-kocaoglu)!
+<span style="color:red"> New! </span> Our lab received the [Amazon Research Award]((https://www.amazon.science/research-awards/recipients/murat-kocaoglu)) in AI for Information Security on Causal Anomaly Detection!
 
 <span style="color:red"> New! </span> Our paper titled "Towards Characterizing Domain Counterfactuals for Invertible Latent Causal Models" is accepted at ICLR'24 [here](https://openreview.net/forum?id=v1VvCWJAL8).
 
