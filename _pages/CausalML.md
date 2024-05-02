@@ -43,6 +43,7 @@ Our group's research is focused on developing fundamental algorithms for causal 
 Information-theoretic tools provide us with ways to go beyond the boundaries of classical causal reasoning algorithms and make approximate causal inferences under practical assumptions. 
 
 ### Related publications:
+8. Z. Jiang, M. Kocaoglu, "Conditional Common Entropy for Instrumental Variable Testing and Partial Identification," in Proc. of **ICML'24**, Vienna, Austria, July 2024.
 7. Z. Jiang, L. Wei, M. Kocaoglu, "[Approximate Causal Effect Identification under Weak Confounding](https://openreview.net/pdf?id=iRBKUnIjR2)," in Proc. of **ICML'23**, Honolulu, HI, USA, July 2023.
 6. S. Compton, D. Katz, B. Qi, K. Greenewald, M. Kocaoglu, "[Minimum-Entropy Coupling Approximation Guarantees Beyond the Majorization Barrier](https://proceedings.mlr.press/v206/compton23a/compton23a.pdf)," in Proc. of **AISTATS'23**, Valencia, Spain, April 2023.
 5. S. Compton, K. Greenewald, D. Katz, M. Kocaoglu, “[Entropic Causal Inference: Graph Identifiability](https://proceedings.mlr.press/v162/compton22a.html)”, in Proc. of **ICML’22**, July 2022.
@@ -56,6 +57,7 @@ Information-theoretic tools provide us with ways to go beyond the boundaries of 
 ## *Causal Machine Learning*
 We explore ways in which causal inference and discovery can help more robust and practical machine learning solutions. 
 ### Related publications
+7. M. Q.Elahi, L. Wei, M. Kocaoglu, M. Ghasemi, "Adaptive Online Experimental Design for Causal Discovery," in Proc. of **ICML'24**, Austria, Vienna, July 2024.
 6. Sean Kulinski, Zeyu Zhou, Ruqi Bai, Murat Kocaoglu, David I. Inouye [Towards Characterizing Domain Counterfactuals for Invertible Latent Causal Models](https://openreview.net/forum?id=v1VvCWJAL8)" to appear in Proc. of **ICLR'24**, Vienna, Austria, May 2024.
 5. L. Wei, M. Q. Elahi, M. Ghasemi, M. Kocaoglu, “Approximate Allocation Matching for Structural Causal Bandits with Unobserved Confounders,” in Proc. of **NeurIPS’23**, New Orleans, LA, USA, Dec. 2023.
 4. K. Lee, M. M. Rahman, M. Kocaoglu, "[Finding Invariant Predictors Efficiently via Causal Structure](https://proceedings.mlr.press/v216/lee23a.html)," in Proc. of **UAI'23**, Pittsburgh, PA, USA, Aug. 2023.
@@ -86,7 +88,7 @@ We are interested in leveraging the representation capabilities of deep neural n
 
 ### Related Publications
 3. M. M. Rahman\*, M. Jordan\*, M. Kocaoglu, "[Conditional Generative Models are Sufficient to Sample from Any Causal Effect Estimand](https://arxiv.org/abs/2402.07419)," arXiv, 2024.
-2. M. M. Rahman, M. Kocaoglu, "[Modular Learning of Deep Causal Generative Models for High-dimensional Causal Inference](https://arxiv.org/abs/2401.01426)," arXiv, 2024.
+2. M. M. Rahman, M. Kocaoglu, "[Modular Learning of Deep Causal Generative Models for High-dimensional Causal Inference](https://arxiv.org/abs/2401.01426)," to appear in Proc. of ICML'24, Vienna, Austria, July 2024.
 1. M. Kocaoglu\*, C. Snyder\*, A. G. Dimakis, S. Vishwanath, "[CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training](https://openreview.net/forum?id=BJE-4xW0W)," in Proc. of **ICLR'18**, Vancouver, Canada,  May 2018.  
 
 
