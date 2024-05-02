@@ -9,7 +9,13 @@ Most of my work are published in open-access machine learning conferences. If yo
 The links below will take you to the publishers' pages. For the most recent versions of the papers including corrections, please refer to the arXiv versions [here](https://arxiv.org/search/?query=Murat+Kocaoglu&searchtype=author&abstracts=show&order=-announced_date_first&size=50). 
 
 ## Machine Learning
-29. Sean Kulinski, Zeyu Zhou, Ruqi Bai, Murat Kocaoglu, David I. Inouye [Towards Characterizing Domain Counterfactuals for Invertible Latent Causal Models](https://openreview.net/forum?id=v1VvCWJAL8)" to appear in Proc. of **ICLR'24**, Vienna, Austria, May 2024.
+32. M. M. Rahman, M. Kocaoglu, "Modular Learning of Deep Causal Generative Models for High-dimensional Causal Inference," to appear in Proc. of **ICML'24**, Vienna, Austria, July 2024.
+
+31. Z. Jiang, M. Kocaoglu, "Conditional Common Entropy for Instrumental Variable Testing and Partial Identification," to appear in Proc. of **ICML'24**, Vienna, Austria, July 2024.
+
+30. M. Q. Elahi, L. Wei, M. Kocaoglu, M. Ghasemi, "Adaptive Online Experimental Design for Causal Discovery," to appear in Proc. of **ICML'24**, Vienna, Austria, July 2024.
+
+29. S. Kulinski, Z. Zhou, R. Bai, M. Kocaoglu, D. I. Inouye [Towards Characterizing Domain Counterfactuals for Invertible Latent Causal Models](https://openreview.net/forum?id=v1VvCWJAL8)" to appear in Proc. of **ICLR'24**, Vienna, Austria, May 2024.
 
 28. M. Kocaoglu, "[Characterization and Learning of Causal Graphs with Small Conditioning Sets](https://openreview.net/forum?id=cANkPsVtsw)," to appear in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
 
