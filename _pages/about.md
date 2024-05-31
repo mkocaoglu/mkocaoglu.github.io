@@ -22,6 +22,8 @@ News
 
 <span style="color:red"> New! </span> Our lab received an [NSF SMALL grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2348717&HistoricalAwards=false) for causal structure discovery from diverse data!
 
+<span style="color:red"> New! </span> Our lab received the Gemma Academic Program GCP Credit Award from Google!
+
 <span style="color:red"> New! </span> Our lab received the [Amazon Research Award](https://www.amazon.science/research-awards/recipients/murat-kocaoglu) in AI for Information Security on Causal Anomaly Detection!
 
 <span style="color:red"> New! </span> Our paper titled "Towards Characterizing Domain Counterfactuals for Invertible Latent Causal Models" is accepted at ICLR'24 [here](https://openreview.net/forum?id=v1VvCWJAL8).
