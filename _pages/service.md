@@ -8,9 +8,13 @@ author_profile: true
 {% include base_path %}
 
 ## Talks and Activities
-23. Invited Talk on "Causal Machine Learning: Fundamentals and Applications", [IDEAL Workshop on Graph Representation Learning](https://www.ideal-institute.org/2024/01/31/organizers-for-workshop-on-graph-representation-learning/), University of Illinois Chicago, May 2024.
+25. Invited Talk on "Causal Machine Learning: Fundamentals and Applications", [IDEAL Workshop on Graph Representation Learning](https://www.ideal-institute.org/2024/01/31/organizers-for-workshop-on-graph-representation-learning/), University of Illinois Chicago, May 2024.
 
-22. Invited Talk on "Causal Machine Learning: Fundamentals and Applications", [MMLS 2024](https://midwest-ml.org/2024/), Minneapolis, May 2024.
+24. Invited Talk on "Causal Machine Learning: Fundamentals and Applications", [MMLS 2024](https://midwest-ml.org/2024/), Minneapolis, May 2024.
+
+23. Invited Talk on "Causal Machine Learning: Fundamentals and Applications", Purdue University, Department of Computer Science, March 2024.
+
+22. Invited Talk on "Causal Machine Learning: Fundamentals and Applications", Middle East Technical University, Department of Electrical and Electronics Engineering, March 2024.
 
 21. Invited Talk on “Approximate Causal Effect Identification under Weak Confounding”, Information Theory Applications Workshop (ITA), San Diego, CA, Feb. 2024.
 
