@@ -13,7 +13,7 @@ The links below will take you to the publishers' pages. For the most recent vers
 
 31. Z. Jiang, M. Kocaoglu, "Conditional Common Entropy for Instrumental Variable Testing and Partial Identification," to appear in Proc. of **ICML'24**, Vienna, Austria, July 2024.
 
-30. M. Q. Elahi, L. Wei, M. Kocaoglu, M. Ghasemi, "Adaptive Online Experimental Design for Causal Discovery," to appear in Proc. of **ICML'24**, Vienna, Austria, July 2024.
+30. M. Q. Elahi, L. Wei, M. Kocaoglu, M. Ghasemi, "Adaptive Online Experimental Design for Causal Discovery," to appear in Proc. of **ICML'24** as Spotlight (3.5\% acceptance rate), Vienna, Austria, July 2024.
 
 29. S. Kulinski, Z. Zhou, R. Bai, M. Kocaoglu, D. I. Inouye [Towards Characterizing Domain Counterfactuals for Invertible Latent Causal Models](https://openreview.net/forum?id=v1VvCWJAL8)" to appear in Proc. of **ICLR'24**, Vienna, Austria, May 2024.
 
