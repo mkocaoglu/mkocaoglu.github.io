@@ -9,23 +9,23 @@ Most of my work are published in open-access machine learning conferences. If yo
 The links below will take you to the publishers' pages. For the most recent versions of the papers including corrections, please refer to the arXiv versions [here](https://arxiv.org/search/?query=Murat+Kocaoglu&searchtype=author&abstracts=show&order=-announced_date_first&size=50). 
 
 ## Machine Learning
-32. M. M. Rahman, M. Kocaoglu, "Modular Learning of Deep Causal Generative Models for High-dimensional Causal Inference," to appear in Proc. of **ICML'24**, Vienna, Austria, July 2024.
+32. M. M. Rahman, M. Kocaoglu, "Modular Learning of Deep Causal Generative Models for High-dimensional Causal Inference," in Proc. of **ICML'24**, Vienna, Austria, July 2024.
 
-31. Z. Jiang, M. Kocaoglu, "Conditional Common Entropy for Instrumental Variable Testing and Partial Identification," to appear in Proc. of **ICML'24**, Vienna, Austria, July 2024.
+31. Z. Jiang, M. Kocaoglu, "Conditional Common Entropy for Instrumental Variable Testing and Partial Identification," in Proc. of **ICML'24**, Vienna, Austria, July 2024.
 
-30. M. Q. Elahi, L. Wei, M. Kocaoglu, M. Ghasemi, "Adaptive Online Experimental Design for Causal Discovery," to appear in Proc. of **ICML'24** as Spotlight (3.5\% acceptance rate), Vienna, Austria, July 2024.
+30. M. Q. Elahi, L. Wei, M. Kocaoglu, M. Ghasemi, "Adaptive Online Experimental Design for Causal Discovery," in Proc. of **ICML'24** as Spotlight (3.5\% acceptance rate), Vienna, Austria, July 2024.
 
-29. S. Kulinski, Z. Zhou, R. Bai, M. Kocaoglu, D. I. Inouye [Towards Characterizing Domain Counterfactuals for Invertible Latent Causal Models](https://openreview.net/forum?id=v1VvCWJAL8)" to appear in Proc. of **ICLR'24**, Vienna, Austria, May 2024.
+29. S. Kulinski, Z. Zhou, R. Bai, M. Kocaoglu, D. I. Inouye [Towards Characterizing Domain Counterfactuals for Invertible Latent Causal Models](https://openreview.net/forum?id=v1VvCWJAL8)" in Proc. of **ICLR'24**, Vienna, Austria, May 2024.
 
-28. M. Kocaoglu, "[Characterization and Learning of Causal Graphs with Small Conditioning Sets](https://openreview.net/forum?id=cANkPsVtsw)," to appear in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
+28. M. Kocaoglu, "[Characterization and Learning of Causal Graphs with Small Conditioning Sets](https://openreview.net/forum?id=cANkPsVtsw)," in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
 
-27. A. Shah, K. Shanmugam, M. Kocaoglu, "[Front-door Adjustment Beyond Markov Equivalence with Limited Graph Knowledge](https://openreview.net/forum?id=h3kuB4z2G9)," to appear in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
+27. A. Shah, K. Shanmugam, M. Kocaoglu, "[Front-door Adjustment Beyond Markov Equivalence with Limited Graph Knowledge](https://openreview.net/forum?id=h3kuB4z2G9)," in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
 
-26. L. Wei, M. Q. Elahi, M. Ghasemi, M. Kocaoglu, "[Approximate Allocation Matching for Structural Causal Bandits with Unobserved Confounders](https://openreview.net/forum?id=Q3CRHnttxW)," to appear in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
+26. L. Wei, M. Q. Elahi, M. Ghasemi, M. Kocaoglu, "[Approximate Allocation Matching for Structural Causal Bandits with Unobserved Confounders](https://openreview.net/forum?id=Q3CRHnttxW)," in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
 
-25. S. Gao, R. Addanki, T. Yu, R. A. Rossi, M. Kocaoglu, "[Causal Discovery in Semi-Stationary Time Series](https://openreview.net/forum?id=dYeUvLUxBQ)," to appear in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
+25. S. Gao, R. Addanki, T. Yu, R. A. Rossi, M. Kocaoglu, "[Causal Discovery in Semi-Stationary Time Series](https://openreview.net/forum?id=dYeUvLUxBQ)," in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
 
-24. K. Lee, M. M. Rahman, M. Kocaoglu, "[Finding Invariant Predictors Efficiently via Causal Structure](https://proceedings.mlr.press/v216/lee23a.html)," to appear in Proc. of **UAI'23**, Pittsburgh, PA, USA, Aug. 2023.
+24. K. Lee, M. M. Rahman, M. Kocaoglu, "[Finding Invariant Predictors Efficiently via Causal Structure](https://proceedings.mlr.press/v216/lee23a.html)," in Proc. of **UAI'23**, Pittsburgh, PA, USA, Aug. 2023.
 
 23. Z. Jiang, L. Wei, M. Kocaoglu, "[Approximate Causal Effect Identification under Weak Confounding](https://openreview.net/pdf?id=iRBKUnIjR2)," in Proc. of **ICML'23**, Honolulu, HI, USA, July 2023.
 
