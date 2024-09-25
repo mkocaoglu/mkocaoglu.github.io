@@ -14,6 +14,14 @@ I am an Assistant Professor in The Elmore Family School of Electrical and Comput
 
 News
 ======
+<span style="color:red"> New! </span> Our paper titled "Conditional Generative Models are Sufficient to Sample from Any Causal Effect Estimand" is accepted at NeurIPS'24. Preprint coming soon!
+
+<span style="color:red"> New! </span> Our paper titled "Sample Efficient Bayesian Learning of Causal Graphs from Interventions" is accepted at NeurIPS'24. Preprint coming soon!
+
+<span style="color:red"> New! </span> Our paper titled "Partial Structure Discovery is Sufficient for No-regret Learning in Causal Bandits" is accepted at NeurIPS'24. Preprint coming soon!
+
+<span style="color:red"> New! </span> Our paper titled "Counterfactual Fairness by Combining Factual and Counterfactual Predictions" is accepted at NeurIPS'24. Preprint coming soon!
+
 <span style="color:red"> New! </span> Our paper titled "Modular Learning of Deep Causal Generative Models for High-dimensional Causal Inference" is accepted at ICML'24. Preprint [here](https://arxiv.org/abs/2401.01426).
 
 <span style="color:red"> New! </span> Our paper titled "Conditional Common Entropy for Instrumental Variable Testing and Partial Identification" is accepted at ICML'24. Preprint coming soon.
@@ -28,13 +36,13 @@ News
 
 <span style="color:red"> New! </span> Our paper titled "Towards Characterizing Domain Counterfactuals for Invertible Latent Causal Models" is accepted at ICLR'24 [here](https://openreview.net/forum?id=v1VvCWJAL8).
 
-<span style="color:red"> New! </span> Our paper titled "Characterization and Learning of Causal Graphs with Small Conditioning Sets" is accepted at NeurIPS'23 [here](https://openreview.net/forum?id=cANkPsVtsw).
+Our paper titled "Characterization and Learning of Causal Graphs with Small Conditioning Sets" is accepted at NeurIPS'23 [here](https://openreview.net/forum?id=cANkPsVtsw).
 
-<span style="color:red"> New! </span> Our paper titled "Front-door Adjustment Beyond Markov Equivalence with Limited Graph Knowledge" is accepted at NeurIPS'23 [here](https://openreview.net/forum?id=h3kuB4z2G9).
+Our paper titled "Front-door Adjustment Beyond Markov Equivalence with Limited Graph Knowledge" is accepted at NeurIPS'23 [here](https://openreview.net/forum?id=h3kuB4z2G9).
 
-<span style="color:red"> New! </span> Our paper titled "Approximate Allocation Matching for Structural Causal Bandits with Unobserved Confounders" is accepted at NeurIPS'23 [here](https://openreview.net/forum?id=Q3CRHnttxW).
+Our paper titled "Approximate Allocation Matching for Structural Causal Bandits with Unobserved Confounders" is accepted at NeurIPS'23 [here](https://openreview.net/forum?id=Q3CRHnttxW).
 
-<span style="color:red"> New! </span> Our paper titled "Causal Discovery in Semi-Stationary Time Series" is accepted at NeurIPS'23 [here](https://openreview.net/forum?id=dYeUvLUxBQ).
+Our paper titled "Causal Discovery in Semi-Stationary Time Series" is accepted at NeurIPS'23 [here](https://openreview.net/forum?id=dYeUvLUxBQ).
 
 Our paper titled "Finding Invariant Predictors Efficiently via Causal Structure" is accepted at UAI'23 [here](https://proceedings.mlr.press/v216/lee23a.html).
 
