@@ -9,6 +9,14 @@ Most of my work are published in open-access machine learning conferences. If yo
 The links below will take you to the publishers' pages. For the most recent versions of the papers including corrections, please refer to the arXiv versions [here](https://arxiv.org/search/?query=Murat+Kocaoglu&searchtype=author&abstracts=show&order=-announced_date_first&size=50). 
 
 ## Machine Learning
+36. M. M. Rahman, M. Jordan, M. Kocaoglu, "Conditional Generative Models are Sufficient to Sample from Any Causal Effect Estimand," in Proc. of **NeurIPS'24**, Vancouver, Canada, Dec. 2024.
+
+35. Z. Zhou, M. Q. Elahi, M. Kocaoglu, "Sample Efficient Bayesian Learning of Causal Graphs from Interventions," in Proc. of **NeurIPS'24**, Vancouver, Canada, Dec. 2024.
+
+34. M. Q. Elahi, M. Ghasemi, M. Kocaoglu, "Partial Structure Discovery is Sufficient for No-regret Learning in Causal Bandits," in Proc. of **NeurIPS'24**, Vancouver, Canada, Dec. 2024.
+
+33. Z. Zhou, T. Liu, R. Bai, J. Gao, M. Kocaoglu, D. I. Inouye, "Counterfactual Fairness by Combining Factual and Counterfactual Predictions," in Proc. of **NeurIPS'24**, Vancouver, Canada, Dec. 2024.
+
 32. M. M. Rahman, M. Kocaoglu, "Modular Learning of Deep Causal Generative Models for High-dimensional Causal Inference," in Proc. of **ICML'24**, Vienna, Austria, July 2024.
 
 31. Z. Jiang, M. Kocaoglu, "Conditional Common Entropy for Instrumental Variable Testing and Partial Identification," in Proc. of **ICML'24**, Vienna, Austria, July 2024.
