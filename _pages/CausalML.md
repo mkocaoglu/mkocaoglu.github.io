@@ -33,7 +33,7 @@ _iv) High-dimensional Causal Inference with Deep Generative Models._
 - Ziwei Jiang [📄](https://ziwei-jiang.github.io/)
 - Shanyun Gao [📄](https://sites.google.com/view/shanyungao/home)
 - Qasim Elahi [📄](https://qasimelahi.github.io/QasimElahi/)
-- Zihan Zhou
+- Zihan Zhou [📄](https://sites.google.com/view/zihan-zhou/home)
 
 
 # Projects
