@@ -59,7 +59,7 @@ Information-theoretic tools provide us with ways to go beyond the boundaries of 
 ## *Causal Machine Learning*
 We explore ways in which causal inference and discovery can help more robust and practical machine learning solutions. 
 ### Related publications
-7. M. Q.Elahi, L. Wei, M. Kocaoglu, M. Ghasemi, "Adaptive Online Experimental Design for Causal Discovery," in Proc. of **ICML'24**, Austria, Vienna, July 2024.
+7. M. Q. Elahi, L. Wei, M. Kocaoglu, M. Ghasemi, "Adaptive Online Experimental Design for Causal Discovery," in Proc. of **ICML'24**, Austria, Vienna, July 2024.
 6. Sean Kulinski, Zeyu Zhou, Ruqi Bai, Murat Kocaoglu, David I. Inouye [Towards Characterizing Domain Counterfactuals for Invertible Latent Causal Models](https://openreview.net/forum?id=v1VvCWJAL8)" to appear in Proc. of **ICLR'24**, Vienna, Austria, May 2024.
 5. L. Wei, M. Q. Elahi, M. Ghasemi, M. Kocaoglu, “Approximate Allocation Matching for Structural Causal Bandits with Unobserved Confounders,” in Proc. of **NeurIPS’23**, New Orleans, LA, USA, Dec. 2023.
 4. K. Lee, M. M. Rahman, M. Kocaoglu, "[Finding Invariant Predictors Efficiently via Causal Structure](https://proceedings.mlr.press/v216/lee23a.html)," in Proc. of **UAI'23**, Pittsburgh, PA, USA, Aug. 2023.
