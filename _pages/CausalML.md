@@ -25,7 +25,8 @@ _iii) Practical and Approximate Causal Reasoning via Information-theoretic Metho
 
 _iv) Fundamentals of Causal Inference and Discovery,_ 
 
-
+The code repositories for accepted papers can be found on our lab's GitHub page at
+[https://github.com/CausalML-Lab](https://github.com/CausalML-Lab).
 # Current Members
  
 ## *PhD Students*
