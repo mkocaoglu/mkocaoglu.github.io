@@ -17,13 +17,14 @@ redirect_from:
 
 <img align="right" src="/images/lablogo.png" width="150px" style="float:right; padding-left:10px"> Causal reasoning is essential for artificial intelligence and machine learning. In CausalML lab, we develop new theoretical results that give us insights about fundamental causal discovery and inference problems, and develop novel algorithms based on these insights. Our research can be broadly categorized into multiple pillars 
 
-_i) Practical and Approximate Causal Reasoning via Information-theoretic Methods,_ 
+_i) High-dimensional Causal Inference with Deep Generative Models._
 
 _ii) Causal Machine Learning,_
 
-_iii) Fundamentals of Causal Inference and Discovery,_ 
+_iii) Practical and Approximate Causal Reasoning via Information-theoretic Methods,_ 
 
-_iv) High-dimensional Causal Inference with Deep Generative Models._
+_iv) Fundamentals of Causal Inference and Discovery,_ 
+
 
 # Current Members
  
