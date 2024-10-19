@@ -30,7 +30,7 @@ The code repositories for accepted papers can be found on our lab's GitHub page 
 # Current Members
  
 ## *PhD Students*
-- Md. Musfiqur Rahman [📄](https://sites.google.com/view/musfiqshohan/)
+- Md Musfiqur Rahman [📄](https://sites.google.com/view/musfiqshohan/)
 - Kenneth Lee [📄](https://kenneth-lee-ch.github.io/)
 - Ziwei Jiang [📄](https://ziwei-jiang.github.io/)
 - Shanyun Gao [📄](https://sites.google.com/view/shanyungao/home)
