@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ## Talks and Activities
+27. Invited Talk on "High-dimensional Causal Inference via Deep Generative Models with Applications in Trustworthy AI", Colloquium Talk, Department of Statistics, Purdue University, Oct. 2024.
+
 26. Invited Talk on "Principled Causal Methods for Computer Security", AI/Security Seminar Series, AWS, Amazon, Online, Oct. 2024.
 
 
