@@ -8,6 +8,9 @@ author_profile: true
 {% include base_path %}
 
 ## Talks and Activities
+26. Invited Talk on "Principled Causal Methods for Computer Security", AI/Security Seminar Series, AWS, Amazon, Online, Oct. 2024.
+
+
 25. Invited Talk on "Causal Machine Learning: Fundamentals and Applications", [IDEAL Workshop on Graph Representation Learning](https://www.ideal-institute.org/2024/01/31/organizers-for-workshop-on-graph-representation-learning/), University of Illinois Chicago, May 2024.
 
 24. Invited Talk on "Causal Machine Learning: Fundamentals and Applications", [MMLS 2024](https://midwest-ml.org/2024/), Minneapolis, May 2024.
