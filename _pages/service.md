@@ -10,8 +10,7 @@ author_profile: true
 ## Talks and Activities
 27. Invited Talk on "High-dimensional Causal Inference via Deep Generative Models with Applications in Trustworthy AI", Colloquium Talk, Department of Statistics, Purdue University, Oct. 2024.
 
-26. Invited Talk on "Principled Causal Methods for Computer Security", AI/Security Seminar Series, AWS, Amazon, Online, Oct. 2024.
-
+26. Invited Talk on "Principled Causal Methods for Computer Security", Amazon AI and Security Talk Series, Amazon, Online, Oct. 2024.
 
 25. Invited Talk on "Causal Machine Learning: Fundamentals and Applications", [IDEAL Workshop on Graph Representation Learning](https://www.ideal-institute.org/2024/01/31/organizers-for-workshop-on-graph-representation-learning/), University of Illinois Chicago, May 2024.
 
