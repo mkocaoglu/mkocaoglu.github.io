@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ## Talks and Activities
+29. Invited Talk on "Causal Machine Learning: Fundamentals and Applications", CCAIM Seminar Series, University of Cambridge, Nov. 2024.   
+
+28. Invited Talk on "Causal Machine Learning: Fundamentals and Applications", Computer Science Seminar, Johns Hopkins University, Nov. 2024. 
+
 27. Invited Talk on "High-dimensional Causal Inference via Deep Generative Models with Applications in Trustworthy AI", Colloquium Talk, Department of Statistics, Purdue University, Oct. 2024.
 
 26. Invited Talk on "Principled Causal Methods for Computer Security", Amazon AI and Security Talk Series, Amazon, Online, Oct. 2024.
