@@ -85,11 +85,17 @@ MDPI, 2023.
 
 ## Area Chair/Senior PC/Meta-reviewer for
 NeurIPS (since 2023) 
+
 ICML (since 2025) 
+
 ICLR (since 2023)
+
 AAAI (since 2021)
+
 AISTATS (since 2023)
+
 UAI (since 2023)
+
 ACML (since 2022)
 
 ## Notes
