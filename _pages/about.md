@@ -22,11 +22,11 @@ News
 
 <span style="color:red"> New! </span> Our paper titled "Counterfactual Fairness by Combining Factual and Counterfactual Predictions" is accepted at NeurIPS'24 [here](https://openreview.net/forum?id=J0Itri0UiN).
 
-<span style="color:red"> New! </span> Our paper titled "Modular Learning of Deep Causal Generative Models for High-dimensional Causal Inference" is accepted at ICML'24. Preprint [here](https://arxiv.org/abs/2401.01426).
+<span style="color:red"> New! </span> Our paper titled "Modular Learning of Deep Causal Generative Models for High-dimensional Causal Inference" is accepted at ICML'24 [here](https://proceedings.mlr.press/v235/rahman24a.html).
 
-<span style="color:red"> New! </span> Our paper titled "Conditional Common Entropy for Instrumental Variable Testing and Partial Identification" is accepted at ICML'24. Preprint coming soon.
+<span style="color:red"> New! </span> Our paper titled "Conditional Common Entropy for Instrumental Variable Testing and Partial Identification" is accepted at ICML'24 [here](https://proceedings.mlr.press/v235/jiang24b.html).
 
-<span style="color:red"> New! </span> Our paper titled "Adaptive Online Experimental Design for Causal Discovery" is accepted at ICML'24. Preprint coming soon.
+<span style="color:red"> New! </span> Our paper titled "Adaptive Online Experimental Design for Causal Discovery" is accepted as a Spotlight at ICML'24 [here](https://openreview.net/forum?id=nJzf3TVnOn).
 
 <span style="color:red"> New! </span> Our lab received an [NSF SMALL grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2348717&HistoricalAwards=false) for causal structure discovery from diverse data!
 
