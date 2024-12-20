@@ -7,6 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+## Area Chair/Senior PC/Meta-reviewer for
+* NeurIPS (since 2023) 
+* ICML (since 2025) 
+* ICLR (since 2023)
+* AAAI (since 2021)
+* AISTATS (since 2023)
+* UAI (since 2023)
+* ACML (since 2022)
+
 ## Talks and Activities
 29. Invited Talk on "Causal Machine Learning: Fundamentals and Applications", CCAIM Seminar Series, University of Cambridge, Nov. 2024.   
 
@@ -83,14 +92,6 @@ MDPI, 2023.
 
 1. Reviewer Award for NeurIPS 2018, Amongst Top 218 Reviewers
 
-## Area Chair/Senior PC/Meta-reviewer for
-* NeurIPS (since 2023) 
-* ICML (since 2025) 
-* ICLR (since 2023)
-* AAAI (since 2021)
-* AISTATS (since 2023)
-* UAI (since 2023)
-* ACML (since 2022)
 
 ## Notes
 - A [summary of Moser, Tardos 2010 STOC](https://docs.google.com/a/utexas.edu/viewer?a=v&pid=sites&srcid=dXRleGFzLmVkdXxta29jYW9nbHV8Z3g6NzRiMDgzY2U3YmM5ZTIxOQ) paper on constructive Lovász local lemma.
