@@ -1,0 +1,914 @@
+- title: "Conditional Generative Models are Sufficient to Sample from Any Causal Effect Estimand"
+  authors:
+    - "M. M. Rahman"
+    - "M. Jordan"
+    - "M. Kocaoglu"
+  year: 2024
+  month: "December"
+  venue: "Proc. of NeurIPS’24"
+  paper_type: 'ML'
+  location: 'Vancouver, Canada'
+  pdf: 'https://openreview.net/forum?id=vymkuBMLlh'
+  code: 'https://github.com/CausalML-Lab/IDGEN'
+  keywords: 
+    - "causal inference"
+    - "diffusion models"
+
+- title: "Sample Efficient Bayesian Learning of Causal Graphs from Interventions"
+  authors:
+    - "Z. Zhou"
+    - "M. Q. Elahi"
+    - "M. Kocaoglu"
+  year: 2024
+  month: "December"
+  venue: "Proc. of NeurIPS’24"
+  paper_type: 'ML'
+  location: 'Vancouver, Canada'
+  pdf: 'https://openreview.net/forum?id=RfSvAom7sS'
+  code: 'https://github.com/CausalML-Lab/Bayesian_SampleEfficient_Discovery'
+  keywords: 
+    - "causal discovery"
+    - "Bayesian causal discovery"
+    - "interventional causal discovery"
+    - "adaptive causal discovery"
+
+- title: "Partial Structure Discovery is Sufficient for No-regret Learning in Causal Bandits"
+  authors:
+    - "M. Q. Elahi"
+    - "M. Ghasemi"
+    - "M. Kocaoglu"
+  year: 2024
+  month: "December"
+  venue: "Proc. of NeurIPS’24"
+  paper_type: 'ML'
+  location: 'Vancouver, Canada'
+  pdf: 'https://openreview.net/forum?id=uM3rQ14iex'
+  code: 'https://github.com/CausalML-Lab/CausalBandits_with_UnknownGraph'
+  keywords: 
+    - "causal bandits"
+    - "causal bandits with unknown causal graph"
+    - "causal discovery"
+    - "POMIS"
+
+- title: "Counterfactual Fairness by Combining Factual and Counterfactual Predictions"
+  authors:
+    - "Z. Zhou"
+    - "T. Liu"
+    - "R. Bai"
+    - "J. Gao"
+    - "M. Kocaoglu"
+    - "D. I. Inouye"
+  year: 2024
+  month: "December"
+  venue: "Proc. of NeurIPS’24"
+  paper_type: 'ML'
+  location: 'Vancouver, Canada'
+  pdf: 'https://openreview.net/forum?id=J0Itri0UiN'
+  code: 'https://github.com/inouye-lab/pcf'
+  keywords: 
+    - "causal fairness"
+    - "counterfactual fairness"
+
+- title: "Modular Learning of Deep Causal Generative Models for High-dimensional Causal Inference"
+  authors:
+    - "M. M. Rahman"
+    - "M. Kocaoglu"
+  year: 2024
+  month: "July"
+  venue: "Proc. of ICML’24"
+  paper_type: 'ML'
+  location: 'Vienna, Austria'
+  pdf: 'https://proceedings.mlr.press/v235/rahman24a.html'
+  code: 'https://github.com/CausalML-Lab/Modular-DCM'
+  keywords: 
+    - "deep causal generative models"
+    - "neural causal models"
+    - "high-dimensional causal inference"
+    - "causal inference"
+    - "modular training"
+
+- title: "Conditional Common Entropy for Instrumental Variable Testing and Partial Identification"
+  authors:
+    - "Z. Jiang"
+    - "M. Kocaoglu"
+  year: 2024
+  month: "July"
+  venue: "Proc. of ICML’24"
+  paper_type: 'ML'
+  location: 'Vienna, Austria'
+  pdf: 'https://proceedings.mlr.press/v235/jiang24b.html'
+  code: 'https://github.com/CausalML-Lab/Conditional-Common-Entropy-and-IV-Testing'
+  keywords: 
+    - "instrumental variables"
+    - "information theory"
+    - "entropic causal inference"
+    - "common entropy"
+    - "conditional common entropy"
+
+- title: "Adaptive Online Experimental Design for Causal Discovery"
+  authors:
+    - "M. Q. Elahi"
+    - "L. Wei"
+    - "M. Kocaoglu"
+    - "M. Ghasemi"
+  year: 2024
+  month: "July"
+  venue: "Proc. of ICML’24"
+  paper_type: 'ML'
+  location: 'Vienna, Austria'
+  pdf: 'https://openreview.net/forum?id=nJzf3TVnOn'
+  code: 'https://github.com/CausalML-Lab/Track-and-Stop-Discovery'
+  keywords: 
+    - "adaptive causal discovery"
+    - "experimental design"
+    - "causal discovery"
+    - "online learning"
+  awards:
+    - "Spotlight (3.5% Acceptance Rate)"
+
+- title: "Towards Characterizing Domain Counterfactuals for Invertible Latent Causal Models"
+  authors:
+    - "S. Kulinski"
+    - "Z. Zhou"
+    - "R. Bai"
+    - "M. Kocaoglu"
+    - "D. I. Inouye"
+  year: 2024
+  month: "May"
+  venue: "Proc. of ICLR’24"
+  paper_type: 'ML'
+  location: 'Vienna, Austria'
+  pdf: 'https://openreview.net/forum?id=v1VvCWJAL8'
+  code: 'https://github.com/inouye-lab/ild-domain-counterfactuals'
+  keywords: 
+    - "counterfactual inference"
+    - "domain generalization"
+    - "causal inference"
+
+- title: "Characterization and Learning of Causal Graphs with Small Conditioning Sets"
+  authors:
+    - "M. Kocaoglu"
+  year: 2023
+  month: "December"
+  venue: "Proc. of NeurIPS’23"
+  paper_type: 'ML'
+  location: 'New Orleans, LA, USA'
+  pdf: 'https://openreview.net/forum?id=cANkPsVtsw'
+  code: 'https://github.com/CausalML-Lab/kPC'
+  keywords: 
+    - "causal discovery"
+    - "constraint-based causal discovery"
+    - "sample-efficient causal discovery"
+    - "kPC"
+
+- title: "Front-door Adjustment Beyond Markov Equivalence with Limited Graph Knowledge"
+  authors:
+    - "A. Shah"
+    - "K. Shanmugam"
+    - "M. Kocaoglu"
+  year: 2023
+  month: "December"
+  venue: "Proc. of NeurIPS’23"
+  paper_type: 'ML'
+  location: 'New Orleans, LA, USA'
+  pdf: 'https://openreview.net/forum?id=h3kuB4z2G9'
+  code: 'https://github.com/abhin-shah/FD-adjustment-with-limited-graph'
+  keywords: 
+    - "causal inference"
+    - "causal inference without causal graph"
+    - "front-door adjustment"
+    - "causal effect"
+
+- title: "Approximate Allocation Matching for Structural Causal Bandits with Unobserved Confounders"
+  authors:
+    - "L. Wei"
+    - "M. Q. Elahi"
+    - "M. Ghasemi"
+    - "M. Kocaoglu"
+  year: 2023
+  month: "December"
+  venue: "Proc. of NeurIPS’23"
+  paper_type: 'ML'
+  location: 'New Orleans, LA, USA'
+  pdf: 'https://openreview.net/forum?id=Q3CRHnttxW'
+  code: 'https://github.com/CausalML-Lab/SCM-AAM'
+  keywords: 
+    - "causal bandits"
+    - "allocation matching"
+    - "response variables"
+
+- title: "Causal Discovery in Semi-Stationary Time Series"
+  authors:
+    - "S. Gao"
+    - "R. Addanki"
+    - "T. Yu"
+    - "R. A. Rossi"
+    - "M. Kocaoglu"
+  year: 2023
+  month: "December"
+  venue: "Proc. of NeurIPS’23"
+  paper_type: 'ML'
+  location: 'New Orleans, LA, USA'
+  pdf: 'https://openreview.net/forum?id=dYeUvLUxBQ'
+  code: 'https://github.com/CausalML-Lab/PCMCI-Omega'
+  keywords: 
+    - "time-series causal discovery"
+    - "causal discovery"
+    - "non-stationary time-series"
+
+- title: "Finding Invariant Predictors Efficiently via Causal Structure"
+  authors:
+    - "K. Lee"
+    - "M. M. Rahman"
+    - "M. Kocaoglu"
+  year: 2023
+  month: "August"
+  venue: "Proc. of UAI’23"
+  paper_type: 'ML'
+  location: 'Pittsburgh, PA, USA'
+  pdf: 'https://proceedings.mlr.press/v216/lee23a.html'
+  code: 'https://github.com/CausalML-Lab/ID4IP'
+  keywords: 
+    - "invariant prediction"
+    - "causal invariant prediction"
+    - "surgery estimator"
+
+- title: "Approximate Causal Effect Identification under Weak Confounding"
+  authors:
+    - "Z. Jiang"
+    - "L. Wei"
+    - "M. Kocaoglu"
+  year: 2023
+  month: "July"
+  venue: "Proc. of ICML'23"
+  paper_type: 'ML'
+  location: 'Honolulu, HI, USA'
+  pdf: 'https://openreview.net/pdf?id=iRBKUnIjR2'
+  code: 'https://github.com/CausalML-Lab/Entropic-Partial-ID'
+  keywords: 
+    - "causal inference"
+    - "partial identifiability"
+    - "information theory"
+    - "entropic causal inference"
+
+- title: "Minimum-Entropy Coupling Approximation Guarantees Beyond the Majorization Barrier"
+  authors:
+    - "S. Compton"
+    - "D. Katz"
+    - "B. Qi"
+    - "K. Greenewald"
+    - "M. Kocaoglu"
+  year: 2023
+  month: "April"
+  venue: "Proc. of AISTATS’23"
+  paper_type: 'ML'
+  location: 'Valencia, Spain'
+  pdf: 'https://proceedings.mlr.press/v206/compton23a/compton23a.pdf'
+  #code: ''
+  keywords: 
+    - "minimum entropy coupling"
+    - "information theory"
+    - "entropic causal inference"
+
+- title: "Root Cause Analysis of Failures in Microservices through Causal Discovery"
+  authors:
+    - "M. A. Ikram"
+    - "S. Chakraborty"
+    - "S. Mitra"
+    - "S. Saini"
+    - "S. Bagchi"
+    - "M. Kocaoglu"
+  year: 2022
+  month: "December"
+  venue: "Proc. of NeurIPS'22"
+  paper_type: 'ML'
+  location: 'New Orleans, LA, USA'
+  pdf: 'https://openreview.net/pdf?id=weoLjoYFvXY'
+  #code: ''
+  keywords: 
+    - "root cause analysis"
+    - "root cause discovery"
+    - "local causal discovery"
+
+- title: "Entropic Causal Inference: Graph Identifiability"
+  authors:
+    - "S. Compton"
+    - "K. Greenewald"
+    - "D. Katz"
+    - "M. Kocaoglu"
+  year: 2022
+  month: "July"
+  venue: "Proc. of ICML'22"
+  paper_type: 'ML'
+  location: ''
+  pdf: 'https://proceedings.mlr.press/v162/compton22a.html'
+  #code: ''
+  keywords: 
+    - "entropic causal inference"
+    - "causal discovery"
+    - "information theory"
+
+- title: "Conditionally Independent Data Generation"
+  authors:
+    - "K. Ahuja"
+    - "P. Sattigeri"
+    - "K. Shanmugam"
+    - "D. Wei"
+    - "K. N. Ramamurthy"
+    - "M. Kocaoglu"
+  year: 2021
+  month: "July"
+  venue: "Proc. of UAI'21"
+  paper_type: 'ML'
+  location: 'Online'
+  pdf: 'https://proceedings.mlr.press/v161/ahuja21a.html'
+  #code: ''
+  keywords: 
+    - "conditional independence"
+    - "generative models"
+    - "generative adversarial networks"
+
+- title: "Applications of Common Entropy for Causal Inference"
+  authors:
+    - "M. Kocaoglu"
+    - "S. Shakkottai"
+    - "A. G. Dimakis"
+    - "C. Caramanis"
+    - "S. Vishwanath"
+  year: 2020
+  month: "December"
+  venue: "Proc. of NeurIPS'20"
+  paper_type: 'ML'
+  location: 'Online'
+  pdf: 'https://proceedings.neurips.cc/paper/2020/hash/cae7115f44837c806c9b23ed00a1a28a-Abstract.html'
+  #code: ''
+  keywords: 
+    - "entropic causal inference"
+    - "causal discovery"
+    - "information theory"
+
+- title: "Causal Discovery from Soft Interventions with Unknown Targets: Characterization and Learning"
+  authors:
+    - "A. Jaber"
+    - "M. Kocaoglu"
+    - "K. Shanmugam"
+    - "E. Bareinboim"
+  year: 2020
+  month: "December"
+  venue: "Proc. of NeurIPS'20"
+  paper_type: 'ML'
+  location: 'Online'
+  pdf: 'https://proceedings.neurips.cc/paper/2020/hash/6cd9313ed34ef58bad3fdd504355e72c-Abstract.html'
+  #code: ''
+  keywords: 
+    - "causal discovery"
+    - "soft interventions"
+    - "interventional Markov equivalence"
+
+
+- title: "Entropic Causal Inference: Identifiability and Finite Sample Results"
+  authors:
+    - "S. Compton"
+    - "M. Kocaoglu"
+    - "Kristjan Greenewald"
+    - "Dmitriy Katz"
+  year: 2020
+  month: "December"
+  venue: "Proc. of NeurIPS’20"
+  paper_type: 'ML'
+  location: 'Online'
+  pdf: 'https://proceedings.neurips.cc/paper/2020/hash/a979ca2444b34449a2c80b012749e9cd-Abstract.html'
+  #code: ''
+  keywords: 
+    - "entropic causality"
+    - "causal discovery"
+    - "information theory"
+
+- title: "Active Structure Learning of Causal DAGs via Directed Clique Trees"
+  authors:
+    - "C. Squires"
+    - "S. Magliacane"
+    - "K. Greenewald"
+    - "D. Katz"
+    - "M. Kocaoglu"
+    - "K. Shanmugam"
+  year: 2020
+  month: "December"
+  venue: "Proc. of NeurIPS'20"
+  paper_type: 'ML'
+  location: 'Online'
+  pdf: 'https://proceedings.neurips.cc/paper/2020/hash/f57bd0a58e953e5c43cd4a4e5af46138-Abstract.html'
+  #code: ''
+  keywords: 
+    - "causal discovery"
+    - "experimental design"
+    - "adaptive causal discovery"
+
+
+- title: "Characterization and Learning of Causal Graphs with Latent Variables from Soft Interventions"
+  authors:
+    - "M. Kocaoglu*"
+    - "A. Jaber*"
+    - "K. Shanmugam*"
+    - "E. Bareinboim"
+  year: 2019
+  month: "December"
+  venue: "Proc. of NeurIPS'19"
+  paper_type: 'ML'
+  location: 'Vancouver, Canada'
+  pdf: 'https://docs.google.com/viewer?url=https://github.com/mkocaoglu/mkocaoglu.github.io/raw/master/files/NeurIPS_19__Characterization_and_Learning_of_Causal_Graphs_with_Latent_Variables_from_Soft_Interventions.pdf'
+  #code: ''
+  keywords: 
+    - "causal discovery"
+    - "soft interventions"
+    - "interventional Markov equivalence class"
+
+
+- title: "Sample Efficient Active Learning of Causal Trees"
+  authors:
+    - "K. Greenewald"
+    - "D. Katz"
+    - "K. Shanmugam"
+    - "S. Magliacane"
+    - "M. Kocaoglu"
+    - "E. B. Adsera"
+    - "G. Bresler"
+  year: 2019
+  month: "December"
+  venue: "Proc. of NeurIPS'19"
+  paper_type: 'ML'
+  location: 'Vancouver, Canada'
+  pdf: 'https://papers.nips.cc/paper/2019/hash/5ee5605917626676f6a285fa4c10f7b0-Abstract.html'
+  #code: ''
+  keywords: 
+    - "causal discovery"
+    - "adaptive causal discovery"
+
+- title: "Experimental Design for Cost-Aware Learning of Causal Graphs"
+  authors:
+    - "E. Lindgren"
+    - "M. Kocaoglu"
+    - "A. G. Dimakis"
+    - "S. Vishwanath"
+  year: 2018
+  month: "December"
+  venue: "Proc. of NeurIPS'18"
+  paper_type: 'ML'
+  location: 'Montreal, Canada'
+  pdf: 'http://papers.neurips.cc/paper/7774-experimental-design-for-cost-aware-learning-of-causal-graphs'
+  #code: ''
+  keywords: 
+    - "experimental design"
+    - "causal discovery"
+    - "submodularity"
+    - "cost"
+
+- title: "CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training"
+  authors:
+    - "M. Kocaoglu*"
+    - "C. Snyder*"
+    - "A. G. Dimakis"
+    - "S. Vishwanath"
+  year: 2018
+  month: "May"
+  venue: "Proc. of ICLR'18"
+  paper_type: 'ML'
+  location: 'Vancouver, Canada'
+  pdf: 'https://openreview.net/forum?id=BJE-4xW0W'
+  #code: ''
+  keywords: 
+    - "deep causal generative models"
+    - "causalGAN"
+    - "generative adversarial networks"
+    - "high-dimensional causal inference"
+
+- title: "Experimental Design for Learning Causal Graphs with Latent Variables"
+  authors:
+    - "M. Kocaoglu"
+    - "K. Shanmugam"
+    - "E. Bareinboim"
+  year: 2017
+  month: "December"
+  venue: "Proc. of NIPS'17"
+  paper_type: 'ML'
+  location: 'Long Beach, CA, USA'
+  pdf: 'https://papers.nips.cc/paper/2017/hash/291d43c696d8c3704cdbe0a72ade5f6c-Abstract.html'
+  #code: ''
+  keywords: 
+    - "causal discovery"
+    - "experimental design"
+    - "semi-Markovian causal models"
+    - "graph theory"
+
+- title: "Cost-Optimal Learning of Causal Graphs"
+  authors:
+    - "M. Kocaoglu"
+    - "A. G. Dimakis"
+    - "S. Vishwanath"
+  year: 2017
+  month: "August"
+  venue: "Proc. of ICML'17"
+  paper_type: 'ML'
+  location: 'Sydney, Australia'
+  pdf: 'http://proceedings.mlr.press/v70/kocaoglu17a.html'
+  #code: ''
+  keywords: 
+    - "causal discovery"
+    - "cost"
+
+- title: "Entropic Causality and Greedy Minimum Entropy Coupling"
+  authors:
+    - "M. Kocaoglu"
+    - "A. G. Dimakis"
+    - "S. Vishwanath"
+    - "B. Hassibi"
+  year: 2017
+  month: "June"
+  venue: "Proc. of ISIT'17"
+  paper_type: 'ML'
+  location: 'Aachen, Germany'
+  pdf: ''
+  #code: ''
+  keywords: 
+    - "entropic causality"
+    - "causal discovery"
+    - "minimum entropy coupling"
+
+- title: "Sparse Quadratic Logistic Regression in Sub-quadratic Time"
+  authors:
+    - "K. Shanmugam"
+    - "M. Kocaoglu"
+    - "A. G. Dimakis"
+    - "S. Sanghavi"
+  year: 2017
+  month: "March"
+  venue: "arXiv preprint"
+  paper_type: 'arXiv'
+  #location: ''
+  pdf: 'https://arxiv.org/abs/1703.02682'
+  #code: ''
+  keywords: 
+    - "logistic regression"
+    - "quadratic regression"
+
+- title: "Contextual Bandits with Latent Confounders: An NMF Approach"
+  authors:
+    - "R. Sen"
+    - "K. Shanmugam"
+    - "M. Kocaoglu"
+    - "A. G. Dimakis"
+    - "S. Shakkottai"
+  year: 2017
+  month: ""
+  venue: "Proc. of AISTATS'17"
+  paper_type: 'ML'
+  location: 'Ft. Lauderdale, FL, USA'
+  pdf: 'http://proceedings.mlr.press/v54/sen17a.html'
+  #code: ''
+  keywords: 
+    - "bandit algorithms"
+    - "contextual bandits"
+    - "low-rank"
+
+- title: "Entropic Causal Inference"
+  authors:
+    - "M. Kocaoglu"
+    - "A. G. Dimakis"
+    - "S. Vishwanath"
+    - "B. Hassibi"
+  year: 2017
+  month: "February"
+  venue: "Proc. of AAAI'17"
+  paper_type: 'ML'
+  location: 'San Francisco, USA'
+  pdf: 'https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14218'
+  #code: ''
+  keywords: 
+    - "entropic causal inference"
+    - "causal discovery"
+    - "bivariate causal discovery"
+
+- title: "Learning Causal Graphs with Small Interventions"
+  authors:
+    - "K. Shanmugam"
+    - "M. Kocaoglu"
+    - "A. G. Dimakis"
+    - "S. Vishwanath"
+  year: 2015
+  month: "December"
+  venue: "Proc. of NIPS'15"
+  paper_type: 'ML'
+  location: 'Montreal, Canada'
+  pdf: 'https://proceedings.neurips.cc/paper/2015/hash/b865367fc4c0845c0682bd466e6ebf4c-Abstract.html'
+  #code: ''
+  keywords: 
+    - "experimental design"
+    - "separating systems"
+    - "small interventions"
+
+- title: "Sparse Polynomial Learning and Graph Sketching"
+  authors:
+    - "M. Kocaoglu*"
+    - "K. Shanmugam*"
+    - "A. G. Dimakis"
+    - "A. Klivans"
+  year: 2014
+  month: "December"
+  venue: "Proc. of NIPS'14 (Oral)"
+  paper_type: 'ML'
+  location: 'Montreal, Canada'
+  pdf: 'https://papers.nips.cc/paper/2014/hash/71a58e8cb75904f24cde464161c3e766-Abstract.html'
+  #code: ''
+  keywords: 
+    - "sparse polynomials"
+    - "learning theory"
+    - "graph sketching"
+
+# WORKSHOPS
+- title: "Partial Structure Discovery is Sufficient for No-regret Learning in Causal Bandits"
+  authors:
+    - "M. Q. Elahi"
+    - "M. Ghasemi"
+    - "M. Kocaoglu"
+  year: 2024
+  month: "July"
+  venue: "ICML 2024 Workshop: Foundations of Reinforcement Learning and Control– Connections and Perspective"
+  paper_type: 'ML-Workshop'
+  location: 'Vienna, Austria'
+  #pdf: ''
+  #code: ''
+
+- title: "Conditional Generative Models are Sufficient to Sample from Any Causal Effect Estimand"
+  authors:
+    - "M. M. Rahman"
+    - "M. Jordan"
+    - "M. Kocaoglu"
+  year: 2024
+  month: "July"
+  venue: "ICML 2024 Workshop on Structured Probabilistic Inference and Generative Modeling"
+  paper_type: 'ML-Workshop'
+  location: 'Vienna, Austria'
+  #pdf: ''
+  #code: ''
+
+- title: "Conditional Common Entropy for Instrumental Variable Testing and Partial Identification"
+  authors:
+    - "Z. Jiang"
+    - "M. Kocaoglu"
+  year: 2024
+  month: "July"
+  venue: "ICML 2024 Workshop on Structured Probabilistic Inference and Generative Modeling"
+  paper_type: 'ML-Workshop'
+  location: 'Vienna, Austria'
+  #pdf: ''
+  #code: ''
+
+- title: "Constraint-based Causal Discovery from a Collection of Conditioning Sets"
+  authors:
+    - "K. Lee"
+    - "B. Ribeiro"
+    - "M. Kocaoglu"
+  year: 2024
+  month: ""
+  venue: "9th Causal Inference Workshop at UAI 2024"
+  paper_type: 'ML-Workshop'
+  location: 'Barcelona, Spain'
+  #pdf: ''
+  #code: ''
+
+- title: "RCPC: A Sound Causal Discovery Algorithm under Orientation Unfaithfulness"
+  authors:
+    - "K. Lee"
+    - "M. Kocaoglu"
+  year: 2024
+  month: ""
+  venue: "9th Causal Inference Workshop at UAI 2024"
+  paper_type: 'ML-Workshop'
+  location: 'Barcelona, Spain'
+  #pdf: ''
+  #code: ''
+
+- title: "Causal Discovery in Semi-Stationary Time Series"
+  authors:
+    - "S. Gao"
+    - "R. Addanki"
+    - "T. Yu"
+    - "R. A. Rossi"
+    - "M. Kocaoglu"
+  year: 2023
+  month: ""
+  venue: "UAI 2023 Workshop on Causal inference for Time-series Data"
+  paper_type: 'ML-Workshop'
+  location: 'Pittsburgh, PA, USA'
+  #pdf: ''
+  #code: ''
+
+- title: "Approximate Causal Effect Identification under Weak Confounding"
+  authors:
+    - "Z. Jiang"
+    - "L. Wei"
+    - "M. Kocaoglu"
+  year: 2023
+  month: "July"
+  venue: "ICML 2023 Workshop on Spurious Correlations, Invariance, and Stability"
+  paper_type: 'ML-Workshop'
+  location: 'Honolulu, HI, USA'
+  #pdf: ''
+  #code: ''
+
+- title: "Front-door Adjustment Beyond Markov Equivalence with Limited Graph Knowledge"
+  authors:
+    - "A. Shah"
+    - "K. Shanmugam"
+    - "M. Kocaoglu"
+  year: 2023
+  month: "July"
+  venue: "ICML 2023 Workshop on Spurious Correlations, Invariance, and Stability"
+  paper_type: 'ML-Workshop'
+  location: 'Honolulu, HI, USA'
+  #pdf: ''
+  #code: ''
+
+- title: "Towards Modular Learning of Deep Causal Generative Models"
+  authors:
+    - "M. M. Rahman"
+    - "M. Kocaoglu"
+  year: 2023
+  month: "July"
+  venue: "ICML 2023 Workshop on Spurious Correlations, Invariance, and Stability"
+  paper_type: 'ML-Workshop'
+  location: 'Honolulu, HI, USA'
+  #pdf: ''
+  #code: ''
+
+- title: "Towards Modular Learning of Deep Causal Generative Models"
+  authors:
+    - "M. M. Rahman"
+    - "M. Kocaoglu"
+  year: 2023
+  month: "July"
+  venue: "ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling"
+  paper_type: 'ML-Workshop'
+  location: 'Honolulu, HI, USA'
+  #pdf: ''
+  #code: ''
+
+- title: "Entropic Causal Inference: Identifiability for Trees and Complete Graphs"
+  authors:
+    - "S. Compton"
+    - "M. Kocaoglu"
+    - "K. Greenewald"
+    - "D. Katz"
+  year: 2021
+  month: "July"
+  venue: "ITR3 Workshop at ICML-21"
+  paper_type: 'ML-Workshop'
+  location: 'Online'
+  #pdf: ''
+  #code: ''
+
+- title: "Submodularity and Minimum Cost Intervention Design for Learning Causal Graphs"
+  authors:
+    - "E. Lindgren"
+    - "M. Kocaoglu"
+    - "A. G. Dimakis"
+    - "S. Vishwanath"
+  year: 2017
+  month: "December"
+  venue: "DISCML'17 Workshop in NIPS'17"
+  paper_type: 'ML-Workshop'
+  location: ''
+  pdf: ''
+  #code: ''
+  keywords: 
+    - "submodularity"
+    - "experimental design"
+    - "cost"
+
+- title: "Learning Causal Graphs with Constraints"
+  authors:
+    - "M. Kocaoglu"
+    - "A. G. Dimakis"
+    - "S. Vishwanath"
+    - "M. Kocaoglu"
+  year: 2016
+  month: "December"
+  venue: "NIPS'16 Workshop: What If? Inference and Learning of Hypothetical and Counterfactual Interventions in Complex Systems"
+  paper_type: 'ML-Workshop'
+  location: 'Barcelona, Spain'
+  pdf: 'https://drive.google.com/file/d/0B6FCKgrwBmezQkZzVHZOLS1STkU'
+  #code: ''
+  keywords: 
+    - "causal discovery"
+    - "constrained causal discovery"
+    - "graph theory"    
+
+# COMMUNICATIONS
+- title: "Energy Minimization with Network Coding"
+  authors:
+    - "M. Kocaoglu"
+    - "O. B. Akan"
+    - ""
+    - ""
+  year: 2015
+  #month: ""
+  venue: "IEEE Systems Journal, Special Issue on Green Communications, Computing and Systems"
+  paper_type: 'Communications-J'
+  #location: ''
+
+- title: "Stochastic Resonance in Graphene Bi-layer Optical Nanoreceivers"
+  authors:
+    - "M. Kocaoglu"
+    - "B. Gulbahar"
+    - "O. B. Akan"
+  year: 2014
+  month: "November"
+  venue: "IEEE Transactions on Nanotechnology"
+  paper_type: 'Communications-J'
+  # vol. 13, no. 6, pp. 1107-1117
+  #location: ''
+
+- title: "Communication Theoretic Analysis of Synaptic Channel for Cortical Neurons"
+  authors:
+    - "D. Malak"
+    - "M. Kocaoglu"
+    - "O. B. Akan"
+  year: 2013
+  month: "September"
+  venue: "Nano Communication Networks Journal (Elsevier)"
+  paper_type: 'Communications-J'
+  # vol. 4, no. 3, pp. 131-141
+  #location: ''
+
+- title: "Minimum Energy Channel Codes for Nanoscale Wireless Communications"
+  authors:
+    - "M. Kocaoglu"
+    - "O. B. Akan"
+  year: 2013
+  month: "April"
+  venue: "IEEE Transactions on Wireless Communications"
+  paper_type: 'Communications-J'
+  # vol. 12, no. 4, pp. 1492-1500
+  #location: ''  
+
+- title: "Fundamentals of Green Communications and Computing: Modeling and Simulation"
+  authors:
+    - "M. Kocaoglu"
+    - "D. Malak"
+    - "O. B. Akan"
+  year: 2012
+  month: "September"
+  venue: "IEEE Computer"
+  paper_type: 'Communications-J'
+  # vol. 45, no. 9, pp. 40-46
+  #location: ''
+
+- title: "Effect of Channel Conditions on Inventory Database Update in Supply Chains"
+  authors:
+    - "M. Kocaoglu"
+    - "C. Oksuz"
+    - "O. B. Akan"
+  year: 2013
+  month: "September"
+  venue: "IEEE BlackSeaCom'13"
+  paper_type: 'Communications-C'
+  #location: ''
+
+- title: "On the Node Density Limits and Rate-Delay-Energy Tradeoffs in Ad Hoc Nanonetworks with Minimum Energy Coding"
+  authors:
+    - "M. Kocaoglu"
+    - "D. Malak"
+  year: 2012
+  month: "June"
+  venue: "Proc. IEEE MoNaCom 2012 (in conjunction with IEEE ICC 2012)"
+  paper_type: 'Communications-C'
+  location: 'Ottawa, Canada'  
+  
+- title: "Minimum Energy Coding for Wireless NanoSensor Networks"
+  authors:
+    - "M. Kocaoglu"
+    - "O. B. Akan"
+  year: 2012
+  month: "March"
+  venue: "Proc. IEEE INFOCOM 2012 (Mini Conference)"
+  paper_type: 'Communications-C'
+  location: 'Orlando, FL, USA' 
+
+# THESES
+- title: "Causality: From Learning to Generative Models"
+  authors:
+    - "M. Kocaoglu"
+  year: 2018
+  month: "August"
+  venue: "PhD Thesis, The University of Texas at Austin"
+  paper_type: 'Thesis-PhD'
+  location: 'Austin, TX, USA' 
+
+- title: "Minimum Energy Channel and Network Coding with Applications in Nanoscale Communications"
+  authors:
+    - "M. Kocaoglu"
+  year: 2012
+  #month: "August"
+  venue: "M. Sc. Thesis, Koc University"
+  paper_type: 'Thesis-MSc'
+  location: 'Istanbul, Turkey' 
