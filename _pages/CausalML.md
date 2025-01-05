@@ -14,16 +14,23 @@ redirect_from:
 
 
 {% include base_path %}
-
-<img align="right" src="/images/lablogo.png" width="150px" style="float:right; padding-left:10px"> Causal reasoning is essential for artificial intelligence and machine learning. In CausalML lab, we develop new theoretical results that give us insights about fundamental causal discovery and inference problems, and develop novel algorithms based on these insights. Our research can be broadly categorized into multiple pillars 
-
-_i) High-dimensional Causal Inference with Deep Generative Models._
-
-_ii) Causal Machine Learning,_
-
-_iii) Practical and Approximate Causal Reasoning via Information-theoretic Methods,_ 
-
-_iv) Fundamentals of Causal Inference and Discovery,_ 
+<div style="display: flex; align-items: flex-start; gap: 0;">
+<div style="flex: 1;">
+Causal reasoning is essential for artificial intelligence and machine learning. In CausalML lab, we develop new theoretical results that give us insights about fundamental causal discovery and inference problems, and develop novel algorithms based on these insights. Our research can be broadly categorized into multiple pillars:
+</div>
+<div style="padding: 0 0 0 30px;">
+<img src="/images/lablogo.png" width="140">
+</div>
+</div>
+<div style="margin-bottom: -40px;"></div>
+* [High-dimensional Causal Inference with Deep Generative Models](#high-dim)
+{: style="margin-left: 40px"}
+* [Causal Machine Learning](#causal-ml)
+{: style="margin-left: 40px"}
+* [Practical and Approximate Causal Reasoning via Information-theoretic Methods](#entropic)
+{: style="margin-left: 40px"}
+* [Fundamentals of Causal Inference and Discovery](#fundamental)
+{: style="margin-left: 40px"}
 
 The code repositories for accepted papers can be found on our lab's GitHub page at
 [https://github.com/CausalML-Lab](https://github.com/CausalML-Lab).
@@ -43,6 +50,7 @@ The code repositories for accepted papers can be found on our lab's GitHub page 
 # Projects
 Our group's research is focused on developing fundamental algorithms for causal discovery and inference from data, and exploring the connections between causality and machine learning, information theory, graph theory, deep learning, online learning. Some threads we focus on are as follows. 
 
+<a name="high-dim"></a>
 ## *High-dimensional Causal Inference with Deep Generative Models*
 We are interested in leveraging the representation capabilities of deep neural networks to enable sampling from causal queries in the presence of high-dimensional variables such as images. 
 
@@ -51,7 +59,7 @@ We are interested in leveraging the representation capabilities of deep neural n
 2. M. M. Rahman, M. Kocaoglu, "[Modular Learning of Deep Causal Generative Models for High-dimensional Causal Inference](https://arxiv.org/abs/2401.01426)," in Proc. of **ICML'24**, Vienna, Austria, July 2024.
 1. M. Kocaoglu\*, C. Snyder\*, A. G. Dimakis, S. Vishwanath, "[CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training](https://openreview.net/forum?id=BJE-4xW0W)," in Proc. of **ICLR'18**, Vancouver, Canada,  May 2018.  
 
-
+<a name="causal-ml"></a>
 ## *Causal Machine Learning*
 We explore ways in which causal inference and discovery can help more robust and practical machine learning solutions. 
 ### Related publications
@@ -65,6 +73,7 @@ We explore ways in which causal inference and discovery can help more robust and
 2. K. Ahuja, P. Sattigeri, K. Shanmugam, D. Wei, K. N. Ramamurthy, M. Kocaoglu, "[Conditionally Independent Data Generation](https://www.auai.org/uai2021/pdf/uai2021.768.pdf)", in Proc. of **UAI'21**, 2021.  
 1. R. Sen, K. Shanmugam, M. Kocaoglu, A. G. Dimakis, S. Shakkottai, "[Contextual Bandits with Latent Confounders: An NMF Approach](http://proceedings.mlr.press/v54/sen17a.html)," in Proc. of **AISTATS'17**, 2017.  
 
+<a name="entropic"></a>
 ## *Practical and Approximate Causal Reasoning via Information-theoretic Methods*
 Information-theoretic tools provide us with ways to go beyond the boundaries of classical causal reasoning algorithms and make approximate causal inferences under practical assumptions. 
 
@@ -78,7 +87,7 @@ Information-theoretic tools provide us with ways to go beyond the boundaries of 
 2. M. Kocaoglu, A. G. Dimakis, S. Vishwanath, B. Hassibi, "[Entropic Causality and Greedy Minimum Entropy Coupling](https://ieeexplore.ieee.org/document/8006772)," in Proc. of **ISIT'17**, 2017.  
 1. M. Kocaoglu, A. G. Dimakis, S. Vishwanath, B. Hassibi, "[Entropic Causal Inference](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14218)," in Proc. of **AAAI'17**, San Francisco, USA, Feb. 2017.  
 
-
+<a name="fundamental"></a>
 ## *Fundamentals of Causal Inference and Discovery*
 We are interested in developing a fundamental understanding of how much causal knowledge can be extracted from data under well-defined assumptions. The cross-cutting nature of causal inference makes this a challenging problem with different constraints coming from different fields. For example, we can set up a randomized controlled trial but the number of such experiments needs to be small since interventions are costly.  In other domains, interventional data may already have been collected for different purposes such as average treatment effect estimation, and the goal would be to repurpose them for causal discovery. In certain contexts conducting any experiments might be infeasible, and the observational data may be very noisy or contain only a small number of samples. We develop fundamental bounds on how much causal knowledge is contained in such data, and the associated sound and complete learning algorithms. 
 
