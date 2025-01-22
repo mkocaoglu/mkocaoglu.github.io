@@ -14,6 +14,8 @@ I am an Assistant Professor in The Elmore Family School of Electrical and Comput
 
 News
 ======
+<span style="color:red"> New! </span> Our paper titled "Causal Discovery-Driven Change Point Detection in Time Series" is accepted at AISTATS'25.
+
 <span style="color:red"> New! </span> Our paper titled "Conditional Generative Models are Sufficient to Sample from Any Causal Effect Estimand" is accepted at NeurIPS'24 [here](https://openreview.net/forum?id=vymkuBMLlh).
 
 <span style="color:red"> New! </span> Our paper titled "Sample Efficient Bayesian Learning of Causal Graphs from Interventions" is accepted at NeurIPS'24 [here](https://openreview.net/forum?id=RfSvAom7sS).
@@ -34,7 +36,7 @@ News
 
 <span style="color:red"> New! </span> Our lab received the [Amazon Research Award](https://www.amazon.science/research-awards/recipients/murat-kocaoglu) in AI for Information Security on Causal Anomaly Detection!
 
-<span style="color:red"> New! </span> Our paper titled "Towards Characterizing Domain Counterfactuals for Invertible Latent Causal Models" is accepted at ICLR'24 [here](https://openreview.net/forum?id=v1VvCWJAL8).
+Our paper titled "Towards Characterizing Domain Counterfactuals for Invertible Latent Causal Models" is accepted at ICLR'24 [here](https://openreview.net/forum?id=v1VvCWJAL8).
 
 Our paper titled "Characterization and Learning of Causal Graphs with Small Conditioning Sets" is accepted at NeurIPS'23 [here](https://openreview.net/forum?id=cANkPsVtsw).
 
