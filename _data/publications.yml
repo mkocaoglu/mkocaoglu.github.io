@@ -1,3 +1,23 @@
+- title: "Causal Discovery-Driven Change Point Detection in Time Series"
+  authors:
+    - "S. Gao"
+    - "Raghavendra Addanki"
+    - "Tong Yu"
+    - "Ryan A. Rossi"
+    - "M. Kocaoglu"
+  year: 2025
+  month: "May"
+  venue: "Proc. of AISTATS’25"
+  paper_type: 'ML'
+  location: 'Phuket, Thailand'
+  pdf: 'https://openreview.net/forum?id=3tV5AtAXk0'
+  #code: ''
+  keywords: 
+    - "root-cause analysis"
+    - "change point detection"
+    - "time-series"
+    - "causal discovery"
+
 - title: "Conditional Generative Models are Sufficient to Sample from Any Causal Effect Estimand"
   authors:
     - "M. M. Rahman"
