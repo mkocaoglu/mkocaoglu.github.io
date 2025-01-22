@@ -25,8 +25,10 @@ Causal reasoning is essential for artificial intelligence and machine learning. 
 <div style="margin-bottom: -40px;"></div>
 * [High-dimensional Causal Inference with Deep Generative Models](#high-dim)
 {: style="margin-left: 40px"}
-* [Causal Methods for Computer Security](#security){: style="margin-left: 40px"}
-* [Causal Bandit Algorithms](#bandits){: style="margin-left: 40px"}
+* [Causal Methods for Computer Security](#security)
+{: style="margin-left: 40px"}
+* [Causal Bandit Algorithms](#bandits)
+{: style="margin-left: 40px"}
 * [Fundamentals of Causal Discovery](#discovery)
 {: style="margin-left: 40px"}
 * [Causal Machine Learning](#causal-ml)
