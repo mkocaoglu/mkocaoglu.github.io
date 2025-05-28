@@ -14,6 +14,12 @@ I am an Assistant Professor in The Elmore Family School of Electrical and Comput
 
 News
 ======
+<span style="color:red"> New! </span> Our paper titled "Root Cause Analysis of Failures from Partial Causal Structures" is accepted at UAI'25.
+
+<span style="color:red"> New! </span> Our paper titled "Constraint-based Causal Discovery from a Collection of Conditioning Sets" is accepted at UAI'25.
+
+<span style="color:red"> New! </span> Our paper titled "FeDCM: Federated Learning of Deep Causal Generative Models" is accepted at UAI'25.
+
 <span style="color:red"> New! </span> Our paper titled "Causal Discovery-Driven Change Point Detection in Time Series" is accepted at AISTATS'25.
 
 <span style="color:red"> New! </span> Our paper titled "Conditional Generative Models are Sufficient to Sample from Any Causal Effect Estimand" is accepted at NeurIPS'24 [here](https://openreview.net/forum?id=vymkuBMLlh).
@@ -24,17 +30,17 @@ News
 
 <span style="color:red"> New! </span> Our paper titled "Counterfactual Fairness by Combining Factual and Counterfactual Predictions" is accepted at NeurIPS'24 [here](https://openreview.net/forum?id=J0Itri0UiN).
 
-<span style="color:red"> New! </span> Our paper titled "Modular Learning of Deep Causal Generative Models for High-dimensional Causal Inference" is accepted at ICML'24 [here](https://proceedings.mlr.press/v235/rahman24a.html).
+Our paper titled "Modular Learning of Deep Causal Generative Models for High-dimensional Causal Inference" is accepted at ICML'24 [here](https://proceedings.mlr.press/v235/rahman24a.html).
 
-<span style="color:red"> New! </span> Our paper titled "Conditional Common Entropy for Instrumental Variable Testing and Partial Identification" is accepted at ICML'24 [here](https://proceedings.mlr.press/v235/jiang24b.html).
+Our paper titled "Conditional Common Entropy for Instrumental Variable Testing and Partial Identification" is accepted at ICML'24 [here](https://proceedings.mlr.press/v235/jiang24b.html).
 
-<span style="color:red"> New! </span> Our paper titled "Adaptive Online Experimental Design for Causal Discovery" is accepted as a Spotlight at ICML'24 [here](https://openreview.net/forum?id=nJzf3TVnOn).
+Our paper titled "Adaptive Online Experimental Design for Causal Discovery" is accepted as a Spotlight at ICML'24 [here](https://openreview.net/forum?id=nJzf3TVnOn).
 
-<span style="color:red"> New! </span> Our lab received an [NSF SMALL grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2348717&HistoricalAwards=false) for causal structure discovery from diverse data!
+Our lab received an [NSF SMALL grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2348717&HistoricalAwards=false) for causal structure discovery from diverse data!
 
-<span style="color:red"> New! </span> Our lab received the Gemma Academic Program GCP Credit Award from Google!
+Our lab received the Gemma Academic Program GCP Credit Award from Google!
 
-<span style="color:red"> New! </span> Our lab received the [Amazon Research Award](https://www.amazon.science/research-awards/recipients/murat-kocaoglu) in AI for Information Security on Causal Anomaly Detection!
+Our lab received the [Amazon Research Award](https://www.amazon.science/research-awards/recipients/murat-kocaoglu) in AI for Information Security on Causal Anomaly Detection!
 
 Our paper titled "Towards Characterizing Domain Counterfactuals for Invertible Latent Causal Models" is accepted at ICLR'24 [here](https://openreview.net/forum?id=v1VvCWJAL8).
 
