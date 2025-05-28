@@ -1,3 +1,54 @@
+- title: "FeDCM: Federated Learning of Deep Causal Generative Models"
+  authors:
+    - "M. M. Rahman"
+    - "M. Kocaoglu"
+  year: 2025
+  month: "July"
+  venue: "Proc. of UAI’25"
+  paper_type: 'ML'
+  location: 'Rio de Janeiro, Brazil'
+  #pdf: 'TBA'
+  #code: ''
+  keywords: 
+    - "federated learning"
+    - "Deep Causal Models"
+    - "Neural Causal Models"
+    
+- title: "Root Cause Analysis of Failures from Partial Causal Structures"
+  authors:
+    - "A. Ikram"
+    - "K. Lee"
+    - "S. Agarwal"
+    - "S. K. Saini"
+    - "S. Bagchi"
+    - "M. Kocaoglu"
+  year: 2025
+  month: "July"
+  venue: "Proc. of UAI’25"
+  paper_type: 'ML'
+  location: 'Rio de Janeiro, Brazil'
+  #pdf: 'TBA'
+  #code: ''
+  keywords: 
+    - "Root-cause analysis"
+    - "RCA"
+    - "partial causal discovery"
+    
+- title: "Constraint-based Causal Discovery from a Collection of Conditioning Sets"
+  authors:
+    - "K. Lee"
+    - "B. Ribeiro"
+    - "M. Kocaoglu"
+  year: 2025
+  month: "July"
+  venue: "Proc. of UAI’25"
+  paper_type: 'ML'
+  location: 'Rio de Janeiro, Brazil'
+  #pdf: ''
+  #code: ''
+  keywords: 
+    - "causal discovery"
+
 - title: "Causal Discovery-Driven Change Point Detection in Time Series"
   authors:
     - "S. Gao"
