@@ -10,10 +10,12 @@ redirect_from:
 
 Research
 ======
-I am an Assistant Professor in The Elmore Family School of Electrical and Computer Engineering, the Department of Computer Science (by courtesy) and the Department of Statistics (by courtesy) at Purdue University. My current research focuses on developing fundamental causal inference and causal discovery algorithms and how to integrate them into causal machine learning solutions.  
+I am an Assistant Professor in The Elmore Family School of Electrical and Computer Engineering, the Department of Computer Science (by courtesy) and the Department of Statistics (by courtesy) at Purdue University. I will be joining Johns Hopkins University's Computer Science Department in Fall 2025. My current research focuses on developing fundamental causal inference and causal discovery algorithms and how to integrate them into causal machine learning solutions.  
 
 News
 ======
+<span style="color:red"> New! </span> I will be joining the Department of Computer Science at Johns Hopkins University in Fall 2025!
+
 <span style="color:red"> New! </span> Our paper titled "Root Cause Analysis of Failures from Partial Causal Structures" is accepted at UAI'25.
 
 <span style="color:red"> New! </span> Our paper titled "Constraint-based Causal Discovery from a Collection of Conditioning Sets" is accepted at UAI'25.
