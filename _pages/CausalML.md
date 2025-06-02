@@ -56,6 +56,7 @@ Our group's research is focused on developing fundamental algorithms for causal 
 We are interested in leveraging the representation capabilities of deep neural networks to enable sampling from causal queries in the presence of high-dimensional variables such as images. 
 
 ### Related Publications
+4. M. M. Rahman, M. Kocaoglu, "FeDCM: Federated Learning of Deep Causal Generative Models," in Proc. of **UAI'25**, Rio de Janeiro, Brazil, July 2025.
 3. M. M. Rahman\*, M. Jordan\*, M. Kocaoglu, "[Conditional Generative Models are Sufficient to Sample from Any Causal Effect Estimand](https://arxiv.org/abs/2402.07419)," in Proc. of **NeurIPS'24**, Vancouver, Canada, Dec. 2024.
 2. M. M. Rahman, M. Kocaoglu, "[Modular Learning of Deep Causal Generative Models for High-dimensional Causal Inference](https://arxiv.org/abs/2401.01426)," in Proc. of **ICML'24**, Vienna, Austria, July 2024.
 1. M. Kocaoglu\*, C. Snyder\*, A. G. Dimakis, S. Vishwanath, "[CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training](https://openreview.net/forum?id=BJE-4xW0W)," in Proc. of **ICLR'18**, Vancouver, Canada,  May 2018.  
@@ -63,7 +64,8 @@ We are interested in leveraging the representation capabilities of deep neural n
 <a name="security"></a>
 ## *Causal Methods for Computer Security*
 We develop principled methods for root-cause analysis and change point detection. 
-3. S. Gao, R. Addanki, T. Yu, R. A. Rossi, M. Kocaoglu, "[Causal Discovery-Driven Change Point Detection in Time Series](https://openreview.net/forum?id=3tV5AtAXk0)," in Proc. of ** AISTATS'25**, May 2025.
+4. A. Ikram, K. Lee, S. Agarwal, S. K. Saini, S. Bagchi, M. Kocaoglu, "Root Cause Analysis of Failures from Partial Causal Structures," in Proc. of **UAI'25**, Rio de Janeiro, Brazil, July 2025.
+3. S. Gao, R. Addanki, T. Yu, R. A. Rossi, M. Kocaoglu, "[Causal Discovery-Driven Change Point Detection in Time Series](https://openreview.net/forum?id=3tV5AtAXk0)," in Proc. of **AISTATS'25**, May 2025.
 2. S. Gao, R. Addanki, T. Yu, R. A. Rossi, M. Kocaoglu, “Causal Discovery in Semi-Stationary Time Series,” in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
 1. M. A. Ikram, S. Chakraborty, S. Mitra, S. Saini, S. Bagchi, M. Kocaoglu, "[Root Cause Analysis of Failures in Microservices through Causal Discovery](https://openreview.net/pdf?id=weoLjoYFvXY)," in Proc. of **NeurIPS'22**, Dec. 2022.
 
@@ -79,6 +81,7 @@ We explore the fundamentals of online learning from a causal perspective and dev
 <a name="discovery"></a>
 ## *Fundamentals of Causal Discovery*
 We explore the limits of causal knowledge that can be extracted from data under well-defined assumptions and develop causal discovery algorithms to achieve these limits. 
+14. K. Lee, B. Ribeiro, M. Kocaoglu, "Constraint-based Causal Discovery from a Collection of Conditioning Sets," in Proc. of **UAI'25**, Rio de Janeiro, Brazil, July 2025.
 13. Z. Zhou, M. Q. Elahi, M. Kocaoglu, "Sample Efficient Bayesian Learning of Causal Graphs from Interventions," in Proc. of **NeurIPS’24**, Vancouver, Canada, Dec. 2024.
 12. M. Kocaoglu, "Characterization and Learning of Causal Graphs with Small Conditioning Sets," in Proc. of **NeurIPS'23**, New Orleans, LA, 2023.
 11. A. Shah, K. Shanmugam, M. Kocaoglu, "Front-door Adjustment Beyond Markov Equivalence with Limited Graph Knowledge," in Proc. of **NeurIPS'23**, New Orleans, LA, USA, Dec. 2023.
