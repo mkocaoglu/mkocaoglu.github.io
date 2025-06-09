@@ -28,7 +28,7 @@
   paper_type: 'ML'
   location: 'Rio de Janeiro, Brazil'
   #pdf: 'TBA'
-  #code: ''
+  code: 'https://github.com/azamikram/rcg'
   keywords: 
     - "Root-cause analysis"
     - "RCA"
