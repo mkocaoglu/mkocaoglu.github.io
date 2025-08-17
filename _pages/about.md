@@ -26,13 +26,13 @@ News
 
 <span style="color:red"> New! </span> Our paper titled "Causal Discovery-Driven Change Point Detection in Time Series" is accepted at AISTATS'25.
 
-<span style="color:red"> New! </span> Our paper titled "Conditional Generative Models are Sufficient to Sample from Any Causal Effect Estimand" is accepted at NeurIPS'24 [here](https://openreview.net/forum?id=vymkuBMLlh).
+Our paper titled "Conditional Generative Models are Sufficient to Sample from Any Causal Effect Estimand" is accepted at NeurIPS'24 [here](https://openreview.net/forum?id=vymkuBMLlh).
 
-<span style="color:red"> New! </span> Our paper titled "Sample Efficient Bayesian Learning of Causal Graphs from Interventions" is accepted at NeurIPS'24 [here](https://openreview.net/forum?id=RfSvAom7sS).
+Our paper titled "Sample Efficient Bayesian Learning of Causal Graphs from Interventions" is accepted at NeurIPS'24 [here](https://openreview.net/forum?id=RfSvAom7sS).
 
-<span style="color:red"> New! </span> Our paper titled "Partial Structure Discovery is Sufficient for No-regret Learning in Causal Bandits" is accepted at NeurIPS'24 [here](https://openreview.net/forum?id=uM3rQ14iex).
+Our paper titled "Partial Structure Discovery is Sufficient for No-regret Learning in Causal Bandits" is accepted at NeurIPS'24 [here](https://openreview.net/forum?id=uM3rQ14iex).
 
-<span style="color:red"> New! </span> Our paper titled "Counterfactual Fairness by Combining Factual and Counterfactual Predictions" is accepted at NeurIPS'24 [here](https://openreview.net/forum?id=J0Itri0UiN).
+Our paper titled "Counterfactual Fairness by Combining Factual and Counterfactual Predictions" is accepted at NeurIPS'24 [here](https://openreview.net/forum?id=J0Itri0UiN).
 
 Our paper titled "Modular Learning of Deep Causal Generative Models for High-dimensional Causal Inference" is accepted at ICML'24 [here](https://proceedings.mlr.press/v235/rahman24a.html).
 
