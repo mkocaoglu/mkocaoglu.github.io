@@ -16,6 +16,8 @@ News
 ======
 <span style="color:red"> New! </span> Our paper titled "Characterization and Learning of Causal Graphs from Hard Interventions" has been accepted at NeurIPS'25. A preliminary draft can be accessed [here](https://arxiv.org/abs/2505.01037).
 
+<span style="color:red"> New! </span> Our paper titled "Differentiable Constraint-Based Causal Discovery" has been accepted at NeurIPS'25.
+
 <span style="color:red"> New! </span> I presented a tutorial in UAI 2025 with Musfiqur Rahman on ``Causal Inference with Deep Learning and Generative Models". Slides are [here](https://drive.google.com/file/d/1Qawv0VSqY4yOoMkvkTsM69Klb1ZdqL_F/view).
 
 <span style="color:red"> New! </span> I will be joining the Department of Computer Science at Johns Hopkins University in Fall 2025!
