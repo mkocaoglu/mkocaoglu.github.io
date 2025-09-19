@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-I am looking for prospective PhD and MS students who are enthusiastic about doing fundamental work in causality and machine learning. In order of importance, things I look for in a Ph.D. candidate are motivation to do good research, mathematical maturity, a strong undergrad-level background in probability theory and linear algebra, and research experience (optional). 
+I am looking for prospective PhD and MS students who are enthusiastic about doing fundamental work in causality and machine learning. In order of importance, things I look for in a candidate are motivation to do good research, mathematical maturity, a strong undergrad-level background in probability theory and linear algebra, and research experience (optional). 
 
 If you think you would be a good fit for our lab, please send me an email with your interests and CV with the subject line containing the word "Prospective". Please apply [here](https://www.cs.jhu.edu/academic-programs/graduate-studies/phd-program/phd-program-admissions/).
 
@@ -21,4 +21,4 @@ If you think you would be a good fit for our lab, please send me an email with y
 [//]: # "- It is always a good idea to apply to graduate schools where you have multiple faculty that you can see yourself working with. You can check the current Purdue ECE faculty [here](https://engineering.purdue.edu/ECE/People/Faculty). " 
 
 ### For Undergraduates:
-Our lab is open to undergraduates from related departments who would like to gain theoretical research experience. You must have taken an undergraduate probability class, and be ready to contribute consistently in the assigned project. Feel free to send me an e-mail if you satisfy these criteria. 
+Our lab is open to undergraduates from related departments who would like to gain research experience. You must have taken an undergraduate probability class, and be ready to contribute consistently in the assigned project. Feel free to send me an e-mail if you satisfy these criteria. 
