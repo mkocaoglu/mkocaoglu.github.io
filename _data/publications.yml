@@ -1,3 +1,42 @@
+- title: "Characterization and Learning of Causal Graphs from Hard Interventions"
+  authors:
+    - "Z. Zhou"
+    - "M. Q. Elahi"
+    - "M. Kocaoglu"
+  year: 2025
+  month: "December"
+  venue: "Proc. of NeurIPS’25"
+  paper_type: 'ML'
+  location: 'San Diego, USA'
+  pdf: TBA #'https://openreview.net/forum?id=RfSvAom7sS'
+  code: TBA #'https://github.com/CausalML-Lab/Bayesian_SampleEfficient_Discovery'
+  keywords: 
+    - "causal discovery"
+    - "hard interventions"
+    - "latent confounders"
+    - "I-MEC"
+
+- title: "Differentiable Constraint-Based Causal Discovery"
+  authors:
+    - "J. Zhou"
+    - "M. Wang"
+    - "A. He"
+    - "Y. Zhou"
+    - "H. Olya"
+    - "M. Kocaoglu"
+    - "B. Ribeiro"
+  year: 2025
+  month: "December"
+  venue: "Proc. of NeurIPS’25"
+  paper_type: 'ML'
+  location: 'San Diego, USA'
+  pdf: TBA #'https://openreview.net/forum?id=RfSvAom7sS'
+  code: TBA #'https://github.com/CausalML-Lab/Bayesian_SampleEfficient_Discovery'
+  keywords: 
+    - "causal discovery"
+    - "differentiable causal discovery"
+    - "kPC"
+
 - title: "FeDCM: Federated Learning of Deep Causal Generative Models"
   authors:
     - "M. M. Rahman"
