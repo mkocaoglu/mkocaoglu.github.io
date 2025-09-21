@@ -22,3 +22,7 @@ If you think you would be a good fit for our lab, please send me an email with y
 
 ### For Undergraduates:
 Our lab is open to undergraduates from related departments who would like to gain research experience. You must have taken an undergraduate probability class, and be ready to contribute consistently in the assigned project. Feel free to send me an e-mail if you satisfy these criteria. 
+
+
+### Tips for post-LLM apocalypse:
+Do not use LLMs to write your email for you. Keep your email short. Make sure to attach your CV and transcripts to your initial email. Bonus points if you have read and understood at least one paper from our lab. Do not use LLMs to read the said paper for you. 
