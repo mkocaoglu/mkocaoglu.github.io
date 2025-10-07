@@ -14,6 +14,8 @@ I am currently an Assistant Professor in the Computer Science Department at John
 
 News
 ======
+<span style="color:red"> New! </span> Our paper titled "Identification of Average Outcome under Interventions in Confounded Additive Noise Models" has been accepted at TMLR with minor revisions. A preliminary draft can be accessed [here](https://openreview.net/forum?id=y5YnHzLf1d).
+
 <span style="color:red"> New! </span> Our paper titled "Characterization and Learning of Causal Graphs from Hard Interventions" has been accepted at NeurIPS'25. A preliminary draft can be accessed [here](https://arxiv.org/abs/2505.01037).
 
 <span style="color:red"> New! </span> Our paper titled "Differentiable Constraint-Based Causal Discovery" has been accepted at NeurIPS'25.
