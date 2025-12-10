@@ -10,6 +10,9 @@ I am looking for prospective PhD and MS students who are enthusiastic about doin
 
 If you think you would be a good fit for our lab, please send me an email with your interests and CV with the subject line containing the word "Prospective". Please apply [here](https://www.cs.jhu.edu/academic-programs/graduate-studies/phd-program/phd-program-admissions/).
 
+### Postdoctoral Positions
+
+I have open post-doctoral researcher positions in my lab. A postdoctoral researcher should have everything listed above for PhD candidates, plus have a strong publication record in NeurIPS, ICML, UAI, AAAI, and have (or soon will have) a PhD in a related field such as Computer Science, Electrical Engineering, Applied Math, etc.
 
 [//]: # "If you decide to apply to Purdue ECE, make sure to indicate your interest to work with me in your application materials where it is appropriate. A detailed description of which research projects you are interested in the most would be helpful." 
 
