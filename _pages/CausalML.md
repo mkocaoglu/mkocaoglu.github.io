@@ -133,4 +133,4 @@ Information-theoretic tools provide us with ways to go beyond the boundaries of 
 <br/>
 
 # Acknowledgement
-Our lab is currently supported by the National Science Foundation (NSF), Adobe Research, Amazon, and Google. 
+Our lab is currently supported by the National Science Foundation (NSF), Adobe Research, Amazon, Google, and Intuit. 
