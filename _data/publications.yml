@@ -1,3 +1,23 @@
+- title: "Stationarity-Aware Causal Discovery in Time Series via Minimal Separating Sets"
+  authors: 
+    - "S. Gao"
+    - "R. Addanki"
+    - "T. Yu"
+    - "R. A. Rossi"
+    - "Q. Song"
+    - "M. Kocaoglu"
+  year: 2026
+  month: "May"
+  venue: "Proc. of AISTATS 2026"
+  paper_type: 'ML'
+  #location: 'San Diego, USA'
+  pdf: TBA #'https://openreview.net/forum?id=RfSvAom7sS'
+  code: TBA #'https://github.com/CausalML-Lab/Bayesian_SampleEfficient_Discovery'
+  keywords: 
+    - "causal discovery"
+    - "time series"
+    - "stationary"
+    
 - title: "Identification of Average Outcome under Interventions in Confounded Additive Noise Models"
   authors:
     - "M. Q. Elahi"
