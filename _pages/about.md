@@ -14,6 +14,8 @@ I am currently an Assistant Professor in the Computer Science Department at John
 
 News
 ======
+<span style="color:red"> New! </span> Our paper titled "Stationarity-Aware Causal Discovery in Time Series via Minimal Separating Sets" has been accepted at AISTATS 2026!
+
 <span style="color:red"> New! </span> We are organizing a workshop in AISTATS 2026 on "Causality in the Age of AI Scaling". Please submit your work. The workshop website and paper submission portal are coming soon!
 
 <span style="color:red"> New! </span> Our paper titled "Identification of Average Outcome under Interventions in Confounded Additive Noise Models" has been accepted at TMLR with minor revisions. A preliminary draft can be accessed [here](https://openreview.net/forum?id=y5YnHzLf1d).
