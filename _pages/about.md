@@ -10,7 +10,7 @@ redirect_from:
 
 Research
 ======
-I am currently an Assistant Professor in the Computer Science Department at Johns Hopkins University.  My current research focuses on developing fundamental causal inference and causal discovery algorithms and how to integrate them into causal machine learning solutions. I am a member of the Johns Hopkins Data Science and AI Institute (DSAI). 
+I am an Assistant Professor in the Computer Science Department at Johns Hopkins University.  My research focuses on developing fundamental causal inference and causal discovery algorithms and integrating them into causal machine learning solutions. I am a member of the Johns Hopkins Data Science and AI Institute (DSAI). 
 
 News
 ======
