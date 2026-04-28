@@ -14,7 +14,8 @@ author_profile: true
 * AAAI (since 2021)
 * AISTATS (since 2023)
 * UAI (since 2023)
-* ACML (since 2022)
+* IEEE Transactions on Signal Processing (Area Editor since 2026)
+* ACML (since 2022-2024)
 
 ## Talks and Activities
 34. Invited Talk on "Uncertainty aware Causal Decision Making via Effect Bound Decomposition," KUIS AI Talks, Koc University, Online, Apr. 2026.
