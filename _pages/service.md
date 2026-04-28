@@ -17,6 +17,16 @@ author_profile: true
 * ACML (since 2022)
 
 ## Talks and Activities
+34. Invited Talk on "Uncertainty aware Causal Decision Making via Effect Bound Decomposition," KUIS AI Talks, Koc University, Online, Apr. 2026.
+	
+33. Organizer of AISTATS 2026 Workshop on Causality in the Age of AI Scaling, Tangier, Morocco, May 2026.
+	
+32. Invited Talk on "Causal Inference with Deep Generative Models," AI Keynote Series, Institute of AI in Management, LMU Munich, Online, Jan. 8, 2025.
+
+31. Invited Talk on "Causal Inference with Deep Generative Models," MINDS/CIS Seminar Series, Nov. 4, 2025.
+
+30. Tutorial on "Causal Inference with Deep Learning and Generative Models," co-presented with Md. Musfiqur Rahman, UAI 2025, Rio de Janeiro, Brazil, July 2025.
+
 29. Invited Talk on "Causal Machine Learning: Fundamentals and Applications", CCAIM Seminar Series, University of Cambridge, Nov. 2024.   
 
 28. Invited Talk on "Causal Machine Learning: Fundamentals and Applications", Computer Science Seminar, Johns Hopkins University, Nov. 2024. 
