@@ -14,6 +14,11 @@ I am an Assistant Professor in the Computer Science Department at Johns Hopkins 
 
 News
 ======
+
+<span style="color:red"> New! </span> Our paper titled "Root Cause Analysis of Failures in Microservices via Bayesian Root Cause Discovery" has been accepted at ICML'26 as a Spotlight paper!
+
+<span style="color:red"> New! </span> Our paper titled "Towards Completeness in Causal Discovery from Soft Interventions with Known Targets" has been accepted at ICML'26!
+
 <span style="color:red"> New! </span> We are organizing a workshop on Causality in the Age of AI Scaling! Please submit your short paper. The workshop website with more details is [here](https://causcale.github.io/).
 
 <span style="color:red"> New! </span> Our paper titled "Stationarity-Aware Causal Discovery in Time Series via Minimal Separating Sets" has been accepted at AISTATS 2026!
@@ -34,7 +39,7 @@ News
 
 <span style="color:red"> New! </span> Our paper titled "FeDCM: Federated Learning of Deep Causal Generative Models" is accepted at UAI'25.
 
-<span style="color:red"> New! </span> Our paper titled "Causal Discovery-Driven Change Point Detection in Time Series" is accepted at AISTATS'25.
+Our paper titled "Causal Discovery-Driven Change Point Detection in Time Series" is accepted at AISTATS'25.
 
 Our paper titled "Conditional Generative Models are Sufficient to Sample from Any Causal Effect Estimand" is accepted at NeurIPS'24 [here](https://openreview.net/forum?id=vymkuBMLlh).
 
