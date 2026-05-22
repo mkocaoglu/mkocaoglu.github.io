@@ -1,3 +1,33 @@
+- title: "Root Cause Analysis of Failures in Microservices via Bayesian Root Cause Discovery"
+  authors:
+    - "K. Lee"
+    - "Z. Zhou"
+    - "M. Kocaoglu"
+  year: 2026
+  month: "July"
+  venue: "Proc. of ICML’26 (Spotlight)"
+  paper_type: 'ML'
+  location: 'Seoul, South Korea'
+  #pdf: 'https://proceedings.mlr.press/v235/rahman24a.html'
+  #code: 'https://github.com/CausalML-Lab/Modular-DCM'
+  keywords: 
+    - "RCA"
+    - "Bayesian"
+    
+- title: "Towards Completeness in Causal Discovery from Soft Interventions with Known Targets"
+  authors:
+    - "Z. Zhou"
+    - "M. Kocaoglu"
+  year: 2026
+  month: "July"
+  venue: "Proc. of ICML’26"
+  paper_type: 'ML'
+  location: 'Seoul, South Korea'
+  #pdf: 'https://proceedings.mlr.press/v235/rahman24a.html'
+  #code: 'https://github.com/CausalML-Lab/Modular-DCM'
+  keywords: 
+    - "causal discovery"
+
 - title: "Stationarity-Aware Causal Discovery in Time Series via Minimal Separating Sets"
   authors: 
     - "S. Gao"
