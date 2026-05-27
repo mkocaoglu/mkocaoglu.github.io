@@ -9,6 +9,15 @@ redirect_from:
   - "/blog.html"
 ---
 
+<p > <span style="font-weight: bold;font-size: 24px;"> How to fight loneliness </span> <span style="font-style: italic;font-size: 20px;float:right;">May 27, 2026</span> </p>  
+
+In the midst of the heavily algorithmized modern lifestyle, our attention spans are viewed as a commodity, and optimized algorithms on our phones are playing a tug of war with it. 
+
+The reason so many human connections, relationships die off after one or two interactions is maybe this: No single soul can compete with the algorithms, no single person is that interesting, that exciting. We are subconsciously looking for finding one that is better than our instagram feeds, twitter walls, and youtube suggestions, combined. Modernity is shackling us to loneliness dressed as "social" media.  
+
+What we owe to our ancestors, our descendants, and to society in the present day is to not be a friend whose attention span others feel they have to fight for.  
+
+
 <p > <span style="font-weight: bold;font-size: 24px;"> All it takes is a global pandemic...  </span> <span style="font-style: italic;font-size: 20px;float:right;">November 28, 2020</span> </p>  
 
 We all want to make changes in our lives: "I wish I drank less coffee", "I wish I started working out regularly". But when it comes to implementing these changes, many people give up after a few days or weeks and go back to their old ways. 
