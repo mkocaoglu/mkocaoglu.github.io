@@ -14,6 +14,7 @@ I am an Assistant Professor in the Computer Science Department at Johns Hopkins 
 
 News
 ======
+<span style="color:red"> New! </span> Our paper titled "Decomposing Epistemic Uncertainty for Causal Decision Making" has been accepted at The 2nd Workshop on Epistemic Intelligence in Machine Learning at ICML'26 as a Spotlight presentation!
 
 <span style="color:red"> New! </span> Our paper titled "Root Cause Analysis of Failures in Microservices via Bayesian Root Cause Discovery" has been accepted at ICML'26 as a Spotlight paper!
 
