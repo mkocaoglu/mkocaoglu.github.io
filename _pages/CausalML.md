@@ -22,7 +22,7 @@ Causal reasoning is essential for artificial intelligence and machine learning. 
 <img src="/images/lablogo.png" width="140">
 </div>
 </div>
-<div style="margin-bottom: -40px;"></div>
+
 * [High-dimensional Causal Inference with Deep Generative Models](#high-dim)
 {: .toc-indent}
 * [Causal Methods for Computer Security](#security)
