@@ -1,0 +1,49 @@
+/* ==========================================================================
+   Site-specific custom styles (Murat Kocaoglu)
+
+   All personal style rules live here instead of being inlined in pages or
+   edited into the theme's own partials. This file is imported last from
+   assets/css/main.scss, so these rules take precedence over theme defaults.
+
+   Variable overrides (sidebar width, breakpoints) live at the TOP of
+   assets/css/main.scss, because SCSS variables must be set before the theme
+   is imported.
+   ========================================================================== */
+
+/* "New!" highlight in the News section.
+   (Replaces 14 repeated inline `<span style="color:red">` in _pages/about.md.) */
+.new {
+  color: red;
+}
+
+/* Indented bullet items in the research-pillars list on the CausalML page.
+   (Replaces repeated inline `{: style="margin-left: 40px"}` in _pages/CausalML.md.) */
+.toc-indent {
+  margin-left: 40px;
+}
+
+/* Centered banner image at the top of pages.
+   (Replaces a hardcoded, absolute-URL `<center><img>` duplicated across
+   _layouts/default.html, blog.html and ece695.html; see _includes/page-banner.html.) */
+.site-banner {
+  text-align: center;
+}
+.site-banner img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Numbered publication list on the Publications page.
+   (Moved out of an inline `<style>` block in _pages/publications.md.) */
+.pub-container {
+  display: flex;
+  margin-bottom: 1.5em;
+}
+.pub-number {
+  flex: 0 0 2.5em; /* fixed width for the [n] numbers */
+  text-align: right;
+  padding-right: 1em;
+}
+.pub-content {
+  flex: 1;
+}

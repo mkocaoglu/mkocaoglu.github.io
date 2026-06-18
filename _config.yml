@@ -63,7 +63,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &murat_kocaoglu_
+  username               : "murat_kocaoglu_"
 facebook:
   username               :
   app_id                 :
@@ -272,7 +272,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: false
+      comments: false
   # _talks
   - scope:
       path: ""
@@ -367,13 +367,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
+# (No `whitelist:` needed: GitHub Pages ignores it on deploy, and every plugin
+#  listed under `plugins:` above is supported by the github-pages gem.)
 
 
 # Archives

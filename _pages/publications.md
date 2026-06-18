@@ -4,21 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-<style>
-.pub-container {
-  display: flex;
-  margin-bottom: 1.5em;
-}
-.pub-number {
-  flex: 0 0 2.5em; /* Fixed width for numbers */
-  text-align: right;
-  padding-right: 1em;
-}
-.pub-content {
-  flex: 1;
-}
-</style>
-
 ## Machine Learning / AI
 {% assign counter = 1 %}
 {% for pub in site.data.publications %}

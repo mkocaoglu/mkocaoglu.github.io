@@ -11,6 +11,15 @@
 */
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
+
+// ---- Site-specific overrides (set BEFORE the theme import so they win) -------
+//      Right sidebar removed site-wide; "large" breakpoint tightened to 925px.
+$right-sidebar-width-narrow : 0px;
+$right-sidebar-width        : 0px;
+$right-sidebar-width-wide   : 0px;
+$large                      : 925px;
+// ------------------------------------------------------------------------------
+
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
@@ -40,3 +49,4 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+@import "custom"; // site-specific custom rules (see _sass/_custom.scss)

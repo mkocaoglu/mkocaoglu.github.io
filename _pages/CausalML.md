@@ -24,17 +24,17 @@ Causal reasoning is essential for artificial intelligence and machine learning. 
 </div>
 <div style="margin-bottom: -40px;"></div>
 * [High-dimensional Causal Inference with Deep Generative Models](#high-dim)
-{: style="margin-left: 40px"}
+{: .toc-indent}
 * [Causal Methods for Computer Security](#security)
-{: style="margin-left: 40px"}
+{: .toc-indent}
 * [Causal Bandit Algorithms](#bandits)
-{: style="margin-left: 40px"}
+{: .toc-indent}
 * [Fundamentals of Causal Discovery](#discovery)
-{: style="margin-left: 40px"}
+{: .toc-indent}
 * [Causal Machine Learning](#causal-ml)
-{: style="margin-left: 40px"}
+{: .toc-indent}
 * [Practical and Approximate Causal Reasoning via Information-theoretic Methods](#entropic)
-{: style="margin-left: 40px"}
+{: .toc-indent}
 
 The code repositories for accepted papers can be found on our lab's GitHub page at
 [https://github.com/CausalML-Lab](https://github.com/CausalML-Lab).

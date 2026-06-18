@@ -14,31 +14,31 @@ I am an Assistant Professor in the Computer Science Department at Johns Hopkins 
 
 News
 ======
-<span style="color:red"> New! </span> Our paper titled "Decomposing Epistemic Uncertainty for Causal Decision Making" has been accepted at The 2nd Workshop on Epistemic Intelligence in Machine Learning at ICML'26 as a Spotlight presentation!
+<span class="new"> New! </span> Our paper titled "Decomposing Epistemic Uncertainty for Causal Decision Making" has been accepted at The 2nd Workshop on Epistemic Intelligence in Machine Learning at ICML'26 as a Spotlight presentation!
 
-<span style="color:red"> New! </span> Our paper titled "Root Cause Analysis of Failures in Microservices via Bayesian Root Cause Discovery" has been accepted at ICML'26 as a Spotlight paper!
+<span class="new"> New! </span> Our paper titled "Root Cause Analysis of Failures in Microservices via Bayesian Root Cause Discovery" has been accepted at ICML'26 as a Spotlight paper!
 
-<span style="color:red"> New! </span> Our paper titled "Towards Completeness in Causal Discovery from Soft Interventions with Known Targets" has been accepted at ICML'26!
+<span class="new"> New! </span> Our paper titled "Towards Completeness in Causal Discovery from Soft Interventions with Known Targets" has been accepted at ICML'26!
 
-<span style="color:red"> New! </span> We are organizing a workshop on Causality in the Age of AI Scaling! Please submit your short paper. The workshop website with more details is [here](https://causcale.github.io/).
+<span class="new"> New! </span> We are organizing a workshop on Causality in the Age of AI Scaling! Please submit your short paper. The workshop website with more details is [here](https://causcale.github.io/).
 
-<span style="color:red"> New! </span> Our paper titled "Stationarity-Aware Causal Discovery in Time Series via Minimal Separating Sets" has been accepted at AISTATS 2026!
+<span class="new"> New! </span> Our paper titled "Stationarity-Aware Causal Discovery in Time Series via Minimal Separating Sets" has been accepted at AISTATS 2026!
 
-<span style="color:red"> New! </span> Our paper titled "Identification of Average Outcome under Interventions in Confounded Additive Noise Models" has been accepted at TMLR with minor revisions. A preliminary draft can be accessed [here](https://openreview.net/forum?id=y5YnHzLf1d).
+<span class="new"> New! </span> Our paper titled "Identification of Average Outcome under Interventions in Confounded Additive Noise Models" has been accepted at TMLR with minor revisions. A preliminary draft can be accessed [here](https://openreview.net/forum?id=y5YnHzLf1d).
 
-<span style="color:red"> New! </span> Our paper titled "Characterization and Learning of Causal Graphs from Hard Interventions" has been accepted at NeurIPS'25. A preliminary draft can be accessed [here](https://arxiv.org/abs/2505.01037).
+<span class="new"> New! </span> Our paper titled "Characterization and Learning of Causal Graphs from Hard Interventions" has been accepted at NeurIPS'25. A preliminary draft can be accessed [here](https://arxiv.org/abs/2505.01037).
 
-<span style="color:red"> New! </span> Our paper titled "Differentiable Constraint-Based Causal Discovery" has been accepted at NeurIPS'25. A preliminary draft can be accessed [here](https://arxiv.org/abs/2510.22031).
+<span class="new"> New! </span> Our paper titled "Differentiable Constraint-Based Causal Discovery" has been accepted at NeurIPS'25. A preliminary draft can be accessed [here](https://arxiv.org/abs/2510.22031).
 
-<span style="color:red"> New! </span> I presented a tutorial in UAI 2025 with Musfiqur Rahman on ``Causal Inference with Deep Learning and Generative Models". Slides are [here](https://www.auai.org/uai2025/slides/Tutorial%204.pdf).
+<span class="new"> New! </span> I presented a tutorial in UAI 2025 with Musfiqur Rahman on ``Causal Inference with Deep Learning and Generative Models". Slides are [here](https://www.auai.org/uai2025/slides/Tutorial%204.pdf).
 
-<span style="color:red"> New! </span> I will be joining the Department of Computer Science at Johns Hopkins University in Fall 2025!
+<span class="new"> New! </span> I will be joining the Department of Computer Science at Johns Hopkins University in Fall 2025!
 
-<span style="color:red"> New! </span> Our paper titled "Root Cause Analysis of Failures from Partial Causal Structures" is accepted at UAI'25.
+<span class="new"> New! </span> Our paper titled "Root Cause Analysis of Failures from Partial Causal Structures" is accepted at UAI'25.
 
-<span style="color:red"> New! </span> Our paper titled "Constraint-based Causal Discovery from a Collection of Conditioning Sets" is accepted at UAI'25.
+<span class="new"> New! </span> Our paper titled "Constraint-based Causal Discovery from a Collection of Conditioning Sets" is accepted at UAI'25.
 
-<span style="color:red"> New! </span> Our paper titled "FeDCM: Federated Learning of Deep Causal Generative Models" is accepted at UAI'25.
+<span class="new"> New! </span> Our paper titled "FeDCM: Federated Learning of Deep Causal Generative Models" is accepted at UAI'25.
 
 Our paper titled "Causal Discovery-Driven Change Point Detection in Time Series" is accepted at AISTATS'25.
 
@@ -85,7 +85,7 @@ Our paper titled "Minimum-Entropy Coupling Approximation Guarantees Beyond the M
 Our paper titled "Root Cause Analysis of Failures in Microservices through Causal Discovery" is accepted at NeurIPS'22 [here](https://openreview.net/pdf?id=weoLjoYFvXY).
 
 Our paper titled "Entropic Causal Inference: Graph Identifiability" is accepted at ICML'22. Preprint coming soon.
-<!--- <span style="color:red"> New! </span> I am looking for PhD students to start in Fall-22, who are enthusiastic and motivated to do fundamental research in causal inference, causal discovery with applications in machine learning and reinforcement learning. Students from under-represented minorities are encouraged to apply. --->
+<!--- <span class="new"> New! </span> I am looking for PhD students to start in Fall-22, who are enthusiastic and motivated to do fundamental research in causal inference, causal discovery with applications in machine learning and reinforcement learning. Students from under-represented minorities are encouraged to apply. --->
 
 Our lab received the [Adobe Data Science Research Award](https://research.adobe.com/data-science-research-awards/) for the project _Causal Discovery for Root Cause Analysis_. 
 
