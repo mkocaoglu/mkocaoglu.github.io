@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /CausalML/
 title: "CausalML Lab"
 author_profile: true

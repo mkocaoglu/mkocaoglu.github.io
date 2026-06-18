@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "For Prospective Students"
 permalink: /prospective/
 author_profile: true
