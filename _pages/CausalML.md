@@ -48,6 +48,9 @@ The code repositories for accepted papers can be found on our lab's GitHub page 
 - Qasim Elahi [📄](https://qasimelahi.github.io/QasimElahi/)
 - Zihan Zhou [📄](https://sites.google.com/view/zihan-zhou/home)
 
+## *Postdoctoral Researchers*
+- Chi Zhang [📄](https://scholar.google.com/citations?hl=en&user=f5z0A_0AAAAJ&view_op=list_works&sortby=pubdate)
+
 # Projects
 Our group's research is focused on developing fundamental algorithms for causal discovery and inference from data, and exploring the connections between causality and machine learning, information theory, graph theory, deep learning, online learning. Some threads we focus on are as follows. 
 
