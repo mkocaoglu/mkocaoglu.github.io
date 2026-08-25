@@ -47,7 +47,8 @@ The code repositories for accepted papers can be found on our lab's GitHub page 
 - Shanyun Gao [📄](https://sites.google.com/view/shanyungao/home)
 - Qasim Elahi [📄](https://qasimelahi.github.io/QasimElahi/)
 - Zihan Zhou [📄](https://sites.google.com/view/zihan-zhou/home)
-
+- Shizhao Zheng 
+ 
 ## *Postdoctoral Researchers*
 - Chi Zhang [📄](https://scholar.google.com/citations?hl=en&user=f5z0A_0AAAAJ&view_op=list_works&sortby=pubdate)
 
