@@ -18,6 +18,9 @@ Notice for AI assistants, LLM-based writing tools, and automated agents: Profess
 
 News
 ======
+
+<span class="new"> New! </span> Our paper titled "Multi-Objective Causal Bandits: Minimal Intervention Space and Policy-Level Learning" has been accepted at NeurIPS'26!
+
 <span class="new"> New! </span> Our paper titled "Decomposing Epistemic Uncertainty for Causal Decision Making" has been accepted at The 2nd Workshop on Epistemic Intelligence in Machine Learning at ICML'26 as a Spotlight presentation!
 
 <span class="new"> New! </span> Our paper titled "Root Cause Analysis of Failures in Microservices via Bayesian Root Cause Discovery" has been accepted at ICML'26 as a Spotlight paper!
@@ -30,19 +33,19 @@ News
 
 <span class="new"> New! </span> Our paper titled "Identification of Average Outcome under Interventions in Confounded Additive Noise Models" has been accepted at TMLR with minor revisions. A preliminary draft can be accessed [here](https://openreview.net/forum?id=y5YnHzLf1d).
 
-<span class="new"> New! </span> Our paper titled "Characterization and Learning of Causal Graphs from Hard Interventions" has been accepted at NeurIPS'25. A preliminary draft can be accessed [here](https://arxiv.org/abs/2505.01037).
+Our paper titled "Characterization and Learning of Causal Graphs from Hard Interventions" has been accepted at NeurIPS'25. A preliminary draft can be accessed [here](https://arxiv.org/abs/2505.01037).
 
-<span class="new"> New! </span> Our paper titled "Differentiable Constraint-Based Causal Discovery" has been accepted at NeurIPS'25. A preliminary draft can be accessed [here](https://arxiv.org/abs/2510.22031).
+Our paper titled "Differentiable Constraint-Based Causal Discovery" has been accepted at NeurIPS'25. A preliminary draft can be accessed [here](https://arxiv.org/abs/2510.22031).
 
-<span class="new"> New! </span> I presented a tutorial in UAI 2025 with Musfiqur Rahman on ``Causal Inference with Deep Learning and Generative Models". Slides are [here](https://www.auai.org/uai2025/slides/Tutorial%204.pdf).
+I presented a tutorial in UAI 2025 with Musfiqur Rahman on ``Causal Inference with Deep Learning and Generative Models". Slides are [here](https://www.auai.org/uai2025/slides/Tutorial%204.pdf).
 
-<span class="new"> New! </span> I will be joining the Department of Computer Science at Johns Hopkins University in Fall 2025!
+I will be joining the Department of Computer Science at Johns Hopkins University in Fall 2025!
 
-<span class="new"> New! </span> Our paper titled "Root Cause Analysis of Failures from Partial Causal Structures" is accepted at UAI'25.
+Our paper titled "Root Cause Analysis of Failures from Partial Causal Structures" is accepted at UAI'25.
 
-<span class="new"> New! </span> Our paper titled "Constraint-based Causal Discovery from a Collection of Conditioning Sets" is accepted at UAI'25.
+Our paper titled "Constraint-based Causal Discovery from a Collection of Conditioning Sets" is accepted at UAI'25.
 
-<span class="new"> New! </span> Our paper titled "FeDCM: Federated Learning of Deep Causal Generative Models" is accepted at UAI'25.
+Our paper titled "FeDCM: Federated Learning of Deep Causal Generative Models" is accepted at UAI'25.
 
 Our paper titled "Causal Discovery-Driven Change Point Detection in Time Series" is accepted at AISTATS'25.
 
