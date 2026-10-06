@@ -18,7 +18,7 @@ author_profile: true
 * ACML (since 2022-2024)
 
 ## Talks and Activities
-35. Invited Talk on "Uncertainty-aware Causal Decision Making via Effect Bound Decomposition," Trustworthy AI: From Hallucinations to Reliable Autonomy Workshop, Simons Institute, Oct. 2026. 
+35. Invited Talk on "Uncertainty-aware Causal Decision Making via Effect Bound Decomposition," Trustworthy AI: From Hallucinations to Reliable Autonomy Workshop, Simons Institute, Oct. 2026. You can watch the recording [here](https://www.youtube.com/live/-NfjZ_pyQRg?si=Nml4t-5dKT1gCEKC)
 
 34. Invited Talk on "Uncertainty-aware Causal Decision Making via Effect Bound Decomposition," KUIS AI Talks, Koc University, Online, Apr. 2026.
 	
