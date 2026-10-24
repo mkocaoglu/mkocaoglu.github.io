@@ -44,7 +44,7 @@ The code repositories for accepted papers can be found on our lab's GitHub page 
 - Md Musfiqur Rahman [📄](https://sites.google.com/view/musfiqshohan/)
 - Kenneth Lee [📄](https://kenneth-lee-ch.github.io/)
 - Ziwei Jiang [📄](https://ziwei-jiang.github.io/)
-- Shanyun Gao [📄](https://sites.google.com/view/shanyungao/home)
+- Shanyun Gao [📄](https://shanyun-gao-l.github.io/)
 - Qasim Elahi [📄](https://qasimelahi.github.io/QasimElahi/)
 - Zihan Zhou [📄](https://sites.google.com/view/zihan-zhou/home)
 - Shizhao Zheng 
